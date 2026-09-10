@@ -437,8 +437,58 @@ c:\IP SAKTI RAG\
 ```
 
 ---
+## 12 Phases
 
-## 12. Verification & Evaluation Framework
+PHASE 1: Foundation & Modular Skeleton
+├── Set up production dependencies (pydantic-settings, fastapi, qdrant-client, fastembed, groq, google-genai, upstash-redis)
+├── Centralized Pydantic Settings (.env loader) & structured logger
+└── Core data models (LegalChunk, QueryRequest, QueryResponse, Citation)
+
+PHASE 2: Resilient Source Ingestion & Cloudflare R2 Client
+├── Structured sources.json with working links & fallback mirrors
+├── Resilient HTTP fetcher with custom SSL retry adapter
+└── Cloudflare R2 S3-compatible streaming client
+
+PHASE 3: TOC-Aware Legal Parser & Statutory Chunking
+├── PyMuPDF extractor with TOC stripper and footnote bracket normalizer
+├── Section & Subsection hierarchy builder (guaranteeing Section 3(p))
+└── QA validation script with strict assertion tests
+
+PHASE 4: Vector Indexing & Embedding Engine
+├── In-process BAAI/bge-m3 ONNX embedder via FastEmbed
+├── Qdrant Cloud collection initialization with indexed payload schema
+└── Batch vector upsert pipeline
+
+PHASE 5: Intelligent Query Routing & Pre-Filtering
+├── Intent, jurisdiction, and IP domain classifier
+└── Dynamic Qdrant payload filter builder
+
+PHASE 6: Retrieval, FlashRank Reranking & Evidence Verification
+├── Hybrid retrieval service (pre-filtered dense vector search)
+├── Cross-encoder reranking service (FlashRank)
+└── Multi-source statutory evidence verifier & sufficiency checker
+
+PHASE 7: Grounded LLM Synthesis & Safe Abstention
+├── Multi-provider LLM service (Groq Llama 3.3 70B primary, Gemini fallback)
+├── Statutory grounding system prompt (zero fabrication policy)
+└── Structured response builder with exact citation metadata
+
+PHASE 8: Upstash Redis Caching Layer
+├── Exact query hash caching with corpus version invalidation
+└── Sub-25ms cache retrieval middleware
+
+PHASE 9: FastAPI REST Endpoints & Developer UI
+├── /api/v1/query (JSON response) and /api/v1/query/stream (SSE streaming)
+├── /api/v1/health & /api/v1/admin/ingest endpoints
+└── Swagger UI testing & verification
+
+PHASE 10: Performance Benchmarking & Evaluation Suite
+├── Automated latency benchmark script (Baseline Global Search vs Funnel RAG)
+└── Evaluation script measuring retrieval precision, citation accuracy, and hallucination rate
+
+---
+
+## 13. Verification & Evaluation Framework
 
 To ensure legal accuracy and zero hallucinations, the system is validated against a benchmark dataset of 50 legal test cases covering:
 1. **Direct Traditional Knowledge Exclusions:** Patents Act Sec 3(p), TKDL citations.
