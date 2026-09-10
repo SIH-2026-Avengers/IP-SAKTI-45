@@ -438,7 +438,7 @@ c:\IP SAKTI RAG\
 
 ---
 ## 12 Phases
-
+```
 PHASE 1: Foundation & Modular Skeleton
 ├── Set up production dependencies (pydantic-settings, fastapi, qdrant-client, fastembed, groq, google-genai, upstash-redis)
 ├── Centralized Pydantic Settings (.env loader) & structured logger
@@ -485,7 +485,7 @@ PHASE 9: FastAPI REST Endpoints & Developer UI
 PHASE 10: Performance Benchmarking & Evaluation Suite
 ├── Automated latency benchmark script (Baseline Global Search vs Funnel RAG)
 └── Evaluation script measuring retrieval precision, citation accuracy, and hallucination rate
-
+```
 ---
 
 ## 13. Verification & Evaluation Framework
