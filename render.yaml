@@ -4,7 +4,7 @@ services:
   # ============================================================
   - type: web
     name: ip-sakti-backend
-    runtime: python
+    env: python
     plan: free
     rootDir: backend
     buildCommand: "pip install --upgrade pip && pip install -r requirements.txt"
@@ -26,8 +26,9 @@ services:
   # ============================================================
   # 2. IP-SAKTI Sahayak - React + Vite Frontend Static Site
   # ============================================================
-  - type: static
+  - type: web
     name: ip-sakti-frontend
+    env: static
     buildCommand: "npm install && npm run build"
     staticPublishPath: dist
     autoDeploy: true
