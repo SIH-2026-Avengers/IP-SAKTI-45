@@ -1,0 +1,8 @@
+Document: DESIGN ACT 2000
+Section: Section 2
+Page: 5
+
+2. Definitions.-In this Act, unless there is anything repugnant in the subject or context,- 
+(a) "article" means any article of manufacture and any substance, artificial, or partly artificial and partly natural; and includes any part of an article capable of being made and sold separately; 
+(b) "Controller" means the Controller-General of Patents, Designs and Trade Marks referred to in section 3; 
+(c) "copyright" means the exclusive right to apply a design to any article in any class in which the design is registered;

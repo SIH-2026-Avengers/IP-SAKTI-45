@@ -1,0 +1,4 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 475
+
+(iii) All relevant clinical and non-clinical safety data should cover only the period of the report (interval data). The PSURs shall be submitted every six months for the first two years after approval of the drug is granted to the applicant. For subsequent two years - the PSURs need to be submitted annually. Licensing authority may extend the total duration of submission of PSURs if it is considered necessary in the interest of public health. PSURs due for a period must be submitted within 30 calendar days of the last day of the reporting period.

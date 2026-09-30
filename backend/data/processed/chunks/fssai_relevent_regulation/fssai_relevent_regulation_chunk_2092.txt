@@ -1,0 +1,6 @@
+Document: FSSAI RELEVENT REGULATION
+Section: Section 3
+Page: 795
+
+2. Acceptable, if a maximum of c values are between m and M and the rest of the values are observed as ≤m 
+3. Unsatisfactory, if one or more of the values observed are > M or more than prescribed c values are >m

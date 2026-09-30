@@ -1,0 +1,5 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 508
+
+Accelerated testing should cover a minimum of 6 months duration at the time of submission. 
+In case of drug substances, the batches should be manufactured to a minimum of pilot scale by the same synthetic route and using a method of manufacture that simulates the final process to be used for production batches. In case of formulations, two of the three batches should be at least pilot scale and the third one may be smaller. The manufacturing process(es) used for primary batches should simulate that to be applied to production batches and should provide products of the same quality and meeting the same specifications as that intended for marketing.

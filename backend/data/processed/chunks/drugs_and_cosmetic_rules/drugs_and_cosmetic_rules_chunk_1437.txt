@@ -1,0 +1,16 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 359
+
+Note : 
+ 
+(1) Products shall be released only after complete filling and testing. 
+ 
+(2) Results of the tests relating to sterility, pyrogens, and Bacterial endotixins shall be maintained in the analytical records. 
+(3) Validation details and simulation trial records shall be maintained separately. 
+ 
+(4) Records of environmental monitoring like temperature, humidity, microbiological data etc. shall be maintained. Records of periodic servicing of HEPA filters, sterilizers and other periodic maintenance of facilities and equipment carried out shall also be maintained. 
+(5) Separate facilities shall be provided for filling-cum-sealing of Small Volume Injectables and Large 
+Volume Parenterals. 
+ 
+(6) It is advisable to provide separate facilities for manufacture of Large Volume parenterals in glass containers and/or plastic containers. 
+(7) For manufacture of Large volume parenterals in plastic containers, it is advisable to install automatic

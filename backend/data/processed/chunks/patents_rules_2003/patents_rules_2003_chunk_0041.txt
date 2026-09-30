@@ -1,0 +1,7 @@
+Document: Patents_Rules_2003
+Page: 18
+
+(3A) Where a complete specification based on a previously filed application in India has been filed within twelve months from the date of that application and the claim is fairly based on the matter disclosed in the previously filed application, the priority date of that claim shall be the date of the previously filed application in which the matter was first disclosed. 
+ 
+(4) Where the complete specification has been filed in pursuance of a further application made by virtue of sub-section (1) of section 
+16 and the claim is fairly based on the matter disclosed in any of the earlier specifications, provisional or complete, as the case may be, the priority date of that claim shall be the date of the filing of that specification in which the matter was first disclosed.

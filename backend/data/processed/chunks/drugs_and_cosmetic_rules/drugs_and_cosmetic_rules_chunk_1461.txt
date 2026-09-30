@@ -1,0 +1,11 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 5
+Page: 365
+
+4.2. Gloves made of suitable material having no interaction with the propellants shall be used by the operators in the manufacturing and filling areas. Preferably, disposable gloves shall be used. 
+4.3. Suitable department-specific personnel protective equipment like footwear and safely glasses shall be used wherever hazard exists. 
+5. Sanitation- 
+ 
+5.1. There shall be written procedures for the sanitation of the MDI manufacturing facility. 
+Special care should be taken to handle residues and rinses of propellants. 
+5.2. Use of water for cleaning shall be restricted and controlled. Routinely used disinfectants are suitable for sanitising the different areas. Records of sanitation shall be maintained.

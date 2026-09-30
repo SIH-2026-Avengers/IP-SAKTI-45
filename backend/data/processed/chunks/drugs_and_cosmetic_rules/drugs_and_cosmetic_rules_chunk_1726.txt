@@ -1,0 +1,18 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 445
+
+(c) Grinding Record Register:- (Finished Product / Intermediate procedure) 
+1. 
+Sl. No. 
+2. 
+Batch No. 
+3. 
+Date and time 
+4. 
+Name of the material and quantity 
+5. 
+Name of the equipment (SS/granite) 
+6. 
+Duration of grinding 
+7. 
+Repeat the grinding if required (Number of repetition)

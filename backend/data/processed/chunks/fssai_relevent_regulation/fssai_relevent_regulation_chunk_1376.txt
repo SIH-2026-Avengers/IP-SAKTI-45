@@ -1,0 +1,57 @@
+Document: FSSAI RELEVENT REGULATION
+Section: Section 1
+Page: 458
+
+Version-XXVI (20.12.2022) 
+4 
+Water insolube matter, per cent. by mass, Max 
+0.1 
+5 
+Fumaric acid, per cent. by mass, Max 
+1.0 
+6 
+Maleic acid, per cent. by mass, Max 
+0.05 
+7 
+Lead, mg/kg, Max 
+2.0 
+8 
+Arsenic, mg/kg, Max 
+3.0 
+9. Sodium Hydroxide: 
+(1) Sodium Hydroxide may be in the form of white or nearly white pellets, flakes, sticks, fused masses or in any other form and as described below, namely:- 
+Common Name 
+Caustic soda, lye, sodium hydrate 
+INS No. 
+524 
+C.A.S No. 
+1310-73-2 
+Chemical Name 
+Sodium hydroxide 
+Empirical Formula 
+NaOH 
+Molecular Weight 
+40.0 
+(2) Sodium Hydroxide shall conform to the requirements specified in the table below, namely:- 
+Table 
+SI. No. 
+Characteristic 
+Requirements 
+(1) 
+(2) 
+(3) 
+1 
+Purity as NaOH, per cent. by mass, Min 
+95 
+2 
+Carbonate, per cent. by mass as Na2CO3, Max 
+3 
+3 
+Lead, mg/kg, Max 
+2.0 
+4 
+Mercury, mg/kg, Max 
+1.5 
+ 
+3.2.11 Gelling agent or Thickener or stabilizer: 
+1. Sodium alginate:

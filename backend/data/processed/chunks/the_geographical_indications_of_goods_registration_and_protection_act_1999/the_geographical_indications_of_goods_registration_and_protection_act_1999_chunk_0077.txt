@@ -1,0 +1,9 @@
+Document: The_Geographical_Indications_of_Goods_Registration_and_Protection_Act_1999
+Section: Section 42
+Page: 17
+
+42. Penalty for falsely representing a geographical indication as registered.-(1) No person shall make any representation- 
+(a) with respect to a geographical indication, not being a registered geographical indication, to the effect that it is a registered geographical indication; or 
+(b) to the effect that a registered geographical indication is registered in respect of any goods in respect of which it is not in fact registered; or 
+(c) to the effect that registration of a geographical indication gives an exclusive right to the use thereof in any circumstances in which having regard to limitation entered on the register, the registration does not in fact give that right. 
+(2) If any person contravenes any of the provisions of sub-section (1), he shall be punishable with imprisonment for a term which may extend to three years, or with fine, or with both.

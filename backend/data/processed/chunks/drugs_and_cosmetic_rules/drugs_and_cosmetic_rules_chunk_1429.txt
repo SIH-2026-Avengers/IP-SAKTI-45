@@ -1,0 +1,9 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 11
+Page: 356
+
+11. Product Containers And closures- 
+ 
+11.1. All containers and closures intended for use shall comply with the pharmacopoeial and other specified requirements. Suitable sample sizes, specifications, test methods, cleaning procedures and sterilization procedures, shall be used to assure that containers, closures and other component parts of drug packages are suitable and are not reactive, additive, adsorptive or leachable or present the risk of toxicity to an extent that significantly affects the quality or purity of the drug. No second hand or used containers and closures shall be used. 
+11.2. Plastic granules shall also comply with the pharmacopoeial requirements including physio- chemical and biological tests. 
+11.3. All containers and closures, shall be rinsed prior to sterilization with water for injection according to written procedure.

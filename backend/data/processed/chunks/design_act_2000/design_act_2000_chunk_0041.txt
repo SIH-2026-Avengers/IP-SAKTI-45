@@ -1,0 +1,11 @@
+Document: DESIGN ACT 2000
+Section: Section 24
+Page: 11
+
+23. Application of certain provisions of the Act as to patents to designs.-The provisions of the 
+Patents Act, 1970 (39 of 1970) with regard to certificates of the validity of a patent, and to the remedy in case of groundless threats of legal proceedings by a patentee shall apply in the case of registered designs in like manner as they apply in the case of patents, with the substitution of references to the copyright in a design for reference to a patent, and of references to the proprietor of a design for references to the patentee, and of references to the design for references to the invention. 
+CHAPTER VI 
+GENERAL 
+Fees 
+24. Fees.-(1) There shall be paid in respect of the registration of designs and applications therefor and in respect of other matters relating to designs under this Act such fees as may be prescribed. 
+ (2) A proceeding in respect of which a fee is payable under this Act or the rules made thereunder shall be of no effect unless the fee has been paid.

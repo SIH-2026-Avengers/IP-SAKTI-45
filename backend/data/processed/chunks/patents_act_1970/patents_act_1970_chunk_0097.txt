@@ -1,0 +1,10 @@
+Document: Patents_Act_1970
+Section: Section 102
+Page: 26
+
+119 
+(6) On completion of the above proceedings, the Controller shall forthwith fix a date and the time for the hearing of the case and shall give the parties not less than ten day's notice of such hearing, 
+(7) The procedure specified in sub-rules (2) to (5) of rule 62 shall, so far as may be, apply to the procedure for hearing under this rule as they apply to the hearing of opposition to the,grant of a patent. 
+(8) If the Controller decides to revise the terms and conditions of licence he shall forthwith amend the licence granted to the applicant in such manner, as he may deem necessary. 
+102. Application for termination of compuJsory licence under section 94. - (1) An application for termination of compulsory licence under section 94(1) shall be made in Form 
+22 by the patentee or any other person deriving title or interest in the patent. The application shall be accompanied by the evidence in support of the application.

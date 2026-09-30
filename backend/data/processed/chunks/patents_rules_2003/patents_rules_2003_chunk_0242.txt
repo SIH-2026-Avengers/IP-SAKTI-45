@@ -1,0 +1,10 @@
+Document: Patents_Rules_2003
+Section: Section 113
+Page: 89
+
+(3) Where an amendment of a specification by way of disclaimer, correction or Explanation has been allowed under this Act after the publication of the specification, no damages or account of profits shall be granted in any proceedings in respect of the use of the invention before the date of the decision allowing the amendment, unless the court is satisfied that the specification as originally published was framed in good faith and with reasonable skill and knowledge. 
+ 
+(4) Nothing in this section shall affect the power of the court to grant an injunction in any suit for infringement of a patent. 
+ 
+113. Certificate of validity of specification and costs of subsequent suits for infringement thereof. 
+(1) If in any proceedings before a High Court for the revocation of a patent under section 64 and section 104, , the validity of any claim of a specification is contested and that claim is found by the

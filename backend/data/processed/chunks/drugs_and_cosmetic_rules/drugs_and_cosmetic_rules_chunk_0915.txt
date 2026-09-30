@@ -1,0 +1,42 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 2
+Page: 217
+
+TABLE II 
+RECOMMENDED LIMITS FOR MICROBIOLOGICAL MONITORING OF CLEAN 
+AREAS "IN OPERATION" 
+Grade 
+Air Sample cfu/m³ Settle Plates 
+Contact Plates Glove points (five fingers) 
+(dia 90 mm) 
+(dia55mm) cfu per glove cfu/2 hrs. cfu per plate 
+A 
+< 1 
+< 1 
+< 1 
+< 1 
+B 
+1 0 
+5 
+5 
+5 
+C 
+10 0 
+5 0 
+2 5 
+- 
+D 
+50 0 
+10 0 
+5 0 
+- 
+Notes: 
+(a) These are average values. 
+(b) Individual settle plates may be exposed for not less than two hours in Grade B, C and 
+D areas and for not less than thirty minutes in Grade A area. 
+E. QUALITY CONTROL 
+1. Fa cil iti es sh a ll be pr ovid ed for Qu al ity Con tr ol such a s Haem atolog ica l, 
+Microbiological and Instrumental testing. 
+2. Following duties shall be performed under the function of quality control: 
+(a) To prepare detailed instructions for carrying out such tests and analysis; 
+(b) To approve or reject raw materials and consumables, used in any step, on the basis of approved specifications;

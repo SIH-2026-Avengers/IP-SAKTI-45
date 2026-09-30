@@ -1,0 +1,73 @@
+Document: FSSAI RELEVENT REGULATION
+Page: 814
+
+Version-XXVI (20.12.2022) 
+ 
+Bacillus licheniformis 
+Disporotrichumdimorphosporum 
+Rasamsonia (Talaromyces) emersonii 
+Trichodermareesei(longibrachiatum) 
+Humicolainsolens 
+20. 
+Dextranase 
+(EC No. 3.2.1.11) 
+Chaetomiumerraticum 
+GMP 
+21. 
+Polygalacturonase 
+(pectinase) 
+(EC No. 3.2.1.15) 
+Aspergillusniger 
+GMP 
+ 
+Aspergillusaculeatus 
+22. 
+Lysozyme 
+(EC No. 3.2.1.17) 
+Gallus gallus egg 
+GMP 
+23. 
+Alpha-glucosidase 
+(EC No. 3.2.1.20) 
+Aspergillusniger 
+GMP 
+ 
+Trichodermareesei 
+24. 
+Beta-glucosidase 
+(EC No. 3.2.1.21) 
+ 
+Aspergillusniger 
+GMP 
+Kluyveromyceslactis 
+ 
+Trichodermareesei/ longibrachiatumCL 847 
+GMP 
+25. 
+Alpha-galactosidase 
+(melibiase) 
+(EC No. 3.2.1.22) 
+ 
+Aspergillusoryzae 
+GMP 
+ 
+Aspergillusniger 
+GMP 
+Morterellavinacea 
+GMP 
+Saccharomyces carlsbergensis 
+GMP 
+26. 
+Beta-galactosidase 
+(lactase) 
+(EC No. 3.2.1.23) 
+ 
+Kluyveromyceslactis 
+GMP 
+ 
+Bacillus circulans 
+Saccharomyces sp. 
+Aspergillusniger 
+Aspergillusoryzae 
+27. 
+Beta- fructofuranosidase

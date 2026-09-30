@@ -1,0 +1,11 @@
+Document: Biodiversity_Act_2002
+Section: Section 2
+Page: 1
+
+(3)It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint: 
+ 
+Provided that different dates may be appointed for different provisions of this Act and any reference in any such provision to the commencement of this Act shall be construed as a reference to the coming into force of that provision. 
+ 
+2. In this Act, unless the context otherwise requires:- 
+ 
+(a)"benefit claimers" means the conservers of biological resources, their by products, creators and holders of knowledge and information relating to the use of such biological resources, innovations and practices associated with such use and application;

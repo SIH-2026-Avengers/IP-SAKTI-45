@@ -1,0 +1,13 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 1
+Page: 245
+
+(f) 
+ Potency Test, Virus Titration.-Samples of finished product shall be tested for virus titre in suitable cell culture system. The batch shall have a virus titre of not less than 103.5 TCID dose. 
+Potency test in dog.-Two healthy susceptible dogs of 8-14 weeks of age shall injected subcutaneously with one vaccine dose. 14 days after vaccination, specific neutralizing antibodies from both the dogs shall be demonstrable by serological tests. 
+5. Labelling.-Shall comply with the requirements for labelling as laid down in the general monograph on "Viral vaccines". 
+6. Storage.-The dry product shall be stored at temperature of minus 200 C or below. 
+The vaccine is expected to retain its potency for about 6 months in the freezing chamber of the refrigerator (temperature) approximately minus 80 C. 
+ 
+DUCK PLAGUE VACCINE 
+1. Definition.-Duck plague vaccine is a suspension of modified living virus prepared from infected chick embryos.

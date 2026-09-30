@@ -1,0 +1,12 @@
+Document: Patents_Rules_2003
+Section: Section 29
+Page: 35
+
+35 
+CHAPTER VI ANTICIPATION 
+ 
+29. Anticipation by previous publication. 
+(1) An invention claimed in a complete specification shall not be deemed to have been anticipated by reason only that the invention was published in a specification filed in pursuance of an application for a patent made in India and dated before the 1st day of January, 1912. 
+ 
+(2) Subject as hereinafter provided, an invention claimed in a complete specification shall not be deemed to have been anticipated by reason only that the invention was published before the priority date of the relevant claim of the specification, if the patentee or the applicant for the patent proves 
+(a) that the matter published was obtained from him, or (where he is not himself the true and first inventor) from any person from whom he derives title, and was published without his consent or the consent of any such person; and

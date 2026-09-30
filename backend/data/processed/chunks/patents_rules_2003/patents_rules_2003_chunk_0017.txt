@@ -1,0 +1,10 @@
+Document: Patents_Rules_2003
+Page: 9
+
+(j) "invention" means a new product or process involving an inventive step and capable of industrial application; 
+(ja) "inventive step" means a feature of an invention that involves technical advance as compared to the existing knowledge or having economic significance or both and that makes the invention not obvious to a person skilled in the art; 
+(k) "legal representative" means a person who in law represents the estate of a deceased person; 
+(l) "new invention" means any invention or technology which has not been anticipated by publication in any document or used in the country or elsewhere in the world before the date of filing of patent application with complete specification, i.e., the subject matter has not fallen in public domain or that it does not form part of the state of the art; 
+(la) "Opposition Board" means an Opposition Board constituted under sub-section (3) of section 25; 
+(m) "patent" means a patent for any invention granted under this 
+Act;

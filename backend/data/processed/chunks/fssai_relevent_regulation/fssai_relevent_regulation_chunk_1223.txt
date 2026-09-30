@@ -1,0 +1,44 @@
+Document: FSSAI RELEVENT REGULATION
+Page: 402
+
+(19) Borate (as B) 
+Not more than 5 mg/litre 
+(20) Surface active agents 
+Not detectable 
+(21) Silver (as Ag) 
+Not more than 0.01 mg/litre 
+(22) Chlorides (as Cl) 
+Not more than 200 mg/litre 
+(23) Sulphate (as SO4) 
+Not more than 200 mg/litre 
+(24) Magnesium (as Mg) 
+Not more than 50 mg/litre 
+(25) Calcium (as Ca) 
+Not more than 100 mg/litre 
+(26) Sodium (as Na) 
+Not more than 150 mg/litre 
+(27) Alkalinity (as HCO3) 
+75-400 mg/litre 
+(28) Arsenic (as As) 
+Not more than 0.05 mg/litre 
+(29) Cadmium (as Cd) 
+Not more than 0.003 mg/litre 
+(30) Cyanide (as CN) 
+Absent 
+(31) Chromium (as Cr) 
+Not more than 0.05 mg/litre 
+(32) Mercury (as Hg) 
+Not more than 0.001 mg/litre 
+(33) Lead (as Pb) 
+Not more than 0.01 mg/litre 
+(34) Selenium (as Se) 
+Not more than 0.05 mg/litre 
+(35) 
+Poly nuclear aromatic hydrocarbons 
+Not Detectable 
+(36) Polychlorinated biphenyle 
+Not detectable 
+(PCB) 
+(37) Pesticide Residue below detectable limits 
+(38) "Alpha" activity 
+Not more than 0.1 Bacquerel/litre

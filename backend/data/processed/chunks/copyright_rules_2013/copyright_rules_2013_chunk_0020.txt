@@ -1,0 +1,10 @@
+Document: Copyright Rules 2013
+Section: Section 16
+Page: 9
+
+14. Cancellation of licence. -The Board may, after giving an opportunity to the licensee of being heard, cancel the licence on any of the following grounds, namely:- 
+(a) that the licensee has failed to produce and publish such work or communicate to the public the work within the time specified in the licence or within the time extended on the application of the licensee; 
+(b) that the licence was obtained by fraud or misrepresentation as to any essential fact; 
+(c) that the licensee has contravened any of the terms and conditions of the licence. 
+15. Notice for termination of licence. -Notice for termination of licence under proviso to sub-section (1) or sub-section (2) of section 32B shall be served on the person holding the licence by the owner of copyright in Form IV. 
+16. Notice for publication of a work in case of death of original owner.- The

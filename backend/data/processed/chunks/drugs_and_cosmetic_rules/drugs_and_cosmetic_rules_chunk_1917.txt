@@ -1,0 +1,8 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 497
+
+1.2 General Pharmacological Actions 
+ 
+1.2.1 Essential Safety Pharmacology 
+ 
+Safety pharmacology studies need to be conducted to investigate the potential undesirable pharmacodynamic effects of a substance on physiological functions in relation to exposure within the therapeutic range and above. These studies should be designed to identify undesirable pharmacodynamic properties of a substance that may have relevance to its human safety; to evaluate adverse pharmacodynamic and/or pathophysiological effects observed in toxicology and/or clinical studies; and to investigate the mechanism of the adverse pharmacodynamic effects observed and/or suspected.

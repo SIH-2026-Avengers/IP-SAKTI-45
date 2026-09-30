@@ -1,0 +1,12 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 490
+
+Both in-vitro and in-vivo studies should be done. In-vitro studies should include Ames' 
+Salmonella assay and chromosomal aberrations (CA) in cultured cells. In-vivo studies should include micronucleus assay (MNA) or CA in rodent bone marrow. Data analysis of CA should include analysis of 'gaps.' 
+Cytotoxic anticancer agents: Genotoxicity data are not required before Phase I and II trials. 
+But these studies should be completed before applying for Phase III trials. 
+Notes: 
+ 
+Ames' Test (Reverse mutation assay in Salmonella): S. typhimurium tester strains such as 
+TA98, TA100, TA102, TA1535, TA97 or Escherichia coli WP2 uvrA or Escherichia coli WP2 uvrA 
+(pKM101) should be used.

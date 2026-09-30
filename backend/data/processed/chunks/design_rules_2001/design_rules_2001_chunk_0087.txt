@@ -1,0 +1,30 @@
+Document: DESIGN RULES 2001
+Page: 27
+
+23-03 
+HEATING EQUPMENT 
+23-04 
+VENTILATION AND AIR-CONDITIONING EQUIPMENT 
+23-05 
+SOLID FUEL 
+23-99 
+MISCELLANEOUS 
+CLASS 24 
+Medical and laboratory equipment 
+Note: 
+The term "medical equipment" covers also surgical, dental and veterinary equipment. 
+24-01 
+APPARTUS EQUIPMENT FOR DOCTORS, HOSPITALS AND LABORATORIES 
+24-02 
+MEDICAL INSTRUMENTS, INSTRUMENTS AND TOOLS FOR LABORATORY 
+USE 
+Note: 
+Includes only hand-operated instruments. 
+24-03 
+PROSTHETIC ARTICLES 
+24-04 
+MATERIALS FOR DRESSING WOUNDS, NURSING AND MEDICAL CARE 
+24-99 
+MISCELLANEOUS 
+CLASS 25 
+Building units and construction elements

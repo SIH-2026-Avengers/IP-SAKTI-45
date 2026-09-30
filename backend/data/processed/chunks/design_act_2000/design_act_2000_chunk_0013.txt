@@ -1,0 +1,9 @@
+Document: DESIGN ACT 2000
+Section: Section 5
+Page: 6
+
+(c) is not significantly distinguishable from known designs or combination of known designs; or 
+(d) comprises or contains scandalous or obscene matter, shall not be registered. 
+5. Application for registration of designs.-(1) The Controller may, on the application of any person claiming to be the proprietor of any new or original design not previously published in any country and which is not contrary to public order or morality, register the design under this Act: 
+Provided that the Controller shall before such registration refer the application for examination, by an examiner appointed under sub-section (2) of section 3, as to whether such design is capable of being registered under this Act and the rules made thereunder and consider the report of the examiner on such reference. 
+(2) Every application under sub-section (1) shall be in the prescribed form and shall be filed in the patent office in the prescribed manner and shall be accompanied by the prescribed fee.

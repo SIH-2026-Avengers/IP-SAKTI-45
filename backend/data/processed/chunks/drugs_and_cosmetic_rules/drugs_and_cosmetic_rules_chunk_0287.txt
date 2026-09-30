@@ -1,0 +1,6 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 56
+
+earliest date on which growth was terminated in any of the material contributing to the batch : 
+Provided that if a batch of the substance (including all material contributing to this batch) has for a period of not more than three years been kept in cold storage at a temperature not exceeding 50C continuously from the earliest practicable date after that on which growth was terminated in the material, as the case may be, the date of removal from cold storage shall be treated as the date on which the manufacture of the batch is completed; 
+(c) in all other cases, the date on which the substance is filled in the container.

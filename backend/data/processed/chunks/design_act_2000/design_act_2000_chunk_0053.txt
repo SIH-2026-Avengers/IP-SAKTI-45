@@ -1,0 +1,8 @@
+Document: DESIGN ACT 2000
+Section: Section 40
+Page: 13
+
+39. Evidence of documents in patent office.-Printed or written copies or extracts, purporting to be certified by the Controller and sealed with the seal of the patent office, of documents in the patent office, and of or from registers and other books kept there, shall be admitted in evidence in all courts in India, and in all proceedings, without further proof or production of the originals: 
+Provided that a court may, if it has reason to doubt the accuracy or authenticity of the copies tendered in evidence, require the production of the originals or such further proof as it considers necessary. 
+40. Applications and notices by post.-Any application, notice or other document authorized or required to be left, made or given at the patent office or to the Controller, or to any other person under this 
+Act, may be sent by post.

@@ -1,0 +1,43 @@
+Document: FSSAI RELEVENT REGULATION
+Page: 412
+
+Elimination of pathogenic microorganisms 
+1.0 
+7.0 
+Shelf -life extension 
+1.0 
+3.0 
+Control of human parasites 
+0.3 
+2.0 
+Class 6 
+Dry vegetables, seasonings, spices, condiments, dry herbs and their products, tea, coffee, cocoa and plant products 
+Microbial decontamination 
+6.0 
+14.0 
+Insect disinfestation 
+0.3 
+1.0 
+Class 7 
+Dried foods of animal origin and their products 
+Insect disinfestation 
+0.3 
+1.0 
+Control of moulds 
+1.0 
+3.0 
+Elimination of pathogenic micro organisms 
+2.0 
+7.0 
+Class 8 
+ 
+Ethnic foods, military rations, space foods, ready-to-eat, ready-to-cook/ minimally processed foods. 
+Quarantine application 
+0.25 
+1.0 
+Reduction of microbial load 
+2.0 
+10.0 
+Sterilization 
+5.0 
+25.0

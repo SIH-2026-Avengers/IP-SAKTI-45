@@ -1,0 +1,8 @@
+Document: Patents_Rules_2003
+Section: Section 10
+Page: 15
+
+10. Contents of specifications. 
+(1) Every specification, whether provisional or complete, shall describe the invention and shall begin with a title sufficiently indicating the subject-matter to which the invention relates. 
+ 
+(2) Subject to any rules that may be made in this behalf under this

@@ -1,0 +1,8 @@
+Document: DESIGN RULES 2001
+Section: Section 30
+Page: 9
+
+GENERAL 
+Register of Designs 
+30. Registering designs.- (1)When a design is accepted, there shall be entered in the Register of Design, in addition to the particulars required by the Act, the number of the design, the class in which it is registered, the date of filling the application for registration in this country, the reciprocity date, if any, claim for the registration, and such other matters as would effect the validity or proprietorship of the design. 
+(2) When such Register of Design is maintained wholly or partly on computer under floppies or diskettes, such computer floppies or diskettes shall be maintained under superintendence and control of Controller and in case of any dispute or doubt with regard to information of designs, the information as contained in the backup file or master file shall be final.

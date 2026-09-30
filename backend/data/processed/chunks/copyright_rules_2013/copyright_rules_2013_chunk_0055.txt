@@ -1,0 +1,11 @@
+Document: Copyright Rules 2013
+Section: Section 42
+Page: 21
+
+(c) such other matters as may be considered relevant by the Board. 
+41. Extension of the period of licence.-The Board may, on the application of the licensee and after notice to the owner of the copyright, wherever practicable, if it is satisfied that the licensee was for sufficient reasons unable to produce and publish the translation or for publish or reproduce the work within the period specified in the licence, extend such period. 
+42. Cancellation of licence.-The Board may, after giving the licensee an opportunity of being heard, cancel the licence on any of the following grounds, namely: 
+- 
+(a) that the licensee has failed to produce and publish such work within the time specified in the licence or within the time extended on the application of the licensee; 
+(b) that the licence was obtained by fraud or misrepresentation as to any essential fact; and 
+(c) that the licensee has contravened any of the terms and conditions of the licence.

@@ -1,0 +1,9 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 7
+Page: 350
+
+6.8. Air particulate quality shall be evaluated on a regular basis and records maintained. 
+ 
+7. Equipment- 
+ 
+7.1. The special equipment required for manufacturing sterile products includes component washin g machines, steam sterilisers, dry heat sterilisers, membrane filter assemblies, manufacturing vessels, blenders, liquid filling machines, powder filling machines, sealing and labeling machines, vacuum testing chambers, inspection machines, lyophilisers, pressure vessels etc. Suitable and fully integrated washing-sterilizing-filing lines may be provided, depending upon the type and volume of activity.

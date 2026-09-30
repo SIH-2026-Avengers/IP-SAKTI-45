@@ -1,0 +1,7 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 355
+
+10.9.2. Containers shall be closed by appropriately validated methods. Containers closed by fusion, e.g. glass or plastic ampoules shall be subjected to 100% integrity testing. Samples of other containers shall be checked for integrity according to appropriate procedures. 
+10.9.3. Containers sealed under vacuum shall be tested for required vacuum conditions. 
+ 
+10.9.4. Filled containers of parenteral products shall be inspected individually for extraneous contamination or other defects. When inspection is done visually, it shall be done under suitably

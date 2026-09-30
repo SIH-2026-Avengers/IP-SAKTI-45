@@ -1,0 +1,9 @@
+Document: FSSAI RELEVENT REGULATION
+Section: Section 3
+Page: 800
+
+1. Satisfactory, if all the values observed are ≤ m 
+2. Acceptable, if a maximum of c values are between m and M 
+3. Unsatisfactory, if one or more of the values observed are > M or more than prescribed c values are >m 
+Reference Test Methods: The following test methods shall be applied as Reference Test Methods. Test methods prescribed in FSSAI Manual of Method of 
+Analysis of Foods (Microbiological Testing) may also be referred along with the IS/ISO methods specified for Process Hygiene Criteria and Food Safety Criteria.

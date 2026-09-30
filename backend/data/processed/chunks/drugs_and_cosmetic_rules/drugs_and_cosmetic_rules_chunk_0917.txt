@@ -1,0 +1,30 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 2
+Page: 217
+
+(f) The environmental monitoring of the clean rooms would be done at periodic intervals according to an accepted and validated protocol; 
+(g) All tests mentioned above shall be done in house except tests under itme numbers 
+(e), (f) and test for enumeration of Stem Cell Population, HLA typing and Genetic 
+Disease Testing which may be outsourced to a competent third party approved by the licensing authority. 
+F. SCREENING TESTS 
+1. The maternal blood sample shall be tested for 
+(a) Hepatitis B; 
+(b) Hepatitis C; 
+(c) HIV 1 & 2; 
+(d) Syphilis; 
+(e) 
+ Malaria; 
+(f) 
+ CMV; 
+(g) HTLV 
+2. The Umbilical Cord Blood shall be tested for 
+(a) Total Nucleated Cell count; 
+(b) Total Mononuclear Cell Count; 
+(c) 
+Progenitor Cell (CD34+) enumeration; 
+(d) Cell Viability; 
+(e) ABO Group and Rh Type; 
+(f) 
+ Sterility as regards Bacterial and Fungal contamination status; 
+(g) HLA Matching (Only for allogenic Cord Blood Units). 
+G. STORAGE

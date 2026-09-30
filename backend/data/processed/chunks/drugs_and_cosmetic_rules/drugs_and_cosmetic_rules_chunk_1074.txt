@@ -1,0 +1,9 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 5
+Page: 252
+
+found, the vaccine is rejected while with nonpathogenic bacteria the vaccine is passed for field use. 
+(e) 
+ Potency Test.-This is done by inoculating 4 non immune susceptible sheep preferably exotic breed of 1-2 years with 3ml. of vaccine in the thigh, subcutaneously. 
+The vaccinated sheep are challenged 15 days after inoculation along with 3 controls each with 0.1 ml. of virulent virus containing 200 infective doses intradermally under the tail. The sheep are observed for 10 days and their skin reaction recorded. The vaccine is considered potent if all the vaccinated sheep do not show thermal or local skin reaction. Vaccine is also potent if 3 vaccinated animals do not develop any reaction and one shows abortive skin reaction, while at least 2 of the 3 controls develop typical sheep pox reaction at the site of inoculation. 
+5. Labelling.-Shall comply with the requirements of labelling as laid down in the general monograph on "Viral Vaccine".

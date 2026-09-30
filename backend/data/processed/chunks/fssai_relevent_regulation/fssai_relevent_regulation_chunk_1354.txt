@@ -1,0 +1,47 @@
+Document: FSSAI RELEVENT REGULATION
+Section: Section 2
+Page: 447
+
+Version-XXVI (20.12.2022) 
+Chemical Name 
+Sodium salt of benzene carboxylic acid, and sodium salt of phenyl carboxylic acid 
+Empirical Formula 
+C7H502Na 
+Molecular Weight 
+144.11 
+(2) Sodium benzoate shall conform to the requirements specified in the table below, namely:- 
+Table 
+SI. No. 
+Characteristic 
+Requirements 
+(1) 
+(2) 
+(3) 
+1. 
+Purity, expressed as C7H502Na, per cent. by mass, Min 99.0 
+2. 
+Melting range of liberated benzoic acid 
+121.5°C- 123.5°C 
+3. 
+Moisture, per cent. by mass, Max 
+1.5 
+4. 
+Acidity or alkalinity shall conform to test as per 
+BIS standard 
+5. 
+Readily carbonizable substances shall conform to test as per 
+BIS standard 
+6. 
+Readily oxidizable substances shall conform to test as per 
+BIS standard 
+7. 
+Chlorinated organic compounds shall conform to test as per 
+BIS standard 
+8. 
+Arsenic, mg/kg, Max 
+3.0 
+9. 
+Lead, mg/kg, Max 
+2.0 
+2. Benzoic acid: 
+(1) Benzoic acid shall be in the form of white crystals, scales or needles and as described below, namely:-

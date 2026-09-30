@@ -1,0 +1,56 @@
+Document: FSSAI RELEVENT REGULATION
+Page: 413
+
+Version-XXVI (20.12.2022) 
+ 
+Table 2: Dose Limits for Radiation Processing of Allied Products 
+Sr. 
+No. 
+Allied Product 
+Purpose 
+Dose Limit kGy 
+(kiloGray) 
+Minimum 
+Maximum 
+(1) 
+(2) 
+(3) 
+(4) 
+ (5) 
+1. 
+Packaging materials for food or allied products 
+Microbial decontamination 
+5.0 
+10.0 
+Sterilization 
+10.0 
+25.0 
+2. 
+Food additives 
+Insect disinfestation 
+0.25 
+1.0 
+Microbial decontamination 
+5.0 
+10.0 
+Sterilization 
+10.0 
+25.0 
+3. 
+Health foods, dietary supplements and nutraceuticals 
+Insect disinfestation 
+0.25 
+1.0 
+Microbial decontamination 
+5.0 
+10.0 
+Sterilization 
+10.0 
+25.0 
+ 
+(3) Routine quantitative dosimentry shall be carried out during operation and record kept of such measurements as provided under Atomic Energy (Radiation Processing of Food and Allied Products) 
+Rules, 2012. 
+2.13.2: Requirement for Radiation Processing: 
+ 
+(1) 
+Approval of facilities - No irradiation facility shall be used for the treatment of food unless such facility -

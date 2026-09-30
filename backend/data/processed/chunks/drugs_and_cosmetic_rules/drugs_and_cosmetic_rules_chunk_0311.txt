@@ -1,0 +1,6 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 61
+
+(c) Clinical trial shall be registered at Clinical Trials Registry of India before enrolling the first patient for the study; 
+(d) Annual status report of each clinical trial, as to whether it is ongoing, completed or terminated, shall be submitted to the Licensing Authority and in case of termination of any clinical trial the detailed reasons for the same shall be communicated to the said Licensing Authority; 
+(e) Any report of serious adverse event occurring during clinical trial to the subject, after due analysis, shall be forwarded within ten days of its occurrence as per Appendix XI and in compliance with the procedures prescribed in Schedule Y;

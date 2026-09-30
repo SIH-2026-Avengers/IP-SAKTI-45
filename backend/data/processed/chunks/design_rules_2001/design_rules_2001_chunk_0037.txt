@@ -1,0 +1,6 @@
+Document: DESIGN RULES 2001
+Section: Section 40
+Page: 10
+
+39. Rectification of Register.- If an application is made for the rectification of the Register of Design under section 31 of the Act, the Controller shall notify all persons whose names, at the time of the application are entered on the Register as claiming an interest in the design, and shall advertise the application in the Official Gazette. 
+40. Opposition to rectification.- (1) Notice of opposition to any rectification of the Register of Design may be given within three months of the advertisement of the application for rectification.

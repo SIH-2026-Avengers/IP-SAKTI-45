@@ -1,0 +1,57 @@
+Document: FSSAI RELEVENT REGULATION
+Section: Section 1
+Page: 452
+
+Version-XXVI (20.12.2022) 
+3.2.10 Acidity regulator: 
+1. Ammonium hydrogen carbonate: 
+(1) Ammonium hydrogen carbonate shall be in the form of white crystals or fine white crystalline powder and as described below, namely:- 
+Common Name 
+Ammonium bicarbonate 
+INS No. 
+503(ii) 
+C.A.S No. 
+1066-33-7 
+Chemical Name 
+Ammonium hydrogen carbonate 
+Empirical Formula 
+CH5NO3 
+Molecular Weight 
+79.06 
+ 
+(2) Ammonium hydrogen carbonate shall conform to the requirements specified in the table below, namely:- 
+Table 
+SI.No. 
+Characteristic 
+Requirements 
+(1) 
+
+(2) 
+(3) 
+1. 
+Ammonium Hydrogen Carbonate, per cent. by mass, Min 
+98.0 
+2. 
+Chlorides (as Cl), per cent. by mass, Max 
+0.2 
+3. 
+Sulphates (as SO4), per cent. by mass, Max 
+0.1 
+4. 
+Non-volatile matter, per cent. by mass, Max 
+0.1 
+5. 
+Iron (as Fe), per cent. by mass, Max 
+0.004 
+6. 
+Non-volatile matter, per cent. by mass, Max 
+0.1 
+7. 
+Arsenic, mg/kg, Max 
+0.6 
+8. 
+Lead, mg/kg, Max 
+2.0 
+9. 
+Copper, mg/kg, Max 
+5.0

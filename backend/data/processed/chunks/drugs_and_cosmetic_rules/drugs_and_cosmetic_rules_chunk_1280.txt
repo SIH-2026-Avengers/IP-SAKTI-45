@@ -1,0 +1,7 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 314
+
+(c) Whenever, any new reference material is received by the laboratory, a code number shall be assigned and this code number shall be quoted on the laboratory note book and analytical work sheet. The working standard shall also be provided with identification code. 
+(d) A register pertaining to reference and working materials must be maintained by the laboratory. 
+The following details may be mentioned in the register: 
+(i) source of supply;

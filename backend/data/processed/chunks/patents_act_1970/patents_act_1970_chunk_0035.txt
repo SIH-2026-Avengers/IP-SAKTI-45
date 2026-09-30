@@ -1,0 +1,10 @@
+Document: Patents_Act_1970
+Section: Section 24
+Page: 10
+
+23. The requirements under this Chapter to be supplemental of the regulations, etc., under the Treaty. - (!) The provisions of this Chapter shall be supplemental to the PCT and the regulation and the administrative instructions made thereunder. 
+(2) In case of a conflict between any provisions of the rules contained in this Chapter and provisions of the Treaty and the regulations and the administrative instructions made thereunder, the provisions of the Treaty and the regulations and administrative instructions made thereunder shall apply in relation to international applications. 
+CHAPTER IV 
+PUBLICATION AND EXAMINATION OF APPLICATIONS 
+24. Examination of application. - (1) A request for examination under section 1 lB shall be made in Form 19. 
+(2) A request for examination of application for patent filed under sub-rule (1) shall be taken up for examination in the order in which the request is filed.

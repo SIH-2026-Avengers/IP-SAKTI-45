@@ -1,0 +1,11 @@
+Document: Biodiversity_Act_2002
+Section: Section 7
+Page: 4
+
+(2)The National Biodiversity Authority may, while granting the approval under this section, impose benefit sharing fee or royalty or both or impose conditions including the sharing of financial benefits arising out of the commercial utilization of such rights. 
+ 
+(3)The provisions of this section shall not apply to any person making an application for any right under any law relating to protection of plant varieties enacted by Parliament. 
+ 
+(4)Where any right is granted under law referred to in sub-section (3), the concerned authority granting such right shall endorse a copy of such document granting the right to the National Biodiversity Authority. 
+ 
+7. No person, who is a citizen of India or a body corporate, association or organization which is registered in India, shall obtain any biological resource for commercial utilization, or bio-survey and bio-utilisation for commercial utilization except after giving prior intimation to the State Biodiversity Board concerned:

@@ -1,0 +1,12 @@
+Document: Patents_Rules_2003
+Section: Section 12
+Page: 22
+
+22 
+ 
+12. Examination of application. 
+(1) When a request for examination has been made in respect of an application for a patent in the prescribed manner under sub-section 
+(1) or sub-section (3) of section 11B, the application and specification and other documents related thereto shall be referred at the earliest by the Controller to an examiner for making a report to him in respect of the following matters, namely: 
+(a) whether the application and the specification and other documents relating thereto are in accordance with the requirements of this Act and of any rules made thereunder; 
+(b) whether there is any lawful ground of objection to the grant of the patent under this Act in pursuance of the application; 
+(c) the result of investigations made under section 13; and (d) any other matter which may be prescribed.

@@ -1,0 +1,12 @@
+Document: Patents_Rules_2003
+Section: Section 19
+Page: 26
+
+26 to a specification published on or after the date of filing of the applicant's complete specification. 
+ 
+19. Powers of Controller in case of potential infringement. 
+(1) If, in consequence of the investigations required under this 
+Act, it appears to the Controller that an invention in respect of which an application for a patent has been made cannot be performed without substantial risk of infringement of a claim of any other patent, he may direct that a reference to that other patent shall be inserted in the applicant's complete specification by way of notice to the public, unless within such time as may be prescribed 
+(a) the applicant shows to the satisfaction of the Controller that there are reasonable grounds for contesting the validity of the said claim of the other patent; or 
+(b) the complete specification is amended to the satisfaction of the 
+Controller.

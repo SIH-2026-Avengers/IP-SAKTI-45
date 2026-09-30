@@ -1,0 +1,6 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 354
+
+10.6.6. There shall be clear means of differentiating 'sterilized' and 'unsterilized' products. Each basket, tray or other carrier of products or components shall be clearly labeled with the name of the material, its batch number, and sterilization status. Indicators shall be used, where appropriate, to indicate whether a batch (or sub-batch) has passed through the sterilization process. 
+10.6.7. Sterilization records shall be available for each sterilization-run and may also include thermographs and sterilization monitoring strips. They shall be maintained as part of the batch release procedure. 
+10.7. Sterilization (By Dry Heat)-

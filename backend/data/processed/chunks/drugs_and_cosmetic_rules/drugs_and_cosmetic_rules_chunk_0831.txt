@@ -1,0 +1,24 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 9
+Page: 195
+
+Equipment used in the collection, processing, testing, storage and sale/distribution of blood and its components shall be maintained in a clean and proper manner and so placed as to facilitate cleaning and maintenance. The equipment shall be observed, standardised and calibrated on a regularly scheduled basis as described in the Standard Operating Procedure 
+Manual and shall operate in the manner for which it was designed so as to ensure compliance with the official requirements (the equipments) as stated below for blood and its components. 
+ 
+Equipment that shall be observed, standardised and calibrated with at least the following frequencies : - 
+ 
+EQUIPMENT 
+PERFORMANCE 
+FREQUENCY 
+CALIBRATION 
+FREQUENCY OF 
+1. Temperature recorder 
+2. Refrigerated centrifuge 
+3. Hematocrit centrifuge 
+4. General lab centrifuge 
+5. Automated blood typing 
+6. Haemoglob- inometer 
+7. Refractiometer or Urinometer 
+8. Blood container 
+9. Water bath 
+Compare against thermometer

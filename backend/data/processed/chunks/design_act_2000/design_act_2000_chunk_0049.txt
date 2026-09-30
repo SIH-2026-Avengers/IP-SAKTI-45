@@ -1,0 +1,10 @@
+Document: DESIGN ACT 2000
+Section: Section 32
+Page: 12
+
+(4) Any order of the Court rectifying a register shall direct that notice of the rectification be served on the Controller in the prescribed manner who shall upon the receipt of such notice rectify the register accordingly. 
+(5) Nothing in this section shall be deemed to empower the Controller to make any such order cancelling the registration of a design as is provided for in section 19. 
+CHAPTER VII 
+POWERS AND DUTIES OF CONTROLLER 
+32. Powers of Controller in proceedings under Act.-Subject to any rules made in this behalf, the 
+Controller in any proceedings before him under this Act shall have the powers of a civil court for the purpose of receiving evidence, administering oaths, enforcing the attendance of witnesses, compelling the discovery and production of documents, issuing commissions for the examining of witnesses and awarding costs and such award shall be executable in any court having jurisdiction as if it were a decree of that court.

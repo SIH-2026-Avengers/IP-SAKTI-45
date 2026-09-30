@@ -1,0 +1,42 @@
+Document: FSSAI RELEVENT REGULATION
+Section: Section 14
+Page: 742
+
+Version-XXVI (20.12.2022) 
+ANNEX TO GMP Table 
+ 
+Food Categories or Individual Food Items where GMP Table shall not apply 
+ 
+Sr. 
+No 
+Category number 
+Food category 
+1. 1.1.1 
+Milk and buttermilk (plain) (excluding heat-treated buttermilk) 
+2. 1.1.1.1 
+Milk (plain) 
+3. 1.1.1.2 
+Buttermilk (plain) 
+4. 1.2 
+Fermented and renneted milk products (plain) excluding food category 
+1.1.2 (dairy based drinks) 
+5. 1.2.1 
+Fermented and renneted milk products (plain), excluding food category 1.1.2 (dairy-based drinks) 
+6. 1.2.1.1 
+Fermented milks (plain), not heat-treated after fermentation 
+7. 1.2.1.2 
+Fermented milks (plain), heat-treated after fermentation 
+8. 1.2.2 
+Renneted milk (plain) 
+9. 1.4.1 
+Pasteurized cream (plain) 
+10. 1.4.2 
+Sterilized and UHT creams, whipping or whipped creams, and reduced fat creams (plain) 
+11. 1.6.3 
+Whey Cheese 
+12. 1.6.6 
+Whey protein cheese 
+13. 1.8.2 
+Dried whey and whey products, excluding whey cheese 
+14. 2.1 
+Fats and oils essentially free from water

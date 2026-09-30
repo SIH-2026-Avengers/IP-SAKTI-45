@@ -1,0 +1,9 @@
+Document: Patents_Act_1970
+Page: 8
+
+(2) The head office of the patent office shall be the appropriate office for dealing with the 
+International Bureau of the World Intellectual Property Organisation, International Searching 
+Authorities and International Preliminary Examining Authorities. 
+(3) An international application under the Treaty shall be filed at and processed by the appropriate office in accordance with the provisions of this Chapter, the Treaty and the regulations established under the PCT, 
+(4) Notwithstanding anything contained in sub-rule (2), on receipt of an international application, the appropriate office shall transmit one copy as record copy of such application to International Bureau of the World Intellectual Property Organisation and another copy as search copy to Competent International Searching Authority. 
+The appropriate office shall simultaneously fumish complete details of such application to the head office of the patent offices.

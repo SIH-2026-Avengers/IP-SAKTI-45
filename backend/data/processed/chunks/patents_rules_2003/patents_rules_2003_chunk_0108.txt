@@ -1,0 +1,7 @@
+Document: Patents_Rules_2003
+Section: Section 42
+Page: 41
+
+42. Savings respecting disclosure to Government. 
+Nothing in this Act shall be held to prevent the disclosure by the 
+Controller of information concerning an application for a patent or a specification filed in pursuance thereof to the Central Government for the purpose of the application or specification being examined for considering whether an order under this Chapter should be made or whether an order so made should be revoked.

@@ -1,0 +1,27 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 8
+Page: 41
+
+7. Signature of the person in charge. 
+B. 
+Accounts of Production :- 
+1. Date of manufacture. 
+2. Name of the drug. 
+3. Batch Number. 
+4. Quantity of raw material used in manufacture. 
+5. Anticipated yield. 
+6. Actual yield. 
+7. Wastage. 
+8. Quantity of the manufactured goods transferred to stock. 
+C. 
+Accounts of manufactured drugs :- 
+1. Date of manufacture. 
+2. Name of the drug. 
+3. Batch Number. 
+4. Opening Balance. 
+5. Quantity manufactured. 
+6. Quantity sold. 
+7. Name of the purchaser and his address. 
+8. Balance quantity at the end of the day. 
+(o) The licensee shall store drugs specified in Schedule X in bulk form and when any such drug is required for manufacture it shall be kept in a separate place under direct custody of a responsible person. 
+(p) The licensee shall comply with the requirements of Good Laboratory Practices as laid down in Schedule L-I and] 'Good Manufacturing Practices' as laid down in Schedule M.

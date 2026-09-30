@@ -1,0 +1,7 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 352
+
+0.25 EU /ml. Bulk solution of liquid parenterals shall be made in WFI. Final rinse of product containers and machine part shall be done with WFI. Disinfectant solutions for use in aseptic areas shall be prepared in WFI. 
+8.4. Water for injection for the manufacture of liquid injectables shall be freshly collected from the distillation plant or from a storage or circulation loop where the water has been kept at above 
+70 degree centigrade. At the point of collection, water may be cooled using suitable heat exchanger. 
+8.5. Water for non-injectable sterile products like eye drops shall meet IP specifications for purified water. In addition, microbiological specification of not more than 10 cfu per 100 ml and absence of Pseudomonas aeruginosa and Enterobacter coli in 100 ml shall also be met.

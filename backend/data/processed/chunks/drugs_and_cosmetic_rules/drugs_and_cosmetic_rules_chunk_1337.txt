@@ -1,0 +1,14 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 330
+
+14.1. The system of quality assurance appropriate to the manufacture of pharmaceutical products shall ensure that: 
+ 
+(a) the pharmaceutical products are designed and developed in a way that takes account of the requirements of Good Manufacturing Practices (hereinafter referred as GMP) and other associated codes such as those of Good Laboratory Practice 
+(hereinafter referred as GLP) and Good Clinical Practices (herein after referred as 
+GCP); 
+ 
+(b) adequate arrangements are made for manufacture, supply, and use of the correct starting and packaging materials; 
+ 
+(c) adequate controls on starting materials, intermediate products, and bulk products and other in-process controls, calibrations, and validations are carried out; 
+ 
+(d) the finished products is correctly processed and checked in accordance with established procedures.

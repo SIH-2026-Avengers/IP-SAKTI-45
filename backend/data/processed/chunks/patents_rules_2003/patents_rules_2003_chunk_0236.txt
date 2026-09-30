@@ -1,0 +1,10 @@
+Document: Patents_Rules_2003
+Section: Section 108
+Page: 87
+
+107A. Certain acts not to be considered as infringement. For the purposes of this Act, 
+(a) any act of making, constructing, using, selling or importing a patented invention solely for uses reasonably related to the development and submission of information required under any law for the time being in force, in India, or in a country other than India, that regulates the manufacture, construction, use, sale or import of any product; 
+(b) importation of patented products by any person from a person who is duly authorised under the law to produce and sell or distribute the product, shall not be considered as an infringement of patent rights. 
+ 
+108. Reliefs in suits for infringement. 
+(1) The reliefs which a court may grant in any suit for infringement include an injunction (subject to such terms, if any, as the court thinks fit) and, at the option of the plaintiff, either damages or an account of profits.

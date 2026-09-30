@@ -1,0 +1,5 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 492
+
+carcinogenicity studies may be / are needed. Completed rodent carcinogenicity studies are not needed in advance of the conduct of large scale clinical trials, unless there is special concern for the patient population. 
+Carcinogenicity studies should be done in a rodent species (preferably rat). Mouse may be employed only with proper scientific justification. The selected strain of animals should not have a very high or very low incidence of spontaneous tumors.

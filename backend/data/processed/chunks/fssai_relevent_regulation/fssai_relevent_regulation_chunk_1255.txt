@@ -1,0 +1,34 @@
+Document: FSSAI RELEVENT REGULATION
+Page: 411
+
+17[2.13 RADIATION PROCESSING OF FOOD 
+
+2.13.1: Dose of Radiation - 
+
+(1) 
+Save as provided in clause (2) of sub-regulation 2.13.1, no food shall be processed by radiation. 
+
+(2) 
+No article of food permitted for radiation processing specified in the Table 1 and 
+Table 2 given below shall receive the dose of radiation in excess of the quantity specified in the said Tables at the time of radiation processing - 
+Table 1: Classes of Food Products and Dose Limits for Radiation Processing 
+Class 
+Food 
+Purpose 
+Dose Limit kGy 
+(kilo Gray) 
+Minimum Maximum 
+1 
+2 
+3 
+4 
+5 
+Class 1 
+Bulbs, stem and root tubers and rhizomes 
+Inhibit sprouting 
+0.02 
+0.2 
+Class 2 
+Delay ripening 
+0.2 
+1.0

@@ -1,0 +1,8 @@
+Document: Copyright Rules 2013
+Section: Section 22
+Page: 11
+
+(b) that the licence was obtained by fraud or misrepresentation as to any essential fact; 
+(c) that the licensee has contravened any of the terms and conditions of the licence; 
+(d) the owner of the copyright has satisfied the requirement of the disabled person by publishing in the same format with same or lower price for which compulsory licence was granted. 
+22. Notice for termination of licence.- Notice for termination of licence granted under sub-section (3) of section 31B shall be served on the person holding the licence by the owner of copyright in Form IV.

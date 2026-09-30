@@ -1,0 +1,9 @@
+Document: DESIGN RULES 2001
+Page: 16
+
+01-04 BUTCHER'S MEAT (INCLUDING PORK PRODUCTS), FISH 
+01-05 [vacant] 
+01-06 ANIMAL FOODSTUFFS 
+01-99 MISCELLANEOUS 
+CLASS 02 
+Articles of clothing and haberdashery

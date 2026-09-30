@@ -1,0 +1,11 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 4
+Page: 223
+
+3. Ptrpstsyion. - Selected toxigenic strain of Cl. Welchii type D, is grown in a liquid medium under conditions which ensure maximum epsilon toxin production. The culture is checked for purity and toxicity as tested in mice. Solution of Formaldehyde I.P. is added in suitable concentration and the formolised culture is kept at 370 C till the production is sterile and non-toxic. 
+4. Standard.- 
+ 
+(a) Description. - It is a yellowish brown liquid containing dead bacteria in suspension. 
+ 
+(b) Identification.-When injected into susceptible animals it stimulates the production of epsilon antitoxin of Cl. Welchii, type D. 
+(c) Sterility Test.-Complies with the test for sterility described in the general monograph on 'Bacterial Vaccines'.

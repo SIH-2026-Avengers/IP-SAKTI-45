@@ -1,0 +1,27 @@
+Document: FSSAI RELEVENT REGULATION
+Section: Section 1
+Page: 441
+
+Version-XXVI (20.12.2022) 
+ 
+Residual solvents 
+Not more than 200 mg/kg methanol and not more than 5000 
+ mg/kg ethanol (Method I in Vol. 4, General Methods, Organic 
+Components, Residual Solvents). 
+ 
+Arsenic 
+Not more than 1 mg/kg 
+ 
+Determine by the atomic absorption hydride technique (Use 
+ 
+Method II to prepare the test (sample) solution). 
+ 
+Lead 
+Not more than 1 mg/kg 
+ 
+Determine using an AAS/ICP-AES technique appropriate to the specified level. The selection of sample size and method of sample preparation may be based on the principles of the methods described in Vol. 4 (under "General Methods, Metallic Impurities")] 
+ 
+27[3.2.3 Baker's Yeast 
+1. The Baker's Yeast shall be of the following types: 
+(i) Baker's Yeast, Compressed; and 
+(ii) Baker's Yeast, Dried.

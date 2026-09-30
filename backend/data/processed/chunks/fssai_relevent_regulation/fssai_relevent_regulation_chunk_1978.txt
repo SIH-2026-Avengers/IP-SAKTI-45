@@ -1,0 +1,60 @@
+Document: FSSAI RELEVENT REGULATION
+Section: Section 16
+Page: 754
+
+Version-XXVI (20.12.2022) 
+
+Sampling Plan: 
+The terms n, c, m and M used in this standard have the following meaning: n = Number of units comprising a sample. c = Maximum allowable number of units having microbiological counts above m. m = Microbiological limit that may be exceeded number of units c. 
+M = Microbiological limit that no sample unit may exceed. 
+
+15. Convenience fishery products 
+5 
+2 
+1 
+10 
+5 
+0 
+Absent/25 g 
+5 
+0 
+Absent/25g 5 
+0 
+Absent/25g - 
+- 
+- 
+- 
+16. Powered fish based products 
+- 
+- 
+- 
+- 
+5 
+0 
+Absent/25g - 
+- - 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+ 
+Test Methods 
+IS: 5887 Part 1 or ISO 
+16649-2 
+IS: 5887 Part 3/ ISO 
+6579 
+Vibrio, 
+Bacteriological 
+Analytical Manual, 
+Chapter 9. USFDA 
+BAM Online, May, 
+2004 
+IS: 14988, Part 
+1&2/ISO 11290-1 &2 
+IS: 5887, Part 4 or ISO 
+17919

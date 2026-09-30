@@ -1,0 +1,8 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 354
+
+10.7. Sterilization (By Dry Heat)- 
+ 
+10.7.1. Each heat sterilization cycle shall be recorded on a time / temperature chart of a suitable size by appropriate equipment of the required accuracy and precision. The position of temperature probes used for controlling and/or recording shall be determined during the validation and, where applicable, shall also be checked against a second independent temperature probe located in the same position. The chart shall form a part of the batch record. Container mapping may also be carried out in the case of Large Volume Parenterals. 
+10.7.2. Chemical or biological indicators may also be used, but shall not take the place of physical validation. 
+10.7.3. Sufficient time shall be allowed for the load to reach the required temperature before measurement of sterilization time commences. This time shall be separately determined for each type of load to be processed.

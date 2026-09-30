@@ -1,0 +1,9 @@
+Document: Patents_Act_1970
+Section: Section 108
+Page: 27
+
+Provided that, before removing the name of any person from the roll of scientific advisers under this rule, such person shall be given a reasonable opportunity ofbeing heard. 
+CHAPTER XV 
+PATENT AGENTS 
+108. Particulars to be contained in the register of patent agents. - (1) The register of patent agents maintained under section 125 shall contain the name, nationahty, address of the principal place of business, addresses of branch offices, if any, the qualifications and the date of registration of every registered patent agent. 
+(2) Where the register of patent agents is in computer floppies, diskettes or any other electronic form, it shall be maintained and accessed only by the person who is duly authorised by the Controller and no entry or alteration of any entry or rectification of any entry in the said register shall be made by any person who is not so authorised by the Controller.

@@ -1,0 +1,11 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 7
+Page: 400
+
+An area not less than 10 square meters shall be provided. 
+ 
+6. Sterilization. - The licensee shall provide requisite equipments with required controls and recording device for sterilization of medical devices by Ethylene Oxide Gas in his own premises or may make arrangements with some Institution approved by the Licensing Authority for sterilization. The products sterilized in this manner shall be monitored to assure acceptable levels of residual gas and its degradation products. An area of 10 square meters is recommended for basic installation of such facility. 
+ 
+Provided that the above equipment may not be required in case the licensee opts for sterilization of medical devices by Ionising Radiation. 
+ 
+7. Testing Facilities. - The licensee shall provide testing laboratory for carrying out Chemical and Physio-Chemcial testing of medical devices and of raw materials used in its own premises :

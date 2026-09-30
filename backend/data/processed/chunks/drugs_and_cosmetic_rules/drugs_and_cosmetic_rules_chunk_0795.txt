@@ -1,0 +1,18 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 3
+Page: 184
+
+2.18. Details of PMS study report for marketing period not exceeding five years. 
+3. BIOLOGICAL AND BIOPHARMACEUTICAL INFORMATION OF DRUGS. 
+3.1. Biological control tests applied on the starting material, if applicable. 
+3.2. Biological control tests applied on the intermediate products, if applicable. 
+3.3. Biological control tests applied on the finished medical products, if applicable. 
+3.4. Stability of the finished products in terms of biological potency of the drug, if applicable. 
+3.5. Sterility tests, if applicable, specification and protocol therein. 
+3.6. Pyrogen tests, if applicable specification and protocol therein. 
+3.7. Acute and sub-acute toxicity tests, if applicable specification and protocol therein. 
+3.8. Bio-availability studies and bio-equivalence data, if applicable. 
+3.9. Data relating to the environmental risk assessment for r-DNA products. 
+3.10. Other information relevant under the section. 
+4. 
+PHARMACOLOGICALAND TOXICOLOGICAL INFORMATION OF DRUGS.

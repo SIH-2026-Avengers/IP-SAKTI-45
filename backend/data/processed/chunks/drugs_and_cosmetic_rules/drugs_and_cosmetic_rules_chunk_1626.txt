@@ -1,0 +1,35 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 416
+
+Monosodium salt of 1-p-sulfophenylazo-2- naphthol. 
+Dichlorofluorescein 
+45365 
+4,5- Dichloro-3, 6-fluorandiol. 
+Dichlorofluorescein NA 
+45365 
+Disodium salt of 9-o-carboxyphenyl-1-4,5- dichloro -6- hydroxy-3-isoxanthone. 
+Diiodofluorescein 
+45425 
+4,5- Diiodo-3, 6-fluorandiol. 
+Erythrosine Yellowish NA 
+45425 
+Disodium salt of 9- o-car boxyp h en yl -6- hydroxy-4,5-diiodo -3-isoxanthone. 
+Erythrosine Yellowish K 
+45425 
+Dipotassium salt of 9-o-carboxyphenyl-6- hydroxy-4,5 diiodo-3-isoxanthone. 
+Erythrosine Yellowish NH 
+45425 
+Dipotassium salt of 9-o-carboxyphenyl-6- hydroxy-4,5 diiodo-3-isoxanthone. 
+Orange TR 
+45456 
+4,5, 15 -Tribr omo -2, 7-dicar boxy-3, 6- fluorandiol. 
+Alizarin 
+58000 
+1, 2,-Anthraquinonediol. 
+Dibromodiiodofluorescein 
+45371 
+4,5 - Dibromo-2, 7-diiodo-3, 6-fluorandiol. 
+Resorcin Brown 
+20170 
+Monosodium salt of 4-p-sulfophenylazo-2- 
+(2,4,xylylazo) -1,3-rescorcinol.

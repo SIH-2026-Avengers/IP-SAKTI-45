@@ -1,0 +1,7 @@
+Document: Patents_Act_1970
+Section: Section 113
+Page: 28
+
+11 l. Registration of patent agents. - After a candidate passes the qualifying examination specified in rule 11 0 and after obtaining any further infonnation which the Controller considers necessary he shall, on receipt of the fee specified therefor in the First Schedule, enter the candidate's name in the register of patent agents and issue to him a certificate of registration as a patent agent. 
+112. Details to be included in an application for the registration of a patent agent. - An application by a person entitled to be registered as a patent agent under sub-section (2) of section 126 shall also be made in Form 23. 
+113. Registration of patent agents under section 126 (2). - On receipt of ai:i application for the registration of a person as a patent agent under rule 112, the Controller may if he is satisfied that the said person fulfils the conditions specified in sub-section (2) of section 126 enter his name in the register ofpatent agents.

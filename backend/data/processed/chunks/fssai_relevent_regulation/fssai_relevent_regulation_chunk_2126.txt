@@ -1,0 +1,89 @@
+Document: FSSAI RELEVENT REGULATION
+Section: Section 49
+Page: 808
+
+Version-XXVI (20.12.2022) 
+ 
+TABLE 6: SOLVENT FOR EXTRACTION AND PROCESSING 
+S. No. Name of the processing aid 
+Product Category 
+Residual Level 
+(mg/kg) 
+(Not more than) 
+1. 
+Acetone 
+Flavourings 
+30 
+Spice oleoresins 
+30 
+Colours 
+2 
+Vegetable oils 
+0.1 
+Other foods 
+0.1 
+2. 
+Benzyl alcohol 
+Fatty acids, flavourings, colours 
+GMP 
+3. 
+Butanol 
+Fatty acids, flavourings, colours 
+10 
+Spice oleoresins 
+2 
+4. 
+Butan-2-ol 
+Spice oleoresins 
+2 
+5. 
+Carbon dioxide 
+(INS 290) 
+Flavourings 
+GMP 
+Spice oleoresins 
+GMP 
+6. 
+Cyclohexane 
+Flavourings, vegetable oils 
+1 
+ 
+7. 
+Dibutyl ether 
+Flavourings 
+2 
+ 
+8. 
+Diethyl ether 
+Flavourings, colors 
+2 
+Spice oleoresins 
+2 
+9. 
+Dimethyl ether 
+Flavourings 
+2 
+10. 
+Ethyl acetate 
+Flavourings 
+10 
+Spice oleoresins 
+50 
+11. 
+Ethyl alcohol 
+Spice oleoresins 
+GMP 
+43. Thiamine 
+GMP 
+44. Threonine 
+GMP 
+45. Trisodium orthophosphate 
+GMP 
+46. Uracil 
+GMP 
+47. Xanthine 
+GMP 
+48. Zinc chloride 
+GMP 
+49. Zinc sulphate 
+GMP

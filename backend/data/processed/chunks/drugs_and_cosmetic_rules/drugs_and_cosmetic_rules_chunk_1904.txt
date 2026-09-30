@@ -1,0 +1,70 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 493
+
+Route of administration 
+Duration of proposed human administration 
+Human Phase(s) for which study is proposed to be conducted 
+Long term toxicity requirements 
+Oral or Parenteral or 
+Transdermal 
+Single dose or several doses in one day, Upto 1wk 
+I,II,III 
+2sp,2wk 
+> 1 wk but upto 2wk 
+I,II,III 
+2sp;4wk 
+> 2 wk but upto 4wk 
+I,II,III 
+2sp;12wk 
+Over 1mo 
+I,II,III 
+2sp;24wk 
+Inhalation (general anaesthetics, aerosols) 
+Upto 2 wk 
+I,II,III 
+3h/d, 5d/wk) 
+2sp;1mo; 
+(Exposure time 
+Upto 4wk 
+I,II,III 
+(Exposure time 
+6h/d, 5d/wk) 
+2sp;12wk, 
+> 1 4wk 
+I,II,III 
+(Exposure time 
+6h/d, 5d/wk) 
+2sp;24wk, 
+Local Toxicity Studies 
+Dermal 
+Upto 2 wk 
+I,II, 
+1sp;4wk 
+III 
+2sp;4wk 
+> 2 wk 
+I,II,III 
+2sp;12wk 
+Ocular or Otic or 
+Nasal 
+Upto 2 wk 
+I,II 
+1sp;4wk 
+III 
+2sp;4wk 
+> 2 wk 
+I,II,III 
+2sp;12wk 
+Vaginal or Rectal 
+Upto 2 wk 
+III 
+I,II 
+1sp;4wk 
+2sp;4wk 
+> 2 wk 
+I,II,III 
+2sp;12wk 
+
+Systemic Toxicity Studies 
+
+'

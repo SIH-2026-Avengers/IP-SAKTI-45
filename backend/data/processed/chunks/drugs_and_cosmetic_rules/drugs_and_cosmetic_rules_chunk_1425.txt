@@ -1,0 +1,6 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 355
+
+10.8. Sterilization (By Moist Heat)- 
+ 
+10.8.1. Both the temperature and pressure shall be used to monitor the process. Control instrumentation shall normally be independent of monitoring instrumentation and recording charts. Where automated control and monitoring systems are used for these applications, these shall be validated to ensure that critical process requirements are met. System and cycle faults shall be registered by the system and observed by the operator. The reading of the independent temperature indicator shall be routinely checked against the chart-recorder during the sterilization period. For sterilizers fitted with a drain at the bottom of the chamber, it may also be necessary to record the temperature at this position throughout the sterilization period. There shall be frequent leak tests done on the chamber during the vacuum phase of the cycle.

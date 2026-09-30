@@ -1,0 +1,33 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 6
+Page: 369
+
+5. In-process Controls.- 
+ 
+5.1. In-process controls for chemical reactions may include the following : 
+ 
+(a) reaction time or reaction completion; 
+ 
+(b) reaction mass appearance, clarity, completeness or pH solutions; 
+ 
+(c) reaction temperature; 
+ 
+(d) concentration of a reactant; 
+ 
+(e) assay or purity of the product; 
+ 
+(f) process completion check by TLC/any other means. 
+ 
+5.2. In-process controls for physical operations may include the following : 
+ 
+(a) appearance and color; (b) uniformity of the blend; (c) temperature of a process; 
+(d) concentration of a solution; 
+ 
+(e) processing rate or time; 
+ 
+(f) particle size analysis; 
+ 
+(g) bulk/ tap density; 
+(h) pH determination; 
+(i) moisture content; 
+6. Product containers and closures.-

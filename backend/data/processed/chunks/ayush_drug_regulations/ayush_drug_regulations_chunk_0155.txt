@@ -1,0 +1,6 @@
+Document: AYUSH DRUG REGULATIONS
+Page: 38
+
+(ii) in sub-paragraph 5.2, after the words, 'shall accompany the materials.', the words "Flammable and hazardous chemicals shall be stored in separate dedicated areas. Staff should be trained for safety measures to handle such chemicals. Handling of such chemicals should be done under Laboratory safety or fume hood." shall be inserted; 
+(iii) for sub-paragraph 5.4, the following sub-paragraph shall be substituted, namely: - 
+"5.4. Sarcodes- The materials shall be those collected from healthy animals and shall be of pharmacopoeial specification. The materials shall be those collected, packed and transported under proper hygienic conditions, well protected from all contamination and should be stored in controlled temperature to avoid microbial contamination. The materials shall be accompanied by statements as in the para 'a' above. The materials shall be tested to see that they are free from pathogenic organisms such as E.Coli, Salmonella, etc.";

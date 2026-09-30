@@ -1,0 +1,9 @@
+Document: Patents_Rules_2003
+Section: Section 16
+Page: 23
+
+15. Power of Controller to refuse or require amended applications, etc., in certain cases. 
+Where the Controller is satisfied that the application or any specification or any other document filed in pursuance thereof does not comply with the requirements of this Act or of any rules made thereunder, the Controller may refuse the application or may require the application, specification or the other documents, as the case may be, to be amended to his satisfaction before he proceeds with the application and refuse the application on failure to do so. 
+ 
+16. Power of Controller to make orders respecting division of application. 
+(1) A person who has made an application for a patent under this Act may, at any time before the grant of the patent, if he so desires,

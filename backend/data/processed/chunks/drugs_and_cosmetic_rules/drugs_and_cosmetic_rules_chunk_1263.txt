@@ -1,0 +1,12 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 1
+Page: 310
+
+SCHEDULE L-I 
+(see rules 74, 78 and 150 E) 
+Good Laboratory Practices and Requirements of Premises and Equipments 
+1. General Requirements:- 
+(a) The laboratory or the organisation of which it is a part must be an entity that is legally authorised to function and can be held legally responsible. 
+(b) It is the responsibility of the management to ensure that the laboratory carry out its testing, calibration, validation, and all other technical activities in such a way as to meet Good Laboratory 
+Practices (GLP) requirements. 
+(c) Laboratory management shall have a qualified individual to be known as quality manager or technical manager for carrying out all technical activities and for the implementation of documented quality system and shall report to the top management directly.

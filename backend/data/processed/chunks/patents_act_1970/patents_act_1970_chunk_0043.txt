@@ -1,0 +1,6 @@
+Document: Patents_Act_1970
+Section: Section 30
+Page: 12
+
+30. Amendment of tbe complete specification In case of anticipation. - (I) If the applicant so requests at any time, or if the Controller is satisfied that the objection has not been removed within the period referred to in sub-clause (2) of rule 29, a date for hearing the applicant shall be fixed forthwith and the applicant shall be given at least ten days' notice of the date so fixed. The applicant shall, as soon as possible, notify the Controller whether he will attend the hearing. 
+(2) After hearing the applicant, or without a hearing if the applicant has not attended or has notified that he does not desire to be heard, the Controller may specify or permit such amendment of the specification as will be to his satisfaction to be made and may direct that reference to such other specification, as he shall mention shall be inserted m the applicant's specification unless the amendment is made or agreed to within such period as he may fix.

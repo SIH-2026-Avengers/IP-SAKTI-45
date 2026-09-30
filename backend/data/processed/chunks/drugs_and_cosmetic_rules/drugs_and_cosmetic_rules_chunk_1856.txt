@@ -1,0 +1,5 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 481
+
+Toxicokinetic studies (generation of pharmacokinetic data either as an integral component of the conduct of non-clinical toxicity studies or in specially designed studies) should be conducted to assess the systemic exposure achieved in animals and its relationship to dose level and the time course of the toxicity study. Other objectives of toxicokinetic studies include obtaining data to relate the exposure achieved in toxicity studies to toxicological findings and contribute to the assessment of the relevance of these findings to clinical safety, to support the choice of species and treatment regimen in nonclinical toxicity studies and to provide information which, in conjunction with the toxicity findings, contributes to the design of subsequent non-clinical toxicity studies. 
+1.1 Systemic Toxicity Studies

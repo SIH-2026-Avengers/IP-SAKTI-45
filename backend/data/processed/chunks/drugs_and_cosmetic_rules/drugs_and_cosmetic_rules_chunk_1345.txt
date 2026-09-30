@@ -1,0 +1,7 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 332
+
+16.7. Reference/retained samples from each batch of the products manufactured shall be maintained in a quantity which is atleast twice the quantity of the drug required to conduct all the tests, except sterility and pyrogen/Bacterial Endotoxin Test performed on the active material and the product manufactured. The retained product shall be kept in its final pack or a simulated pack for a period of three months after the date of expiry. 
+ 
+16.8. Assessment of records pertaining to finished products shall include all relevant factors, including the production conditions, the results of in-process testing, the manufacturing 
+(including packaging) documentation, compliance with the specification for the finished product, and an examination of the finished pack. Assessment records should be signed by the in-charge of production and countersigned by the authorised quality control personnel before a product is released for sale or distribution.

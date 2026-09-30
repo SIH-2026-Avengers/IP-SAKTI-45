@@ -1,0 +1,63 @@
+Document: FSSAI RELEVENT REGULATION
+Section: Section 7
+Page: 451
+
+Version-XXVI (20.12.2022) 
+Table 
+SI.No. 
+Characteristic 
+Requirements 
+(1) 
+(2) 
+(3) 
+1. 
+Purity as C3H5O2Na, per cent. by mass, on dry basis, 
+Min 
+99 
+2. 
+Moisture, per cent. by mass, Max 
+1 
+3. 
+Matter insoluble in water, per cent. by mass, Max 
+0.1 
+4. 
+Iron, mg/kg, Max 
+30 
+5. 
+Arsenic, mg/kg, Max 
+3.0 
+6. 
+Lead, mg/kg, Max 
+5.0 
+7. Sulphur dioxide: 
+(1) Sulphur dioxide shall be a colourless, non-flammable gas, with a strong, pungent suffocating odour and as described below, namely:- 
+Common Name 
+Sulphur dioxide 
+INS No. 
+220 
+C.A.S No. 
+7446-09-5 
+Chemical Name 
+Sulphur dioxide, sulphurous acid anhydrate 
+Empirical Formula 
+SO2 
+Molecular weight 
+64.007 
+(2) Sulphur dioxide shall conform to the requirements specified in the table below, namely:- 
+ 
+Table 
+SI. No. 
+Characteristic 
+Requirements 
+(1) 
+(2) 
+(3) 
+1. 
+Purity (as SO2), per cent. by mass, on dry basis, 
+Min 
+95 
+2. 
+Non-volatile residue shall conform to test as per 
+BIS Standard 
+3. 
+Moisture, per cent. by mass, Max

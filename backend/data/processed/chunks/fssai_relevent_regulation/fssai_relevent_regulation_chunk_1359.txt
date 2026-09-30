@@ -1,0 +1,26 @@
+Document: FSSAI RELEVENT REGULATION
+Section: Section 5
+Page: 449
+
+Min 
+99 
+2 
+Moisture, per cent. by mass, Max 
+0.5 
+3 
+Sulphated ash, per cent. by mass, Max 
+0.2 
+4 
+Aldehydes, per cent. by mass, Max 
+0.1 
+5 
+Melting range, 0C 
+132 - 135 
+6 
+Arsenic, mg/kg, Max 
+3.0 
+7 
+Lead, mg/kg, Max 
+2.0 
+ 
+5. Potassium nitrite:

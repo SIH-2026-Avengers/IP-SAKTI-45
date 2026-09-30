@@ -1,0 +1,25 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 4
+Page: 479
+
+APPENDIX IA 
+DATA REQUIRED TO BE SUBMITTED BY AN APPLICANT FOR GRANT OF 
+PERMISSION TO IMPORT AND / OR MANUFACTURE A NEW DRUG 
+ALREADY APPROVED IN THE COUNTRY 
+1. Introduction 
+A brief description of the drug and the therapeutic class 
+2. 
+Chemical and pharmaceutical information 
+2.1 Chemical name, code name or number, if any; non-proprietary or generic name, if any, structure; physico-chemical properties 
+2.2 Dosage form and its composition 
+2.3 Test specifications 
+(a) active ingredients 
+(b) inactive ingredients 
+2.4 Tests for identification of the active ingredients and method of its assay 
+2.5 Outline of the method of manufacture of active ingredients 
+2.6 Stability data 
+3. Marketing information 
+3.1 Proposed package insert / promotional literature 
+3.2 Draft specimen of the label and carton 
+4. Special studies conducted with approval of Licensing Authority 
+4.1 Bioavailability / Bioequivalence and comparative dissolution studies for oral dosage forms

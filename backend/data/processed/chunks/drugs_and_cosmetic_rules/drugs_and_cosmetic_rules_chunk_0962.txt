@@ -1,0 +1,17 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 4
+Page: 227
+
+The mixture is blended until a homogeneous emulsion is obtained which is filled in suitable containers. 
+4. Standards: 
+ 
+(a) 
+ Description-It is a white thick oily liquid containing dead bacteria in suspension. 
+(b) 
+Identification.-It protects susceptible animals against infection with P. septica. 
+(c) Sterility Test.-Complies with the test for "Sterility" described in the general monograph on "Bacterial Vaccines". 
+(d) Safety Test.-Six white mice each weighing not less than 18g. are inoculated intraperitoneally each with 0.5 ml. of the vaccine. None of the mice should die of 
+Pasteurellosis during the observation period of seven days. 
+The vaccine is also inoculated into six sheep and six goats in a dose of 3ml. each intramuscularly and are observed for a period of seven days. During this period none should die of Pasteurellosis. 
+(e) 
+ Potency Test.-Not being done at present.

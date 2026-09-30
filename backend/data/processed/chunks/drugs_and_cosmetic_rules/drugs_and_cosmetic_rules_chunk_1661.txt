@@ -1,0 +1,7 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 425
+
+denotes Acceptance Quality Level. 
+ 
+AC denotes Acceptance Number i.e., the maximum allowable number of defectives for acceptance of the Batch; and 
+R denotes Rejection Number i.e., the minimum number of defectives for rejection of the Batch. ]

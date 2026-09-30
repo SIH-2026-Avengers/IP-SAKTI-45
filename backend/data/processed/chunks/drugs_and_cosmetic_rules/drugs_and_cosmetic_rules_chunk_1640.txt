@@ -1,0 +1,12 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 4
+Page: 420
+
+4. Procedure for sampling and testing of finished products by a manufacturer.- 
+ 
+A. Water Leakage Test.- (1) Statistical sampling for quality control assessment of the finished product in respect of Water Leakage Test shall be done in accordance with the plan set out in Annexure I to this Schedule. 
+ 
+(2) A test sample failing in the above test is to be considered as defective. If the cumulative total of rejects 'R' is found to be equal to or greater than the number shown against 'R' in Annexure-I, the batch or lot shall be declared as not of standard quality. 
+ 
+B. Bursting Volume and Pressure Test. - (1) Sample condoms shall be tested for Bursting 
+Volume and Pressure Test. Statistical sampling for this test shall be done in accordance with the plan set out in Annexure III to this Schedule.

@@ -1,0 +1,7 @@
+Document: DESIGN RULES 2001
+Page: 22
+
+Means of transport or hoisting 
+Note: 
+(a) Includes all vehicles, land, sea, air, space and others. 
+(b) Including parts, components and accessories which exist only in connection with a and vehicle cannot be placed in another class; these parts, components and accessories of vehicles are to be placed in the subclass of the vehicle in question, or in Class 12-16 if they are common to several vehicles included in different subclasses.

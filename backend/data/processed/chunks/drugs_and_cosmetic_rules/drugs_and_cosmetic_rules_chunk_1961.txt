@@ -1,0 +1,20 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 8
+Page: 509
+
+6. Subject Eligibility 
+ 
+(a) 
+ Inclusion Criteria 
+ 
+(b) 
+Exclusion Criteria 
+ 
+7. Study Assessments - plan, procedures and methods to be described in detail 
+ 
+8. Study Conduct stating the types of study activities that would be included in this section would be: medical history, type of physical examination, blood or urine testing, electrocardiogram (ECG), diagnostic testing such as pulmonary function tests, symptom measurement, dispensation and retrieval of medication, Subject cohort assignment, adverse event review, etc. 
+Each visit should be described separately as Visit 1, Visit 2, etc. 
+ 
+Discontinued Subjects: Describes the circumstances for Subject withdrawal, dropouts, or other reasons for discontinuation of 
+Subjects . State how dropouts would be managed and if they would be replaced 
+Describe the method of handling of protocol waivers, if any. The person(s) who approves all such waivers should be identified and the criteria used for specific waivers should be provided.

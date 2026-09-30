@@ -1,0 +1,65 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 494
+
+1.9 Number of animals required for repeated-dose toxicity studies 
+ 
+14-28 Days 
+84-182 days 
+Group 
+Rodents 
+(Rats) 
+Non-Rodents 
+(Dog or Monkey 
+Rodents 
+(Rat) 
+Non-Rodents 
+(Dog or Monkey
+M 
+F 
+M 
+F 
+M 
+F 
+M 
+F 
+Control 
+6-10 
+6-10 
+6-10 
+6-10 
+6-10 
+6-10 
+6-10 
+6-10 
+2-3 
+2-3 
+2-3 
+2-3 
+2-3 
+2-3 
+2-3 
+2-3 
+15-30 
+15-30 
+15-30 
+15-30 
+15-30 
+15-30 
+15-30 
+15-30 
+4-6 
+4-6 
+4-6 
+4-6 
+4-6 
+4-6 
+4-6 
+4-6 
+ 
+2.0 Laboratory parameters to be included in toxicity studies. 
+ 
+Haematological parameters 
+• Haemoglobin • Total RBC Count • Haematocrit • Reticulocyte Count 
+• Total WBC Count • Differential WBC Count• Platelet Count • Terminal Bone Marrow Examination 
+• ESR (Non- rodents only) • General Blood Picture: A special mention of abnormal and immature cells should be made. • Coagulation Parameters (Non-rodents only): Bleeding Time, Coagulation 
+Time, Prothrombin Time, Activated Partial Thromboplastin Time

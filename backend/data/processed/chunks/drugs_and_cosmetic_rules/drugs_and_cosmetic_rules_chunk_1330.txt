@@ -1,0 +1,9 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 12
+Page: 328
+
+11.4. To avoid accidental contamination, wherever possible, non-toxic/edible grade lubricants shall be used and the equipment shall be maintained in a way that lubricants do not contaminate the product being produced. 
+ 
+11.5. Defective equipment shall be removed from production and Quality Control areas or appropriately labeled. 
+ 
+12. Documentation and records.- Documentation is an essential part of the Quality assurance system and, as such, shall be related to all aspects of Good Manufacturing Practices (GMP). Its aim is to define the specifications for all materials, method of manufacture and control, to ensure that all personnel concerned with manufacture know the information necessary to decide whether or not to release a batch of a drug for sale and to provide an audit trail that shall permit investigation of the history of any suspected defective batch.

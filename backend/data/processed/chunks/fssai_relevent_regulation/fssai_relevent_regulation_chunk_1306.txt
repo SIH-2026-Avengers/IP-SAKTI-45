@@ -1,0 +1,23 @@
+Document: FSSAI RELEVENT REGULATION
+Page: 429
+
+Yellow units 
+5.0
+Red units 
+0.4
+ or be not less than the colour of the following inorganic solution at a liquid depth of one centimeter which may be employed for matching the stated dilution in a plunger type colorimeter using incident light closely approximating the normal day light: 
+ 
+Potassium Bichromate 
+0.320 g 
+ 
+Cobalt ammonium sulphate 
+(CoSO4 (NH4)2 SO4 6H2O) 
+2.02 g 
+ 
+Sulphuric acid, Sp-gr 1.84 
+2ml 
+ 
+Distilled water to make solution to one litre 
+ 
+These reagents shall be of the analytical reagent grade. Although the solution retains its tinctorial value for a considerable time, after prolonged storage, its optical clarity shall be examined before use, to ensure that no alteration has taken place. 
+Note 1 - Diluted solution of annatto colour in amyl acetate is not stable in colour quality, particularly if exposed to light, and measurement shall be carried out on the diluted solution without undue delay.

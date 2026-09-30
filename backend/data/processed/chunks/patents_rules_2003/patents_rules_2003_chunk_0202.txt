@@ -1,0 +1,6 @@
+Document: Patents_Rules_2003
+Section: Section 91
+Page: 75
+
+91. Licensing of related patents. 
+(1) Notwithstanding anything contained in the other provisions of this Chapter, at any time after the sealing of a patent, any person who has the right to work any other patented invention either as patentee or as licensee thereof, exclusive or otherwise, may apply to the Controller for the grant of a licence of the first-mentioned patent on the ground that he is prevented or hindered without such licence from working the other invention efficiently or to the best advantage possible.

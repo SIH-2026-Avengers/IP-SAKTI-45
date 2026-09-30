@@ -1,0 +1,14 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 2
+Page: 186
+
+ANNEXURE-B 
+(See Schedule D-II, item No. 7) 
+INFORMATION TO BE SUBMITTED IN SCHEDULE D-II 
+ 
+SPECIFIC INFORMATION REQUIRED FOR THE DIAGNOSTIC KITS 
+A product dossier showing the:- 
+1. The details of source antigen or antibody as the case may be and characterization of the same. Process control of coating of antigen or antibody on the base material like Nitrocellulose paper, strips or cards or ELISA wells etc. 
+Details composition of the kit and manufacturing flow chart process of the kit showing the specific flow diagram of individual components or source of the individual components. 
+2. Test protocol of the kit showing the specifications and method of testing. 
+In house evaluation report to sensitivity, specificity and stability studies carried out by the manufacturer.

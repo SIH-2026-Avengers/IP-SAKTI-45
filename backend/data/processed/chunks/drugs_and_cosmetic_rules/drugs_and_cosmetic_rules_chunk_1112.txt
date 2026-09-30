@@ -1,0 +1,6 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 4
+Page: 261
+
+4. Abnormal Toxicity - All anti-sera shall comply with the following tests for freedom from abnormal toxicity. 
+(a) Two healthy mice each weighing not less than 18 g. are injected subcutaneously each with 0.5 ml. of the sample and observed for five days. None of the mice should show any abnormal reaction or die.

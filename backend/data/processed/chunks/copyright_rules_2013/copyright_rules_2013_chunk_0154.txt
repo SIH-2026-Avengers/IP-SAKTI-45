@@ -1,0 +1,19 @@
+Document: Copyright Rules 2013
+Section: Section 17
+Page: 57
+
+16 
+(a) whether a translation in the same language has been published before: 
+ 
+(b) whether the earlier translation is out-of-print. 
+(c) Full name, address and nationality of the earlier translator and, if the said translator is deceased, the date to his decease. 
+(d) Title of the earlier translation. 
+(e) Full name, address and nationality of the publisher of the earlier translation. 
+(f) Year of publication. 
+(g) Price per copy of the earlier translation. 
+(h) If the earlier translation is registered under section 45, the Registration number. 
+(i) Rate and amount of royalty paid to the copyright owner in respect of the earlier translation, if known. 
+17. (a) Whether translation has been made into any language other than the language stated in 5 above. 
+(b)Full name, address and nationality of the translator and, if the said translator is deceased, the date of his decease. 
+(c) Title of the translation. 
+(d) Language of the translation.

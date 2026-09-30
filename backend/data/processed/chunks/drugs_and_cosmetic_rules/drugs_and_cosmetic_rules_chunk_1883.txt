@@ -1,0 +1,6 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 488
+
+lowest one should be proportional to the proposed dose for clinical use in humans or a multiple 
+ may be smaller, but the drug content should be several fold higher than the proposed human dose. Observation parameters should include clinical signs (sliding on backside), signs of pain, blood and/or mucus in faeces, condition of anal region/sphincter, gross and (if required) histological examination of rectal mucosa. 
+(v) Parenteral Drugs: For products meant for intravenous or intramuscular or subcutaneous or intradermal injection the sites of injection in systemic toxicity studies should be specially examined grossly and microscopically. If needed, reversibility of adverse effects may be determined on a case to case basis.

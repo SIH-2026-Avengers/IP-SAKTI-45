@@ -1,0 +1,9 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 22
+Page: 454
+
+18. Records of cleaning and sterilisation of containers and closures, if necessary. 
+19. Records of sterilisation in case of parenteral preparations which are heat sterilised including particulars of time, temperature and pressure employed. Such records should be marked to relate to the batch sterilised. 
+20. Number and size of containers filled and quantity rejected. 
+21. The theoretical yield and actual yield and the percentage yield thereof. 
+22. Reference to Analytical report numbers stating whether of standard quality or otherwise.

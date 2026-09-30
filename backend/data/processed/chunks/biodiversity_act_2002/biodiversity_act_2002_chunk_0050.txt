@@ -1,0 +1,9 @@
+Document: Biodiversity_Act_2002
+Section: Section 39
+Page: 12
+
+38. Without prejudice to the provisions of any other law for the time being in force, the Central Government, in consultation with the concerned State Government, may from time to time notify any species which is on the verge of extinction or likely to become extinct in the near future as a threatened species and prohibit or regulate collection thereof for any purpose and take appropriate steps to rehabilitate and preserve those species. 
+ 
+39. (1) The Central Government may, in consultation with the National Biodiversity Authority, designate institutions as repositories under this Act for different categories of biological resources. 
+(2)The repositories shall keep in safe custody the biological material including voucher specimens deposited with them. 
+(3)Any new taxon discovered by any person shall be notified to the repositories or any institution designated for this purpose and he shall deposit the voucher specimens with such repository or institution.

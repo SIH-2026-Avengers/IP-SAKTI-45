@@ -1,0 +1,15 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 7
+Page: 366
+
+6. Equipment- 
+ 
+6.1. Manufacturing equipment shall be of closed system. The vessels and supply lines shall be of stainless steel. 
+6.2. Suitable check weights, spray testing machines and labeling machines shall be provided in the department. 
+6.3. All the equipment shall be suitably calibrated and their performance validated on receipts and thereafter periodically. 
+7. Manufacture- 
+ 
+7.1. There shall be an approved Master Formula Records for the manufacture of metered dose inhalers. All propellants, liquids and gases shall be filtered through 2 µ filters to remove particles. 
+7.2. The primary packing material shall be appropriately cleaned by compressed air suitably filtered through 0.2 µ filter. The humidity of the compressed air shall be controlled as applicable. 
+7.3. The valves shall be carefully handled and after de-cartoning, these shall be kept in clean, closed containers in the filling room. 
+7.4. For suspensions, the bulk shall be kept stirred continuously.

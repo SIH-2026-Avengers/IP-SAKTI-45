@@ -1,0 +1,17 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 508
+
+(ii) Study conditions for drug substances and formulations intended to be stored in a refrigerator Study 
+Study conditions Duration of study Long term 5°C ± 3°C 
+12 months Accelerated 
+25°C ± 2°C/60% RH ± 5% RH 
+6 months 
+(iii) Study conditions for drug substances and formulations intended to be stored in a freezer Study 
+ 
+Study conditions
+ 
+Duration of study Long term 
+- 20°C ± 5°C 
+12 months 
+(iv) Drug substances intended for storage below -20°C shall be treated on a case-by-case basis. 
+(v) Stability testing of the formulation after constitution or dilution, if applicable, should be conducted to provide information for the labelling on the preparation, storage condition, and in-use period of the constituted or diluted product. This testing should be performed on the constituted or diluted product through the proposed in-use period.

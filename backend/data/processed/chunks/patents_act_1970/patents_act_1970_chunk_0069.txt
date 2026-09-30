@@ -1,0 +1,9 @@
+Document: Patents_Act_1970
+Section: Section 67
+Page: 18
+
+Controller. 
+65. Procedure to be followed. - (1) If the specification has not been amended to the satisfaction of the Controller within the time allowed under rule 64, he shall forthwith fix a date and time for hearing and the applicant shall be given at least ten days' nOtice of such date of hearing. 
+(2) After hearing the applicant, or without a hearing if the applicant has not attended or has notified that he does not desire to bb heard, the Controller may prescribe or permit such amendment of the specification as determined and may refuse to grant a patent unless the amendment is made within ten days from the date of the order. 
+66. Form of making a request under section 28 (2). - A request under sub-section (2) of section 28 shall be made in Form 8. 
+67. Form of making a claim under section 28 (3). - (1) A claim under sub-section (3) of section 28 shall be made in Form 8, and shall be accompanied by a statement setting out the circumstances under which the claim is made.

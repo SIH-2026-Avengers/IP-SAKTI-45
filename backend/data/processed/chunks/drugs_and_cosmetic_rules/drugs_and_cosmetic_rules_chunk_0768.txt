@@ -1,0 +1,40 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 4
+Page: 174
+
+Abnormal or undue toxicity or safety test 
+20 0 
+Determination of Lethal doses, 
+LD or LD in mice 
+10 
+50 
+800 
+Skin senstivity/eye irritation 
+250 
+Implantation test 
+2000 
+2. Microbiological tests and assays 
+Bioassay of Antibiotic 400 
+Microbiological assay of vitamins 300 
+Phenol coefficient 300 
+Preservatives - Microbial challenge test 2000 
+Sterility test - Parenteral preparations 10 0 
+Surgical dressings 20 0 
+Syringes and needles 30 0 
+Transfusion and infusion sets or assemblies, other sterile devices 400 
+3. Identification tests 
+(a) Chemical Methods 50 
+(b) Microscopical 5 0 
+(C) IR Spectroscopy 15 0 
+(d) UV Spectroscopy 10 0 
+(e) Chromatography 
+(i) Paper 10 0 
+(ii) Thin layer 15 0 
+(iii) Column 10 0 
+(iv) GLC 25 0 
+(v) HPLC 50 0 
+(vi) Gel filtration 30 0 
+(f) Electrophoresis 
+(i) Paper and cellulose acetate 20 0 
+(ii) Polyacrylamide Gel, starch gel, agar gel 300 each 
+4. Physical tests

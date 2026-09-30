@@ -1,0 +1,7 @@
+Document: COPYRIGHT ACT 1957
+Page: 40
+
+2[(ab) the doing of any act necessary to obtain information essential for operating inter-operability of an independently created computer programme with other programmes by a lawful possessor of a computer programme provided that such information is not otherwise readily available; 
+(ac) the observation, study or test of functioning of the computer programme in order to determine the ideas and principles which underline any elements of the programme while performing such acts necessary for the functions for which the computer programme was supplied; 
+(ad) the making of copies or adaptation of the computer programme from a personally legally obtained copy for non-commercial personal use;] 
+3[(b) the transient or incidental storage of a work or performance purely in the technical process of electronic transmission or communication to the public;

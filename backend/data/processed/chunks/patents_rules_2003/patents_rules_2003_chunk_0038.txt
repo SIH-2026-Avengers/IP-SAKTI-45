@@ -1,0 +1,13 @@
+Document: Patents_Rules_2003
+Section: Section 11
+Page: 17
+
+(6) A declaration as to the inventorship of the invention shall, in such cases as may be prescribed, be furnished in the prescribed form with the complete specification or within such period as may be prescribed after the filing of that specification. 
+ 
+(7) Subject to the foregoing provisions of this section, a complete specification filed after a provisional specification may include claims in respect of developments of, or additions to, the invention which was described in the provisional specification, being developments or additions in respect of which the applicant would be entitled under the provisions of section 6 to make a separate application for a patent. 
+ 
+11. Priority dates of claims of a complete specification. 
+(1) There shall be a priority date for each claim of a complete specification. 
+ 
+(2) Where a complete specification is filed in pursuance of a single application accompanied by 
+(a) a provisional specification; or

@@ -1,0 +1,9 @@
+Document: Patents_Act_1970
+Section: Section 32
+Page: 12
+
+31. Form of reference to another specification, - When in pursuance of rule 30, the 
+Controller directs that a reference to another specification shall be inserted in the applicant's complete specification, such reference shall be inserted after the claims and shall be in the following form, namely: 
+"Reference has been directed, in pursuance of section 18 (2) of the Patents Act, 1970, to the specification filed in pursuance of application No........... , .... " 
+' 
+32. Procedure in case of potential infringement. - If in consequence of an investigation made under section 13 or section 25, it appears to the Controller that the applicant's invention cannot be performed without substantial risk of infringement of a claim of another patent, the applicant shall be so informed and the procedure provided in rule 29 shall, so far as may be necessary, be applicable.

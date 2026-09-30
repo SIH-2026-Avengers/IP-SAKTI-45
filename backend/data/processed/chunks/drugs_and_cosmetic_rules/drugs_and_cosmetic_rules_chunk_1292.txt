@@ -1,0 +1,8 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 15
+Page: 317
+
+The test methods shall be submitted to the ·concerned Drug Control Authority. The validated test methods developed by the manufacturer or the laboratory shall stand to the requirements of compendial parameters in regard to its precision, accuracy, reproducibility, specificity, linearity, and ruggedness etc. 
+ 
+15. Raw data:- 
+(a) Raw data refers to the laboratory work sheet, note books or analysis sheet, records,

@@ -1,0 +1,5 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 3
+Page: 264
+
+3. Preparation - The serum is prepared after intravenous inoculation of suspension of smooth culture of B. abortus (strain 99) in rabbits or cattle and subsequently diluting it suitably with brucella-free healthy serum such that when tested with standardized Brucella abortus tube test antigen, it gives 50% agglutination at 1/500 final serum dilution.

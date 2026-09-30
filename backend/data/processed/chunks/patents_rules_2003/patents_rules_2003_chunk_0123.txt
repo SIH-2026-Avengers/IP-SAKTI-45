@@ -1,0 +1,8 @@
+Document: Patents_Rules_2003
+Section: Section 52
+Page: 46
+
+52. Grant of patent to true and first inventor where it has been obtained by another in fraud of him. 
+(1) Where the patent has been revoked under section 64 on the ground that the patent was obtained wrongfully and in contravention of the rights of the petitioner or any person under or through whom he claims, or, where in a petition for revocation, the court, instead of revoking the patent, directs the complete specification to be amended by the exclusion of a claim or claims in consequence of a finding that the invention covered by such claim or claims had been obtained from the petitioner, the court may, by order passed in the same proceeding, permit the grant to the petitioner of the whole or such part of the invention which the court finds has been wrongfully obtained by the patentee, in lieu of the patent so revoked or is excluded by amendment. 
+ 
+(2) Where any such order is passed, the Controller shall, on request by the petitioner made in the prescribed manner grant to him:

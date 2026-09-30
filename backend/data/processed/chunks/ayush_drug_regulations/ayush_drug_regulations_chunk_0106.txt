@@ -1,0 +1,7 @@
+Document: AYUSH DRUG REGULATIONS
+Section: Section 9
+Page: 30
+
+9. In the said rules, in rule 161,- 
+(a) in sub-rule (1) for the second proviso, the following proviso shall be substituted, namely:- 
+"Provided further that if the list of ingredients contained in the medicine is large and cannot be accommodated on the label, the same may be printed separately and enclosed with the packing and reference be made to this effect on the label or may be displayed through QR code or Global Trade Item Number (GTIN) or Bar code.";

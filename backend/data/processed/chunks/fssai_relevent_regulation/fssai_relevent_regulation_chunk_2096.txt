@@ -1,0 +1,54 @@
+Document: FSSAI RELEVENT REGULATION
+Page: 797
+
+Version-XXVI (20.12.2022) 
+ 
+77[Table-9 Microbiological Standards of Food Grain Products 
+Table 9A: 
+Microbiological Standards of Food Grain Products - Process Hygiene Criteria 
+
+Sr. 
+No. 
+Product Description 
+Staphylococcus aureus count 
+(cfu/g) 
+Enterobacteriaceae count(cfu/g) 
+Sampling plan 
+Limit 
+Sampling plan 
+Limit n c m 
+M n c m 
+M 
+1. 
+Sprouted grains, sweet corn cob or packed wet grains for direct consumption 
+NA 
+5 
+2 
+10 
+102 
+2. 
+Batters and doughs (Ready to Cook) 
+5 
+2 
+102 
+103 
+5 
+2 
+102 
+103 
+3. 
+Fermented products other than batters and doughs (ready to cook) including bread, cakes and doughnuts, other ready to eat grain products, malted milk food, instant noodles, and pasta products 
+NA 
+5 
+2 
+10 
+102 
+ 
+Test Methods 
+IS:5887, Part 2 and IS 5887 part 
+8(Sec 
+1)/ 
+ISO 
+6888-1 or 
+IS:5887Part 8 (Sec2)/ISO 6888-2 
+IS/ISO 7402/ ISO 21528 Part 2

@@ -1,0 +1,9 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 354
+
+(iii) The integrity of the sterilized filter shall be verified and confirmed immediately after use by an appropriate method such as Bubble Point, Diffusive Flow or Pressure Hold Test. 
+10.6. Sterilization (Autoclaving)- 
+ 
+10.6.1. Before any sterilization process is adopted, its suitability for the product and its efficacy in achieving the desired sterilizing conditions in all parts of each type of load pattern to be processed, shall be demonstrated by physical measurements and by biological indicators, where appropriate. 
+10.6.2. All the sterilization processes shall be appropriately validated. The validity of the process shall be verified at regular intervals, but at least annually. Whenever significant modifications have been made to the equipment and product, records shall be maintained thereof 
+10.6.3. The sterilizer shall be double ended to prevent mix-ups.

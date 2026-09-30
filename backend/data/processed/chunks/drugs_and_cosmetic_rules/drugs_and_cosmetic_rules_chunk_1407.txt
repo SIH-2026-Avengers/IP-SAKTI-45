@@ -1,0 +1,8 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 351
+
+Sch.M Part IA The Drugs and Cosmetics Act, 1940 and Rules, 1945 
+621 
+ trials including sterile media fill. Standard Operating Procedures and acceptance criteria for media fills shall be established, justified and documented. Special simulation trial procedures shall be developed, validated and documented for special products like ophthalmic ointments. 
+7.4. The construction materials used for the parts which are in direct contact with products and the manufacturing vessels may be stainless steel 316 or Boro-silicate glass (if glass containers) and the tubing shall be capable of being washed and autoclaved. 
+7.5. On procurement, installation qualification of each of the equipment shall be done by engineers with the support of production and quality assurance personnel. Equipment for critical processes like aseptic filling and sterilizers shall be suitably validated according to a written program before putting them to use.

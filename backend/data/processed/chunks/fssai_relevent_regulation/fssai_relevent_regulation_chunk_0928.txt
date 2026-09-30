@@ -1,0 +1,20 @@
+Document: FSSAI RELEVENT REGULATION
+Section: Section 6
+Page: 310
+
+Characteristic 
+(2) 
+Requirement 
+(3) 
+1. Moisture % by weight, Max 
+10 
+2. Crude protein content (N X 6.25) on dry basis percent by weight, Min 
+65 
+3. Total available lysine g/100g of Protein, Min 
+6 
+4. Fat content on dry basis % by Weight, Max 
+6 
+5. Ash on dry basis % by weight, Max 
+18 
+6. Acid insoluble as on dry basis % by weight, Max 
+0.5

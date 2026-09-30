@@ -1,0 +1,36 @@
+Document: FSSAI RELEVENT REGULATION
+Page: 792
+
+Version-XXVI (20.12.2022) 
+ 
+27[TABLE 6 
+ MICROBIOLOGICAL REQUIREMENTS OF OTHER PRODUCTS 
+ 
+Food Products 
+Parameters 
+Limits 
+Baker's Yeast 
+Baker's 
+Yeast 
+(Compressed) 
+Total bacterial count, CFU/g (on dry basis), Max 
+7.5X105 
+ E. coli, CFU 
+Absent in 1g 
+ Salmonella, Shigella species 
+Absent in 25 g 
+ Coliform count, CFU/g, Max 
+10 
+ Rope spore count, CFU/g, Max 
+10 
+Baker's Yeast (Dried) 
+ Total bacterial count, CFU/g (on dry basis), Max 
+8 X106 
+ E. coli, CFU 
+Absent in 1g 
+ Salmonella, Shigella species 
+Absent in 25g 
+ Coliform count, CFU/g, Max 
+50 
+ Rope spore count, CFU/g, Max 
+100.]

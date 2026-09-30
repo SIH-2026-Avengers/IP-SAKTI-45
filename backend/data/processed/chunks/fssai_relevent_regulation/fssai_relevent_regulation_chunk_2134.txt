@@ -1,0 +1,44 @@
+Document: FSSAI RELEVENT REGULATION
+Page: 813
+
+Version-XXVI (20.12.2022) 
+(EC No. 3.1.4.4) 
+12. 
+Hemicellulase 
+(EC No. 3.2.1) 
+Aspergillusniger 
+GMP 
+Trichodermareesei/ longibrachiatum 
+13. 
+Alpha amylase 
+(EC No. 3.2.1.1) 
+Aspergillusoryzae 
+GMP 
+ 
+Aspergillusniger 
+Bacillus licheniformis 
+Bacillus amyloliquefaciens 
+Bacillus subtilis 
+Bacillus stearothermophilus 
+Cereal (barley) malt 
+14. 
+Beta amylase 
+(EC No. 3.2.1.2) 
+Cereal (barley) malt 
+GMP 
+Bacillus amyloliquefaciens 
+Hordeumvulgare (barley) 
+15. 
+Glucan 1,4-α-glucosidase 
+(or Glucoamylase or acid maltase) 
+(EC No. 3.2.1.3) 
+Aspergillusniger 
+GMP 
+ 
+Aspergillusoryzae 
+Trichodermareesei 
+Rhizopusoryzae 
+16. 
+Cellulase 
+(4-β-D-glucan 4- glucanohydrolase) 
+(EC No. 3.2.1.4)

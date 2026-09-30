@@ -1,0 +1,33 @@
+Document: DESIGN RULES 2001
+Page: 23
+
+14-02 
+DATA PROCESSING EQUIPMENT AS WELL AS PERIPHERAL APPARATUS 
+AND DEVICES 
+14-03 
+COMMUNICATIONS EQUIPMENT, WIRELESS REMOTE CONTROLS AND 
+RADIIO AMPLIFIERS 
+Note: 
+Including telegraphic, telephone and television apparatus, as well as wireless apparatus and teleprinters. 
+14-99 
+MISCELLANEOUS 
+CLASS 15 
+Machines, not elsewhere specified 
+15-01 
+ENGINES 
+Note: 
+(a) Including non-electric engines for vehicles. 
+(b) Not including electric motors (Cl. 13). 
+15-02 
+PUMPS AND COMPRESSORS 
+Note: 
+Not including hand or foot pumps (Cl. 08-05), or or fire extinguishing pumps. (Cl. 29-01). 
+15-03 
+AGRICULTURAL MACHINERY 
+Note: 
+(a) Including ploughs and combined machinery, i.e. , both machines and vehicles, for examples, reaping and binding machines. 
+(b) Not including hand tools (Cl. 08). 
+15-04 
+CONSTRUCTION MACHINERY 
+Note: 
+(a) Including machines used in civil engineering and self propelled machines such as excavators, concrete mixer and dredgers.

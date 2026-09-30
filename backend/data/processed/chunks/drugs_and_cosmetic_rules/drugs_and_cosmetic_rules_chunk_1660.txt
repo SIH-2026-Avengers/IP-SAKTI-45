@@ -1,0 +1,52 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 425
+
+Single Sampling Plan 
+BATCH SIZE: OVER 5 LAKHS 
+Sample Size 500: 
+AQL - 0.25 
+AC - 3 
+R - 4 
+ 
+Note: AQL denotes Acceptance Quality Level. 
+AC denotes Acceptance Number i.e., the maximum allowable number of defectives for acceptance of the Batch; and 
+R denotes 'Rejection Number' i.e., the minimum number of defectives for rejection of the Batch. 
+ 
+ANNEXURE III 
+[See Paragraphs 4 (B) and 5 (B)] 
+Sampling Plan for Bursting Volume and Pressure Test 
+BATCH SIZE: 35,001 TO 1.5 LAKHS 
+ 
+Single Sampling Plan 
+ 
+Sample size 200: 
+AQL - 1.5 
+AC - 7 
+R - 8 
+ 
+BATCH SIZE: 150001 TO 5 LAKHS 
+ 
+Single Sampling Plan 
+ 
+Sample Size 315: 
+AQL - 1.5 
+ 
+AC - 10 
+ 
+R - 11 
+ 
+BATCH SIZE: OVER 5 LAKHS 
+ 
+Single Sampling Plan 
+ 
+Sample Size 500: 
+AQL - 1.5 
+ 
+AC - 14 
+ 
+R - 15 
+ 
+Note : AQL 
+ denotes Acceptance Quality Level. 
+ 
+AC denotes Acceptance Number i.e., the maximum allowable number of defectives for acceptance of the Batch; and

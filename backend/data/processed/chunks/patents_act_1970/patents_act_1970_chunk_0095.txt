@@ -1,0 +1,8 @@
+Document: Patents_Act_1970
+Section: Section 101
+Page: 25
+
+101. Procedure to be followed in case of applications under section 88 (4). . (I) If the 
+Controller allows the application to be proceeded with, he shall direct the applicant to senre copies of the application and ofthe evidence in support thereof upon the patentee or any other person appearing in the register to be interested in the patent or upon any other person on whom, in his opinion such copies should be so served. 
+(2) The applicant shall infonn the Controller the date on which the service of copies of application and of the evidence on the patentee and other persons referred to in sub-rule (1) has been effected. 
+(3) The patentee or any other person on whom copies of the application and of the evidence have been served, may give to the Controller notice of opposition in Fonn 14 withil,1 one. month from the date of such service. Such notice shall contain the grounds relied upon by the opponent and shall be accompanied by evidence in support of the opposition.

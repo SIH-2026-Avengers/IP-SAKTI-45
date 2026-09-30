@@ -1,0 +1,6 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 352
+
+8.6. Water for injection shall be stored in steam jacketted stainless steel tanks of suitable size and the tanks shall have hydrophobic bacterial retention with 0.22 µ vent filters. The filters shall be suitably sterilized at periodic intervals. The distribution lines for purified water and distilled water shall be of stainless steel 316 construction and shall not shed particles. 
+8.7. There shall be written procedure and program for the sanitation of different water system including storage tanks, distribution lines, pumps and other related equipment. Records of sanitation shall be maintained. 
+8.8. There shall be written microbiological monitoring program for different types of water. The results shall justify the frequency of sampling and testing. Investigation shall be carried out and corrective action taken in case of deviation from prescribed limits.

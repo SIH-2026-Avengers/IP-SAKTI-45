@@ -1,0 +1,22 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 477
+
+2.5. Validations 
+Assay method 
+Impurity estimation method 
+Residual solvent/other volatile impurities (OVI) estimation method 
+2.6. Stability Studies (for details refer Appendix IX) Final release specification 
+Reference standard characterization 
+Material safety data sheet 
+2.7. Data on Formulation Dosage form Composition 
+Master manufacturing formula 
+Details of the formulation (including inactive ingredients) In process quality control check 
+Finished product specification Excipient compatibility study Validation of the analytical method 
+Comparative evaluation with international brand(s) or approved Indian brands, if applicable 
+Pack presentation 
+Dissolution Assay Impurities 
+Content uniformity pH 
+Force degradation study 
+Stability evaluation in market intended pack at proposed storage conditions 
+Packing specifications 
+Process validation

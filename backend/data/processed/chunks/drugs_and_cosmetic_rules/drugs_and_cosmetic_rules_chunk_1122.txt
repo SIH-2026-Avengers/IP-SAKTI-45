@@ -1,0 +1,14 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 2
+Page: 264
+
+3. Preparation - The serum is prepared after intravenous inoculation with smooth culture suspension of Salmonella Pullorum in healthy birds. 
+4. Standards - It complies with the requirements in the general provisions for anti-sera under Description, Acidity, Alkalinity, Sterility, Solids, Labelling, Storage and Expiry Date. 
+Identification - It should give positive agglutination with Salmonella Pullorum antigen. 
+ 
+STANDARD ANTI-BRUCELLA ABORTUS SERUM 
+ 
+1. Synonym - National counterpart of standard anti-Brucella abortus serum. 
+ 
+2. Definition - Standard anti-Brucella abortus serum is the serum which contains 1000 
+International Units (I.U.) per ml. and is used for standardizing batches of brucella antigens and is also used as a control alongwith the sera suspected for brucellosis.

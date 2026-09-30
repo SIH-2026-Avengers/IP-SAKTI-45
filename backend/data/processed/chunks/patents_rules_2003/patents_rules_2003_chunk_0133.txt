@@ -1,0 +1,10 @@
+Document: Patents_Rules_2003
+Section: Section 57
+Page: 50
+
+50 
+CHAPTER X AMENDMENT OF APPLICATIONS AND SPECIFICATIONS 
+ 
+57. Amendment of application and specification before Controller. 
+(1) Subject to the provisions of section 59, the Controller may, upon application made under this section in the prescribed manner by an applicant for a patent or by a patentee, allow the application for the patent or the complete specification or any document relating thereto to be amended subject to such conditions, if any, as the Controller thinks fit: 
+Provided that the Controller shall not pass any order allowing or refusing an application to amend an application for a patent or a specification or any document relating thereto under this section while any suit before a court for the infringement of the patent or any proceeding before the High Court for the revocation of the patent is pending, whether the suit or proceeding commenced before or after the filing of the application to amend.

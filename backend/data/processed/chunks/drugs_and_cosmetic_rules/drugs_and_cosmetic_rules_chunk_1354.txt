@@ -1,0 +1,14 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 335
+
+Sch. M Part I 
+The Drugs and Cosmetics Act, 1940 and Rules, 1945 
+605 
+16.14. Pharmacopoeiae, reference standards, working standards, reference spectra, other 
+ the product in the final container; 
+ 
+(d) complete list of all packaging material required for a standard batch size, including quantities, sizes and types, with the code or reference number relating to the specifications of each packaging material; 
+(e) reproduction of the relevant printed packaging materials and specimens indicating where batch number and expiry date of the product have been applied; 
+(f) special precautions to be observed, including a careful examination of the area and equipment in order to ascertain the line clearance before the operations begin; 
+(g) description of the packaging operation, including any significant subsidiary operations and equipment to be used; 
+(h) details of in-process controls with instructions for sampling and acceptance;

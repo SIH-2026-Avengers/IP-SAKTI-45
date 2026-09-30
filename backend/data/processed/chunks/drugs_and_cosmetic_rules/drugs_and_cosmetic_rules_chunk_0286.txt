@@ -1,0 +1,11 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 56
+
+(4) For the purpose of clause (a) of sub-rule (3), the date on which the manufacture of a batch is completed shall be- 
+(a) 
+ in cases where a test for potency or toxicity is required by these rules or not being so required, is accepted by the Licensing Authority as sufficient for the purpose of fixing the date of completion of manufacture, the date on which the substance was removed from cold storage after having been kept at a temperature not exceeding 
+50C continuously for a period not exceeding two years from the time when the last test was completed; 
+(b) in cases where no such test is required or accepted- 
+(i) if the substance is a serum obtained from a living animal, the earliest date on which any material contributing to the batch was removed from the animal ; 
+(ii) if the substance was obtained by the growth of organisms on artificial media, the 
+ earliest date on which growth was terminated in any of the material contributing to the batch :

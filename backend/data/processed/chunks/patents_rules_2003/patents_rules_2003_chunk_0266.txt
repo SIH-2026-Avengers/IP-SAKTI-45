@@ -1,0 +1,14 @@
+Document: Patents_Rules_2003
+Section: Section 130
+Page: 99
+
+(2) No company or other body corporate shall practise, describe itself or hold itself out as patent agents or permit itself to be so described or held out. 
+ 
+Explanation. For the purposes of this section, practise as a patent agent includes any of the following acts, namely: 
+(a) applying for or obtaining patents in India or elsewhere; 
+(b) preparing specifications or other documents for the purposes of this Act or of the patent law of any other country; 
+(c) giving advice other than of a scientific or technical nature as to the validity of patents or their infringement. 
+ 
+130. Removal from register of patent agents and restoration. 
+(1) The Controller may remove the name of any person from the register when he is satisfied, after giving that person a reasonable opportunity of being heard and after such further inquiry, if any, as he thinks fit to make 
+(i) that his name has been entered in the register by error or on account of misrepresentation or suppression of material fact;

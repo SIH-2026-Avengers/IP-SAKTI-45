@@ -1,0 +1,9 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 355
+
+10.8.2. The items to be sterilized, other than products in sealed containers, shall be wrapped in a material which allows removal of air and penetration of steam but which prevents re- contamination after sterilization. All parts of the load shall be in contact with the sterilizing agent at the required temperature for the required time. 
+10.8.3. No Large Volume Parenteral shall be subjected to steam sterilization cycle until it has been filled and sealed. 
+10.8.4. Care shall be taken to ensure that the steam used for sterilization is of a suitable quality and does not contain additives at a level which could cause contamination of the product or equipment. 
+10.9. Completion / Finalisation of Sterile Products- 
+ 
+10.9.1. All unit operations and processes in the manufacture of a batch shall have a minimum time specified and the shortest validated time shall be used from the start of a batch to its ultimate release for distribution.

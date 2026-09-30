@@ -1,0 +1,9 @@
+Document: Patents_Rules_2003
+Section: Section 58
+Page: 51
+
+51 right of an applicant for a patent to amend his specification or any other document related thereto to comply with the directions of the 
+Controller issued before the grant of a patent. 
+ 
+58. Amendment of specification before Appellate Board or High Court. 
+(1) In any proceeding before the High Court for the revocation of a patent, the High Court, may, subject to the provisions contained in section 59, allow the patentee to amend his complete specification in such manner and subject to such terms as to costs, advertisement or otherwise, as the High Court may think fit, and if in any proceedings for revocation the High Court decides that the patent is invalid, it may allow the specification to be amended under this section instead of revoking the patent.

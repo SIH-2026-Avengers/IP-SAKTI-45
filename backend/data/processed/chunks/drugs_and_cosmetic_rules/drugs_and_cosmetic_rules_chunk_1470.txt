@@ -1,0 +1,8 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 4
+Page: 367
+
+3. Utilities / Services.- Equipment like chilling plant, boiler, heat exchangers, vacuum and gas storage vessels shall be serviced, cleaned, sanitised and maintained at appropriate intervals to prevent mal-functions or contamination that may interfere with safety, identity, strength, quality or purity of the drug product. 
+4. Equipment Design, Size and Location- 
+ 
+4.1. Equipment used in the manufacture, processing, packing or holding of an active pharmaceutical ingredients shall be of appropriate design, adequate size and suitably located to facilitate operations for its intended use and for its cleaning and maintenance.

@@ -1,0 +1,19 @@
+Document: FSSAI RELEVENT REGULATION
+Page: 801
+
+Version-XXVI (20.12.2022) 
+Reference test methods- latest version shall apply. In case where an ISO method adopted by the BIS is specified (e.g IS XXXX / ISO YYYY), latest version of the 
+ISO method (or its BIS equivalent, if available) shall apply. 
+S.No Parameter 
+Reference Test methods 
+1. 
+Enterobacteriaceae count 
+Microbiology - General Guidance for the Enumeration of Enterobacteriaceae without Resuscitation - MPN Technique and Colony-count 
+Technique- IS/ISO 7402 
+Microbiology of Food and Animal feeding stuff -Horizontal methods for the detection and enumeration of Enterobacteriaceae- Part 
+2:Colony- count method-ISO 21528-2 
+2. 
+Staphylococcus 
+Aureuscount 
+Methods for detection of bacteria responsible for food poisoning: Part 2 Isolation, identification and enumeration of Staphylococcus aureus and faecal streptococci- IS 5887: Part 2 
+Methods for Detection of Bacteria Responsible for Food Poisoning Part 8 Horizontal Method for Enumeration of Coagulase-Positive

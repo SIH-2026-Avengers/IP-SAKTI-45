@@ -1,0 +1,11 @@
+Document: Patents_Rules_2003
+Section: Section 114
+Page: 90
+
+90 
+Provided that the costs as specified in this sub-section shall not be ordered when the party disputing the validity of the claim satisfies the court that he was not aware of the grant of the certificate when he raised the dispute and withdrew forthwith such defence when he became aware of such a certificate. 
+ 
+(3) Nothing contained in this section shall be construed as authorising the courts hearing appeals from decrees or orders in suits for infringement or petitions for revocation, as the case may be, to pass orders for costs on the scale referred to therein. 
+ 
+114. Relief for infringement of partially valid specification. 
+(1) If in proceedings for infringement of a patent it is found that any claim of the specification, being a claim in respect of which infringement is alleged, is valid, but that any other claim is invalid, the court may grant relief in respect of any valid claim which is infringed:

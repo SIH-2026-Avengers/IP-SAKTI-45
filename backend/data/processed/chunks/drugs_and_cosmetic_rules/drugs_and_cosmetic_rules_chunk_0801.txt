@@ -1,0 +1,7 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 6
+Page: 185
+
+5. Complete details of pharmaceutical processing and unitization. 
+6. Test protocol of the product showing the specifications and pharmacopeal method followed for various testing parameters. 
+Specific batch test report for at least 3 batches showing the specifications of each testing

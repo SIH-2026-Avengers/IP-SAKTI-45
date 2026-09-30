@@ -1,0 +1,7 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 108
+Page: 55
+
+Schedule F(I) or the 3[British Pharmacopoeia Veterinary], the name descriptive of the true nature and origin of the substance approved by the Licensing Authority. 
+108. Container.-(1) No substance specified in Schedule C shall be sold or offered for sale unless it has been sealed in a previously sterilised container made of glass or any other suitable material approved for the purpose by the Licensing Authority appointed under Rule 21, in such manner as may, in the opinion of the Licensing Authority, suffice to preclude the access of bacteria : 
+Provided that it shall not be necessary to use a previously sterilised container if the filled and sealed container is to be sterilised after the sealing and such sterilising procedure would render the products sterile. However, the Licensing Authority may, for any special reasons, direct the licensee to pre-sterilise such containers.

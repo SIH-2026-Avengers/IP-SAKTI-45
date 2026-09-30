@@ -1,0 +1,89 @@
+Document: FSSAI RELEVENT REGULATION
+Page: 662
+
+Version-XXVI (20.12.2022) 
+Table 9 
+Fish and fish products, including molluscs, crustaceans, and echinoderms 
+Food 
+Category 
+System 
+Food Category 
+Name 
+Food Additive 
+INS No 
+Recommended 
+Maximum 
+Level 
+ Note 
+9.2.4 
+Cooked and/or fried fish and fish products, including molluscs, crustaceans, and echinoderms 
+Ascorbic acid, L- 300 
+GMP 
+ 
+Calcium carbonate 
+170(i) 
+GMP 
+ 
+Fumaric acid 
+297 
+GMP 
+ 
+Magnesium carbonate 
+504(i) 
+GMP 
+ 
+Magnesium hydroxide 
+528 
+GMP 
+ 
+Magnesium hydroxide carbonate 
+504(ii) 
+GMP 
+ 
+Malic acid, DL- 
+296 
+GMP 
+ 
+Potassium dihydrogen citrate 
+332(i) 
+GMP 
+ 
+Sodium dihydrogen citrate 
+331(i) 
+GMP 
+ 
+Sodium fumarates 
+365 
+GMP 
+ 
+Tricalcium citrate 
+333(iii) 
+GMP 
+ 
+Tripotassium citrate 
+332(ii) 
+GMP 
+ 
+Trisodium citrate 331(iii) 
+GMP 
+ 
+9.2.4.1 
+Cooked fish and fish products 
+Acetylated distarch phosphate 
+1414 
+GMP 
+241 
+Allura red AC 
+129 
+100 mg/kg 
+95 
+Carob bean gum 
+410 
+GMP 
+241 
+Brilliant blue 
+FCF 
+133 
+200 mg/kg 
+95 
+Dextrins, roasted starch

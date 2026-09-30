@@ -1,0 +1,42 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 170
+
+2 7 Shamoom 
+2 8 
+Tablet - Mattirai 
+2 8 Saoot ( Nasal Drops ) 
+2 9 
+Capsules 
+2 9 Mazoogh 
+3 0 
+Ointment - Kalimapu 
+3 0 Tila 
+3 1 
+Phalavarti 
+3 1 Lashooq 
+3 2 
+Dhoomravarti / Doopan 
+3 2 Gulqand 
+3 3 
+Kshar Sutra / Kshar Varti 
+3 3 Fateela 
+3 4 
+Single Drugs: 
+3 4 Ghaza, Ubtan, Sabagh 
+3 5 
+Pushp ( Phool ) 
+3 5 Capsule 
+3 6 
+Nasya 
+3 6 Huqna 
+3 7 
+Swarasa ( Fresh Juice ) 
+3 7 Naurah 
+3 8 
+Karna Bindu ( Ear Drops ) 
+3 8 Latookh 
+3 9 
+Any other dosage form of patent and 
+Proprietary and Ayurvedia, Siddha, 
+Unani Drug. 
+3 9 Vajoor ( Throat paint )

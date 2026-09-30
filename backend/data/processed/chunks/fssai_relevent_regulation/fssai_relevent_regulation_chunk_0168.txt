@@ -1,0 +1,57 @@
+Document: FSSAI RELEVENT REGULATION
+Page: 56
+
+Product 
+Moisture, 
+Maximum, % 
+(m/m) 
+Milk fat, 
+Minimum, % 
+(dry basis) 
+Lactose, 
+Maximum, 
+% (m/m) i. 
+Cheese 
+
+ a. Hard- Pressed Cheese 
+39.0 
+48.0 
+-- b. Semi Hard -Cheese 
+45.0 
+40.0 
+-- c. Semi-Soft Cheese 
+52.0 
+45.0 
+-- d. Soft Cheese 
+80.0 
+20.0 
+-- e. Extra Hard Cheese 
+36.0 
+32.0 
+-- f. Mozzarella Cheese 
+60.0 
+35.0 
+-- g. Pizza Cheese 
+54.0 
+35.0 
+-- ii. 
+Extra Hard Grating 
+Cheese 
+36.0 
+32.0 
+-- iii. 
+Named variety cheeses 
+
+ a. Cheddar 
+39.0 
+48.0 
+-- b. Danbo 
+39.0 
+45.0 
+-- c. Edam 
+46.0 
+40.0 
+-- d. Gouda 
+43.0 
+48.0 
+-- e. Havarti

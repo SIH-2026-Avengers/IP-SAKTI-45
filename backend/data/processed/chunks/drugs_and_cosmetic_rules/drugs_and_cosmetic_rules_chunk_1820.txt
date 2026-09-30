@@ -1,0 +1,7 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 471
+
+(d) Early Measurement of Drug Activity: Preliminary studies of activity or potential therapeutic benefit may be conducted in Phase I as a secondary objective. Such studies are generally performed in later Phases but may be appropriate when drug activity is readily measurable with a short duration of drug exposure in patients at this early stage. 
+(7) Therapeutic exploratory trials (Phase II): 
+(i) The primary objective of Phase II trials is to evaluate the effectiveness of a drug for a particular indication or indications in patients with the condition under study and to determine th e common sh or t-ter m side-effects an d risks associated with th e dr ug. Studies in 
+Phase II should be conducted in a group of patients who are selected by relatively narrow criteria leading to a relatively homogeneous population. These studies should be closely monitored. An important goal for this Phase is to determine the dose(s) and regimen for

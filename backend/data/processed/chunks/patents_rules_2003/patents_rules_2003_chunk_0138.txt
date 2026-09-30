@@ -1,0 +1,9 @@
+Document: Patents_Rules_2003
+Section: Section 59
+Page: 51
+
+59. Supplementary provisions as to amendment of application or specification. 
+(1) No amendment of an application for a patent or a complete specification or any document relating thereto shall be made except by way of disclaimer, correction or Explanation, and no amendment thereof shall be allowed, except for the purpose of incorporation of actual fact, and no amendment of a complete specification shall be allowed, the effect of which would be that the specification as amended would claim or describe matter not in substance disclosed or shown in the specification before the amendment, or that any claim of the specification as amended would not fall wholly within the scope of a claim of the specification before the amendment. 
+ 
+(2) Where after the date of grant of patent any amendment of the specification or any other documents related thereto is allowed by the Controller or by the High Court, as the case may be, 
+(a) the amendment shall for all purposes be deemed to form part of

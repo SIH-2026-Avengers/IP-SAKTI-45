@@ -1,0 +1,11 @@
+Document: Copyright Rules 2013
+Section: Section 75
+Page: 41
+
+CHAPTER XIV 
+STORAGE OF TRANSIENT OR INCIDENTAL COPIES OF WORKS 
+75. (1) Any owner of copyright may give a complaint in writing under clause (c) of sub-section (1) of section 52, to a person who has facilitated transient or incidental storage of work for providing electronic links, access or integration to restrain from such storage of work. 
+(2) The written complaint shall contain the following particulars, namely:- 
+(a) the description of the work with adequate information to identify the work; 
+(b) details establishing that the complainant is the owner or exclusive licensee of copyright in the work; 
+(c) details establishing that the copy of the work which is the subject matter of transient or incidental storage is an infringing copy of the matter of transient or incidental storage is an infringing copy of the work owned by the complainant and that the allegedly infringing act is not covered under section 52 or any other act that is permitted by the Act;

@@ -1,0 +1,55 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 347
+
+(b) 
+HEPA filter integrity testing (smoke testing) - yearly 
+ 
+(c) 
+ Air change rates - 6 Monthly 
+ 
+(d) 
+Air pressure differentials - Daily 
+ 
+(e) 
+ Temperature and humidity - Daily 
+ 
+(f) Microbiological monitoring by settle plates and/or swabs in aseptic areas - Daily, and at decreased frequency in other areas. 
+ 
+Note : The above frequencies of monitoring shall be changed as per the requirements and load in individual cases. 
+ 
+4.2. 
+There shall be a written environmental monitoring program and microbiological results shall be recorded. Recommended limits for microbiological monitoring of clean areas 
+"in operation" are as given in the table below : 
+ 
+TABLE Recommended Limits For Microbiological Monitoring Of Clean Areas "In- operation" GRADE 
+Air sample 
+Settle plates 
+Contact plates
+ 
+Glove points cfu / m3 
+(dia. 90 mm) 
+(dia. 55 mm) 
+(five fingers) cfu / 2 hr. cfu per plate cfu per glove 
+ 
+A 
+<1 
+<1 
+<1 
+<1 
+ 
+B 
+10 
+5 
+5 
+5 
+C 
+100 
+ 50 
+25 
+- 
+D 
+500 
+100 
+50 
+- 
+Notes :

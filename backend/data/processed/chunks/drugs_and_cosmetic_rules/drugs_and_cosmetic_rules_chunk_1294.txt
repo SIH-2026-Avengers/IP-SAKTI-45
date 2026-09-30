@@ -1,0 +1,10 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 16
+Page: 319
+
+(LED) display of any equipment. 
+(b) A single line shall strike through the data being changed; the correct information shall be recorded along with the old data and the reason of change. The analyst making the change shall be identified by his signature with date. In case of automated data collection system, the person responsible shall be identified at the time of data output. The original entry must be saved and the system have audit trial for all the data. 
+(c) Data integrity and security shall be maintained and the data shall not be accessible to any unauthorised person. 
+16. Storage and archival.- 
+(a) The residual sample shall be retained in proper storage condition for a period of one year after the final report. 
+(b) The laboratory must establish and maintain procedures for the identification collection, indexing, retrieval, storage, maintenance, and disposal of all quality documents.

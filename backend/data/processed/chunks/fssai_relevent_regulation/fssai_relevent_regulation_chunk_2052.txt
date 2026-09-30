@@ -1,0 +1,18 @@
+Document: FSSAI RELEVENT REGULATION
+Section: Section 6
+Page: 781
+
+6. Unsatisfactory, if one or more of the values observed are > M or more than c values are >m 
+ 
+Reference test methods: The following test methods shall be applied as reference methods. 
+ 
+6Reference test methods- latest version shall apply. In case where an ISO method adopted by the BIS is specified (e.g IS XXXX / ISO YYYY), latest version of the ISO method (or its BIS equivalent, if available) shall apply. 63[Test methods prescribed in FSSAI Manual of Methods of Analysis of Foods 
+(Microbiological Testing) may also be referred along with the IS/ISO methods specified for Process Hygiene Criteria and Food Safety Criteria.] 
+Sl. 
+No 
+Parameter 
+Reference Test Methods 
+1. 
+Aerobic Plate Count 
+Microbiology of the food chain - Horizontal method for the enumeration of microorganisms - Part 1: 
+Colony count at 30°C by the pour plate technique- IS 5402/ ISO:4833

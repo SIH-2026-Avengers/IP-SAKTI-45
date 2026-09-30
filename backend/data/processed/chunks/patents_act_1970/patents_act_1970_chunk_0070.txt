@@ -1,0 +1,6 @@
+Document: Patents_Act_1970
+Section: Section 68
+Page: 18
+
+{2) A copy ofthe claim and the statement shall be sent by the Controller to every applicant for the patent (not being the claimant) and to any other person whom the Controller may consider to be interested. 
+68. Form of application to be made under section 28 (7). - (1) An application under sub­ section (7) of section 28 shall be made in Form 8 and shall be accompanied by a statement setting out the circumstances under which the application is made.

@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg-main: #F7F7F5;
+    --bg-surface: #FFFFFF;
+    --border-color: #E5E5E2;
+    --text-main: #111111;
+    --text-muted: #777772;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased min-h-screen selection:bg-neutral-200 selection:text-black;
+    color: #111111;
+    background-color: #F7F7F5;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply tracking-tight font-medium text-foreground;
+  }
+}
+
+/* Restrained custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #D9D9D5;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #AFAFAA;
+}
+
+/* Subtle gentle floating animation */
+@keyframes slowFloat {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-6px);
+  }
+}
+
+.animate-slow-float {
+  animation: slowFloat 3.5s ease-in-out infinite;
+}
+
+/* Smooth pop transition when switching frames or views */
+@keyframes smoothPop {
+  0% {
+    opacity: 0;
+    transform: scale(0.97) translateY(8px);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(0px);
+  }
+}
+
+.animate-pop {
+  animation: smoothPop 0.28s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Subtle active toggle switch feedback */
+.active-pop {
+  animation: popFeedback 0.22s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@keyframes popFeedback {
+  0% {
+    transform: scale(0.96);
+  }
+  50% {
+    transform: scale(1.02);
+  }
+  100% {
+    transform: scale(1);
+  }
+}

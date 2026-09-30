@@ -1,0 +1,12 @@
+Document: FSSAI RELEVENT REGULATION
+Page: 329
+
+Version-XXVI (20.12.2022) 
+(4) The quality of gelatin is determined by bloom value (gel strength), viscosity, melting and gelling temperature. 
+(5) For the purpose of this clause,- 
+(a) Bloom strength (gel strength).-Bloom is a measure of force (weight) required to depress a prescribed area of the surface of the sample a distance of 4 mm. 
+Based on bloom value obtained gelatins are classified to High bloom gelatin (>300g)' medium bloom gelatin (125-200 g); low bloom gelatin (<100g). Bloom value depends on amino acid composition and components of gelatin 
+(b) Viscosity.-The viscosity may be measured by simple viscometers or advanced rheometers. 
+The gelatin with viscosity value of 4-6 mPa.s is acceptable. 
+(c) Melting and gelling temperature.-The gelling temperature of gelatin from fish processing waste varies from 8-240C and melting temperature varied from 10-280C. The use of Thermal 
+Analysis and Rheometers are commonly used to determine the gelling and melting temperature.

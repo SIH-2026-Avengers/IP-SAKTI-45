@@ -1,0 +1,17 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 162
+
+FORM 39 
+[See Rule 150-E(f)] 
+Report of test or analysis by approved institution 
+(1) Name of manufacturer from whom sample received together with his manufacturing licence number under the Act and under the rules made thereunder. 
+(2) Reference number and date of the letter from the manufacturer under which the sample was forwarded. 
+(3) Date of receipt of the sample. 
+(4) Name of drug/cosmetic/raw material purporting to be contained in the sample. 
+(5) Details of raw material/final product (in bulk)/final product (in finished pack)* as obtained from the manufacturer : 
+(a) Original manufacturer's name (in the case of raw materials and drugs repacked.) 
+(b) Batch number. 
+(c) 74[Batch size as represented by sample.] 
+(d) Date of manufacture, if any. 
+(e) Date of expiry, if any. 
+(6) Results of test or analysis with protocols of test/analysis applied.

@@ -1,0 +1,11 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 217
+
+(b) To approve or reject raw materials and consumables, used in any step, on the basis of approved specifications; 
+(c) Haematological tests like Total Nucleated Cell Counts, Mononuclear Cell Count, 
+Enumeration of the population of Stem Cells, Stem Cell viability shall be performed on samples of processed Umbilical cord blood unit; 
+(d) Microbiological Tests shall be done on Maternal Blood samples for freedom from 
+Hepatitis B Surface Antigen, Hepatitis C Virus antibody, HIV I and II antibodies. 
+Syphilis, Malaria, CMV and HTLV. Bacterial and Fungal Culture shall be done on the umbilical cord blood samples; 
+(e) Instruments which would be used to process test and store the UCB unit would be validated before commissioning and calibrated from time to time to check their conformity to specific standards according to an approved and valid protocol; 
+(f) The environmental monitoring of the clean rooms would be done at periodic intervals according to an accepted and validated protocol;

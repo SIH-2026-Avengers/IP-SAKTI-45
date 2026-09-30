@@ -1,0 +1,11 @@
+Document: Patents_Rules_2003
+Section: Section 56
+Page: 49
+
+49 
+ 
+(2) No renewal fees shall be payable in respect of a patent of addition, but, if any such patent becomes an independent patent under sub-section (1), the same fees shall thereafter be payable, upon the same dates, as if the patent had been originally granted as an independent patent. 
+ 
+56. Validity of patents of addition. 
+(1) The grant of a patent of addition shall not be refused, and a patent granted as a patent of addition shall not be revoked or invalidated, on the ground only that the invention claimed in the complete specification does not involve any inventive step having regard to any publication or use of 
+(a) the main invention described in the complete specification relating thereto; or

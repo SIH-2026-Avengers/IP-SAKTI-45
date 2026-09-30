@@ -1,0 +1,12 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 20
+Page: 335
+
+(h) details of in-process controls with instructions for sampling and acceptance; 
+ 
+(i) upon completion of the packing and labeling operation, a reconciliation shall be made between number of labeling and packaging units issued, number of units labeled, packed and excess returned or destroyed. Any significant or unusual discrepancy in the numbers shall be carefully investigated before releasing the final batch. 
+20. Batch Packaging Records. - 
+ 
+20.1. A batch packaging record shall be kept for each batch or part batch processed. It shall be based on the relevant parts of the packaging instructions, and the method of preparation of such records shall be designed to avoid transcription errors. 
+ 
+20.2. Before any packaging operations begins, check shall be made and recorded that the equipment and the work stations are clear of the previous products, documents or materials not required for the planned packaging operations, and that the equipment is clean and suitable for use.

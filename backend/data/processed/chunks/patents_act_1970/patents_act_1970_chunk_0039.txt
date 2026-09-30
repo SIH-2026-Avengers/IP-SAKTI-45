@@ -1,0 +1,6 @@
+Document: Patents_Act_1970
+Section: Section 28
+Page: 11
+
+28. Procedure in case of anticipation by prior publication. - (1) If the Controller is satisfied after investigation under section 13 that the invention so far as claimed in any claim of the complete specification has been published in any specification or other document referred to in clause (a) of sub-section (1) or sub-section (2) of the said section, the Contro11er shall communicate the gist of specific objections and the basis thereof to the applicant and the applicant shall be afforded an opportunity to amend his specification. 
+(2) If the applicant contests any of the objections communicated to him by the Controller under sub-rule (1 ), or if he refiles his specification along with his observations as to whether or not the specification is to be amended, he shall be given an opportunity to be heard in the matter if he so requests:

@@ -1,0 +1,58 @@
+Document: FSSAI RELEVENT REGULATION
+Page: 412
+
+Version-XXVI (20.12.2022) 
+Class 
+Food 
+Purpose 
+Dose Limit kGy 
+(kilo Gray) 
+Minimum Maximum 
+1 
+2 
+3 
+4 
+5 
+ 
+Fresh fruits and vegetables (other than 
+Class 1) 
+Insect disinfestation 
+0.2 
+1.0 
+Shelf -life extension 
+1.0 
+2.5 
+Quarantine application 
+0.1 
+1.0 
+Class 3 
+Cereals and their milled products, pulses and their milled products, nuts, oil seeds, dried fruits and their products 
+Insect disinfestation 
+0.25 
+1.0 
+Reduction of microbial load 
+1.5 
+5.0 
+Class 4 
+Fish, aquaculture, seafood and their products (fresh or frozen) and crustaceans 
+Elimination of pathogenic micro organisms 
+1.0 
+7.0 
+Shelf -life extension 
+1.0 
+3.0 
+Control of human parasites 
+0.3 
+2.0 
+Class 5 
+Meat and meat products including poultry (fresh and frozen) and eggs 
+Elimination of pathogenic microorganisms 
+1.0 
+7.0 
+Shelf -life extension 
+1.0 
+3.0 
+Control of human parasites 
+0.3 
+2.0 
+Class 6

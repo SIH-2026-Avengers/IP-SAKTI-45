@@ -1,0 +1,6 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 2
+Page: 367
+
+1.5. For specified preparation like manufacture of sterile products and for certain antibiotics, sex hormones, cytotoxic and oncology products, separate enclosed areas shall be designed. The requirements for the sterile active pharmaceutical ingredients shall be in line with the facilities required for formulations to be filled aseptically. 
+2. Sterile Products.- Sterile active pharmaceutical ingredients filled aseptically shall be treated as formulation from the stage wherever the process demands like crystallisation, Iyophilisation, filtration etc. All conditions applicable to formulations that are required to be filled aseptically shall apply mutatis mutadis for the manufacture of sterile active pharmaceutical ingredients involving stages like filtration, crystallisation and Iyophilisation.

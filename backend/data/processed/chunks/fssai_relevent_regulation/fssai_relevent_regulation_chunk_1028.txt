@@ -1,0 +1,14 @@
+Document: FSSAI RELEVENT REGULATION
+Page: 344
+
+0.8 mS/cm 
+(b) 
+Honeys listed under Honeydew, Min. 
+0.8 mS/cm 
+17. 
+(a) Δδ13C Max*. (Maximum difference between all measured δ13C values); per mil (‰) 
+± 2.1 
+(b) Δδ13CFru - Glu (The difference in 13C/12C ratio between fructose and glucose); per mil(‰) 
+± 1.0 
+(c) Δδ13C Protein - Honey (The difference in 13C/12C between honey and its associated protein extract); per mil(‰) 
+≥ - 1.0

@@ -1,0 +1,7 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 51
+
+homogeneous bulk solution, provided that samples are taken from all the sterilizer loads pass the sterility test, and are kept separate from one another until the report of the sterility test is available. 
+Explanation- For the purpose of chemical and other tests, representative samples from all containers filled from the homogeneous bulk solution should be taken. 
+(6) In the case of parenteral and other sterile products filled aseptically, a "Batch Number" shall be assigned to all containers filled from one homogeneous mix during one filling operation, the filling operation being completed in a period of not more than a day and during which no scheduled change in the filling assembly is made. 
+When containers are filled from one homogeneous mix in a number of filling operations, the

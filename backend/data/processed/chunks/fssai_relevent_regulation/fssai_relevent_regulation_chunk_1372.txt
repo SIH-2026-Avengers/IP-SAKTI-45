@@ -1,0 +1,61 @@
+Document: FSSAI RELEVENT REGULATION
+Section: Section 7
+Page: 456
+
+Version-XXVI (20.12.2022) 
+(1) Phosphoric Acid shall be a clear, colourless, odourless viscous liquid and as described below, namely:- 
+Common Name 
+Phosphoric Acid 
+INS No. 
+338 
+C.A.S No. 
+7664-38-20 
+Chemical Name 
+Phosphoric acid, orthophosphoric acid 
+Empirical Formula 
+H3PO4 
+Molecular Weight 
+98.0 
+(2) Phosphoric acid shall conform to the requirements specified in the table below:- 
+Table 
+SI. No. 
+Characteristic 
+Requirements 
+(1) 
+(2) 
+(3) 
+1. 
+Purity as H3PO4, per cent. by mass, Min 
+85 
+2. 
+Nitrates, mg/kg, Max 
+5 
+3. 
+Volatile acids, mg/kg, Max 
+10 
+4. 
+Chlorides, mg/kg, Max 
+200 
+5. 
+Sulphates per cent. by mass, Max 
+0.15 
+6. 
+Chloride, mg/kg, Max 
+200.0 
+7. 
+Fluoride, mg/kg, Max 
+10.0 
+8. 
+Arsenic, mg/kg, Max 
+2.0 
+9. 
+Lead, mg/kg, Max 
+4.0 
+ 
+7. Citric Acid: 
+(1) Citric Acid shall be white or colourless, odourless, crystalline solid which in monohydrate form effloresces in dry air and as described below, namely:- 
+Common Name 
+Citric Acid 
+INS No. 
+330 
+C.A.S No.

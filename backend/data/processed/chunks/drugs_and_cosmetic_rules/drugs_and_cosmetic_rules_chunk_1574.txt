@@ -1,0 +1,27 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 2
+Page: 398
+
+1.1.9. The premises shall be kept under controlled conditions of temperature and humidity so as to prevent any deterioration in the properties of materials and products due to storage and process conditions. 
+ 
+2. Requirements for Manufacture of Medical Devices. - The process of manufacture of medical devices shall be conducted at the licensed premises, wherever required, and shall be divided into the following separate operations/Sections :- 
+ 
+(1) 
+Moulding (wherever manufacture of medical devices is to start from granules). 
+(2) 
+Assembling (includes cutting, washing and drying, sealing, packing, labelling, etc). 
+(3) 
+Raw Materials. 
+(4) 
+Storage Area. 
+(5) 
+Washing, drying and sealing area (wherever required). 
+(6) 
+Sterilization. 
+(7) 
+Testing facilities. 
+ 
+The following equipments and space are recommended for the basic manufacture of different categories of medical devices :- 
+ 
+A. STERILE DISPOSABLE PERFUSIONAND BLOOD COLLECTION SETS 
+(1) Moulding:

@@ -1,0 +1,15 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 7
+Page: 455
+
+5. Protocols of tests applied. 
+(a) Description. 
+(b) Identification. 
+(c) Uniformity of weight. 
+(d) Uniformity of diameter (if applicable). 
+(e) Disintegration test (time in minutes). 
+(f) Any other tests. 
+(g) Results of Assay. 
+Note :- Records regarding various tests applied (including readings and calculations) should be maintained and reference to these records should be entered in Col. 5 above wherever necessary. 
+6. Signature of the Analyst. 
+7. Opinion and signature of the approved Analyst.

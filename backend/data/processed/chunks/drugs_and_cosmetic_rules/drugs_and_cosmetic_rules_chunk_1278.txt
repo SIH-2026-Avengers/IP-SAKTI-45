@@ -1,0 +1,9 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 7
+Page: 314
+
+(vi) staff must also be aware about the safety precautions to be adopted while handling potassium cyanide and cyanogen bromide. 
+(vii) a Standard Operating Procedure for handling, collection, disposal of chemical and biological wastes be prepared. 
+7. Maintenance, calibration, and validation of equipments:- 
+(a) All equipments, instruments and other devices used in the laboratory shall use appropriate methods and procedures for all tests or calibrations and they shall be regularly calibrated and validated. The frequency of calibration may differ from instrument to instrument. 
+(b) The original equipment manufacturer 's recommendations along with the experience of the laboratory staff and the use of equipment per day may also be considered while fixing the frequency of calibration.

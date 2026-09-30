@@ -1,0 +1,7 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 4
+Page: 460
+
+Fiducial limits for error for microbiological assay of antibiotics may be estimated depending upon the design of assay procedure. Methods, used for assaying active ingredients shall employ the same basic principles and shall use same organism as given in the latest edition of the Indian Pharmacopoeia or shall follow any other methods as approved by the authority competent to grant licence to manufacture. 
+4. All patent or proprietary medicines containing aspirin shall be subjected to "Free Salicylic 
+Acid Test" and the limit of such acid shall be 0.75 per cent. Except in case of soluble type aspirin in which case the limit of such acid shall be 3 per cent.

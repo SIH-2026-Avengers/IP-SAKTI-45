@@ -1,0 +1,17 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 2
+Page: 250
+
+(i) If at least 20 chickens do not survive the observation period, the test is inconclusive. 
+(ii) If lesions of any disease or cause of death are directly attributable to the vaccine the vaccine is unsatisfactory. 
+(f) Potency Test.-The sample shall be titrated in the cell culture system. A satisfactory batch shall contain at least 1500 plaque forming units (PFU) per dose at the time of release and maintain at least 1000 PFU till the end of expiry period. 
+5. 
+Labelling.-Shall comply with the requirements of labelling as laid down in the general monograph on "Viral Vaccines". 
+6. 
+Storage and expiry date.-The freeze dried cell free HVT vaccine may be stored at 4º C for 6 months. 
+ 
+GOAT POXVACCINE (LIVINGCELLCULTURE) 
+ 
+1. Synonym.-Goat Pox Vaccine (living), attenuated goat pox vaccine. 
+ 
+2. Definition.-Goat Pox vaccine is freeze dried preparation, prepared by growing attenuated goat pox virus in kid kidney/testicular cell culture.

@@ -1,0 +1,10 @@
+Document: AYUSH DRUG REGULATIONS
+Page: 48
+
+2.3 Records shall be maintained specially for temperatures attained during the entire process of Bhasmikaran, 
+Kupi-pakwa rasayana while employing different kinds of classical puta, furnaces using oil, gas or electricity. 
+Appropriate temperature measuring instruments should be employed such as pyrometer and pyrograph for manual reading or recording by heat sensors, connected to computer as the case may be. The temperature data shall be recorded on the BMR. 
+In order to handle large quantities, appropriate technology like use of hand operated extruders for making chakrikas or pellets may be adopted. However, such equipments made up of aluminium or its alloys should not be used. 
+Access to manufacturing areas shall be restricted to minimum number of authorized personal only."; 
+(v) in paragraph 3, for sub-clause B, the following sub-clause shall be substituted, namely:- 
+"B. Product Quality Control:

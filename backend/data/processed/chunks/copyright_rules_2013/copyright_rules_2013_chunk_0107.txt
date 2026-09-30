@@ -1,0 +1,15 @@
+Document: Copyright Rules 2013
+Section: Section 70
+Page: 38
+
+CHAPTER XIII 
+REGISTRATION OF COPYRIGHT 
+69. Form of Register of Copyrights.-(1) The Register of Copyrights shall be kept in physical and electronic form in six parts, namely :- 
+ Part I - Literary works other than computer programmes, tables and compilations including computer data bases and dramatic works. 
+Part II - Musical works 
+ Part III - Artistic works 
+ Part IV - Cinematograph films 
+ Part V - Sound recordings 
+ Part VI - Computer programmes, tables and compilations including computer data bases. 
+(2) The Register of Copyrights shall contain the particulars specified in Form-XIII. 
+70. Application for Registration of Copyright.- (1) Every application for registration of copyright shall be made in Form-XIV and every application for registration of changes in the particulars of copyright entered in the Register of Copyright shall be made in Form-XV.

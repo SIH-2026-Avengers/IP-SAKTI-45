@@ -1,0 +1,7 @@
+Document: DESIGN RULES 2001
+Page: 4
+
+(3) Each representation of the design whether to be applied to a single article or to a set, shall be on durable paper of A4 size (and not on cardboard) and shall appear on one side only of the paper. 
+The figure or figures shall be placed in an upright position on the sheet. When more figures than one are shown, these shall , where possible, be on one and the same sheet, and each shall be designated (e.g. perspective view; front view, side view). 
+(4) When a design is to be applied to a set, any doubt whether the given articles do or do not constitute a set shall be determined by the controller. 
+(5) If the specimens are not, in the opinion of the Controller, suitable for record in the office they shall be replaced by representations.

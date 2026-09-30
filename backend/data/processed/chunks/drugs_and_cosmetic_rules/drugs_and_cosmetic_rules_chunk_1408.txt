@@ -1,0 +1,9 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 8
+Page: 351
+
+7.6. Standard Operating Procedures shall be available for each equipment for its calibration and operation and cleaning. Gauges and other measuring devices attached to equipment shall be calibrated at suitable intervals against a written program. Calibration status of equipment and gauges shall be adequately documented and displayed. 
+8. Water and Steam System- 
+ 
+8.1. Potable water meeting microbiological specification of not more than 500 cfu/ml and indicating absence of individual pathogenic micro-organisms. Escherichia coli, Salmonellas, Staphylococcus aureus and Pseudomonas aeruugionsa per 100 ml sample shall be used for the preparation of purified water. 
+8.2. Purified water prepared by de-mineralization shall meet the microbiological specification of not more than 100 cfu per ml and indicate absence of pathogenic micro-organisms in 100 ml.

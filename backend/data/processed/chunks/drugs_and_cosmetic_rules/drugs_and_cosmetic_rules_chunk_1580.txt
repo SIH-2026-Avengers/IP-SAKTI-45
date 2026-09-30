@@ -1,0 +1,13 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 3
+Page: 400
+
+(c) Needle Inspection Unit. 
+ 
+An area of 30 square metres for Moulding and 15 square metres for Assembling are recommended for basic installation. The assembling area shall be air-conditioned provided with 
+HEPA filters. The moulding section shall, if necessary, have proper exhaust system. 
+ 
+Note :- An additional area of 20 square metres is recommended for any extra category. 
+ 
+3. Raw Materials. - The licensee shall keep an inventory of all raw materials to be used at any stage of manufacture of devices and shall maintain records as per Schedule U. All such raw 
+ materials shall be identified and assigned control reference number. They shall be conspicuously labelled indicating the name of the material, control reference number, name of the manufacturer and be specifically labelled "Under Test" of "Approved" or "Rejected". The under test, approved or rejected materials shall appropriately be segregated. These shall be tested for compliance with required standards of quality.

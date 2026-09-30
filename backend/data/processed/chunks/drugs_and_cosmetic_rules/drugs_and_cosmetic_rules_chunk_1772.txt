@@ -1,0 +1,6 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 6
+Page: 460
+
+5. Patent or proprietary medicine to be tested under the provisions of Rule 121-A for pyrogen shall be tested by injecting into rabbits not less than the human dose of the medicine based on body weight of a 60 kg. human being. Methodology and limits shall be based on the method recorded in the Indian Pharmacopeia. Dose selected shall be indicated in the protocol but the dose shall be not greater than 5 times the human dose based on body weight of 60 kg. for man. 
+6. In injectable patent or proprietary medicines, the test for freedom from toxicity, shall be performed as described in the Indian Pharmacopoeia. Dose selected shall be indicated in the protocol but the dose shall not be less than five times the human dose based on body weight of 60 kg. human being.

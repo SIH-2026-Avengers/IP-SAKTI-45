@@ -1,0 +1,24 @@
+Document: FSSAI RELEVENT REGULATION
+Section: Section 8
+Page: 428
+
+Version-XXVI (20.12.2022) 
+ 
+The material shall be filled in amber coloured glass or high density polythylene containers or any other well closed suitable containers with as little air space as possible. The containers shall be such as to preclude contamination of the contents with metals or other impurities. 
+ 
+8. ANNATTO 
+Class 
+Carotenoids 
+Code Number 
+Cl (1975) No. 75120', 
+Cl (1975) Natural Orange 4 EEC No.E-160 b 
+Chemical Name 
+Annatto extract in oil contains several coloured components, the major single one being bixin which may be present in both Cis and Trans forms. Thermal degradation products of bixin may also be present. 
+Solubility 
+Water soluble annatto contains norbixin, the hydrolysis product of bixin, in the form of sodium or potassium salt, as the major colouring principle. Both cis and trans forms may be present 
+Chemical Formula 
+Bixin C25 H30 O4 
+Norbixin C24 H28 O4 
+Molecular Weight 
+Bixin 394.50 
+Norbixin 380.48

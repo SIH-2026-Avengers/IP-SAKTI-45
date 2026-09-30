@@ -1,0 +1,18 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 508
+
+The stability studies for drug substances should be conducted either in the same container - closure system as proposed for storage and distribution or in a container - closure system that simulates the proposed final packaging. In case of formulations, the stability studies should be conducted in the final container - closure system proposed for marketing. 
+Stability Testing of new drug substances and formulations: 
+ 
+(i) Study conditions for drug substances and formulations intended to be stored under general conditions 
+Study 
+Study conditions 
+Duration of study 
+Long term 
+Accelerated 
+30°C ± 2°C/65% RH ± 5% RH 
+40°C ± 2°C/75% RH ± 5% RH 
+12 months 
+6 months 
+ 
+If at any time during 6 months' testing under the accelerated storage condition, such changes occur that cause the product to fail in complying with the prescribed standards, additional testing under an intermediate storage condition should be conducted and evaluated against significant change criteria.

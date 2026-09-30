@@ -1,0 +1,65 @@
+Document: FSSAI RELEVENT REGULATION
+Section: Section 10
+Page: 467
+
+Version-XXVI (20.12.2022) 
+7 
+Salmonella 
+Absent (in 10 g) 
+8 
+Arsenic, mg/kg, Max 
+3.0 
+9 
+Lead, mg/kg, Max 
+5.0 
+ 
+10. Guar Gum: 
+(1) Guar Gum shall be a white to yellowish white powder with a characteristic guar odour and as described below, namely:- 
+ 
+Common Name 
+Guar Gum 
+INS No. 
+412 
+C.A.S No. 
+9000-30-0 
+Chemical Name 
+Galactomannan 
+(2) Guar Gum shall conform to the requirements specified in the table below, namely:- 
+Table 
+Requirements for Guar Gum 
+SI. No. 
+Characteristic 
+Requirements 
+(1) 
+(2) 
+(3) 
+1 
+Purity as galactomannans, per cent. by mass, Min 
+77.5 
+2 
+Acid insoluble matter, per cent. by mass, Max 
+3.0 
+3 
+Total ash, per cent. by mass, Max 
+1.5 
+4 
+Protein (N x 5.7), per cent. by mass, Max 
+6.0 
+5 
+Starch shall pass the test as per BIS standard 
+6 
+Loss on drying at 105 0C for 5 h, Max 
+12.0 
+7 
+Mould and yeast count per g, Max 
+500 
+8 
+Escherichia coli, per g, Max 
+Absent 
+9 
+Salmonella 
+Absent (in 10 g) 
+10 
+Total plate count per g, Max 
+5000 
+11

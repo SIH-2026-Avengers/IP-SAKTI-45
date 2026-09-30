@@ -1,0 +1,15 @@
+Document: Patents_Rules_2003
+Section: Section 131
+Page: 100
+
+100 professional capacity which in the opinion of the Controller renders him unfit to be kept in the register. 
+ 
+(2) The Controller may, on application and on sufficient cause being shown, restore to the register the name of any person removed therefrom. 
+ 
+131. Power of Controller to refuse to deal with certain agents. 
+(1) Subject to any rules made in this behalf, the Controller may refuse to recognise as agent in respect of any business under this 
+Act 
+(a) any individual whose name has been removed from, and not restored to, the register; 
+(b) any person who has been convicted of an offence under section 
+123; 
+(c) any person, not being registered as a patent agent, who in the opinion of the Controller is engaged wholly or mainly in acting as agent in applying for patents in India or elsewhere in the name or for the benefit of the person by whom he is employed;

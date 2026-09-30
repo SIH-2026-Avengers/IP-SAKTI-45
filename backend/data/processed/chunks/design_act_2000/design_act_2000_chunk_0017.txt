@@ -1,0 +1,6 @@
+Document: DESIGN ACT 2000
+Page: 7
+
+(4) Where any person makes an application for the registration of a design in respect of any article and either- 
+(a) that design has been previously registered by another person in respect of some other article; or 
+(b) the design to which the application relates consists of a design previously registered by another person in respect of the same or some other article with modifications or variations not sufficient to alter the character or substantially to affect the identity thereof, then, if at any time while the application is pending the applicant becomes the registered proprietor of the design previously registered, the foregoing provisions of this section shall apply as if at the time of making the application, the applicant, had been the registered proprietor of that design.

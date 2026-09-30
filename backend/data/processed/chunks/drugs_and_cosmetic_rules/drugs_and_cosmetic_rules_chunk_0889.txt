@@ -1,0 +1,34 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 210
+
+(2) The filling and sealing shall be carried out under aseptic conditions in centrally air-conditioned areas fitted with HEPA Filters having Grade A or, as the case may be, grade B (Class 100) environment given in the said Table. 
+TABLE 
+AIR CLASSIFICATION SYSTEM FOR MANUFACTURE OF STERILE PRODUCTS 
+Maximum number of particles permitted per m3 
+ 
+MAXIMUM NUMBER OF 
+PARTICLES PERMITTED 
+PER m3 
+MAXIMUM NUMBER 
+OF VIABLE 
+MICROORGANISM 
+PERMITTED PER m3 
+GRADE 
+0.5-5 micron 
+Less than 
+5 micron 
+A (Class 100) 
+(Laminar - 
+Airflow workstation) 
+3500 
+None 
+Less than 1 
+B (Class 100) 
+3500 
+None 
+Less than 5 
+C (Class 10000) 
+3,50,000 
+2,000 
+Less than 100 
+(3) The physical and chemical operations used for the manufacture of plasma fractionation shall maintain high yield of safe and effective protein.

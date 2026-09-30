@@ -1,0 +1,9 @@
+Document: DESIGN RULES 2001
+Section: Section 21
+Page: 6
+
+(5) 
+After hearing the applicant or without a hearing if the applicant has not attended or has notified that he does not desire to be heard, the Controller may register or refuse to register the design as he thinks fit. 
+19. Decision of Controller. - The decision of the Controller containing the grounds and materials used by him in arriving the decision at such hearing as aforesaid shall be communicated in writing to the applicant or his agent 
+20. Date for appeal. - The date on which the decision of the Controller is dispatched shall be deemed to be the date of the Controller's decision for the purpose of appeal. 
+21. Non-completion within six months. - An application which owing to any neglect or default of the applicant, has not been completed so as to enable registration to be effected within six months from the date of application, shall be deemed to be abandoned.

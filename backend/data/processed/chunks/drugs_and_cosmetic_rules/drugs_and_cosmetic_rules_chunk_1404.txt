@@ -1,0 +1,9 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 7
+Page: 350
+
+6.6. Formaldehyde or any other equally effective fumigant is recommended for the fumigation of aseptic areas or after major civil modifications. There shall be Standard Operating Procedures for this purpose. Its use for routine purposes shall be discouraged and an equally effective surface cleaning regime shall be followed. 
+6.7. Cleaning of sterile processing facilities shall be undertaken with air suction devices or with non-linting sponges or clothes. 
+6.8. Air particulate quality shall be evaluated on a regular basis and records maintained. 
+ 
+7. Equipment-

@@ -1,0 +1,5 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 350
+
+7.2. Unit-sterilisers shall be double-ended with suitable inter-locking arrangements between the door. The effectiveness of the sterilization process shall be established initially by biological inactivation studies using microbial spore indicators and then at least once a year by carrying out thermal mapping of the chamber. Various sterilization parameters shall be established based on these studies and documented. For membrane filters used for filtration, appropriate filter integrity tests that ensure sterilization shall be carried out before and after filtration. 
+7.3.Filling machines shall be challenged initially and then at periodic intervals by simulation

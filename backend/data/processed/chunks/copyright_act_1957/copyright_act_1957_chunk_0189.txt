@@ -1,0 +1,13 @@
+Document: COPYRIGHT ACT 1957
+Section: Section 65B
+Page: 52
+
+relevant particulars necessary to identify him and the purpose for which he has been facilitated; or 
+(b) doing anything necessary to conduct encryption research using a lawfully obtained encrypted copy; or 
+(c) conducting any lawful investigation; or 
+(d) doing anything necessary for the purpose of testing the security of a computer system or a computer network with the authorisation of its owner; or 
+(e) operator; or 
+(f) doing anything necessary to circumvent technological measures intended for identification or surveillance of a user; or 
+(g) taking measures necessary in the interest of national security. 
+65B. Protection of Rights Management Information.- Any person, who knowingly, - 
+(i) removes or alters any rights management information without authority, or

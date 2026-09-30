@@ -1,0 +1,13 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 7
+Page: 362
+
+630 
+The Drugs and Cosmetics Act, 1940 and Rules, 1945 
+Sch.M PartIC 
+ 
+6. Printing (Tablets And Capsules)- 
+6.1. Special care shall be taken to avoid product mix-up during any printing of tablets and capsules. Where different products, or different batches of the same product, are printed simultaneously, the operations shall adequately be segregated. Edible grade colours and suitable printing ink shall be used for such printing. 
+6.2. After printing, tablets and capsules shall be approved by Quality Control before release for packaging or sale. 
+7. Packaging (Strip and Blister)- 
+7.1. Care shall be taken when using automatic tablet and capsule counting, strip and blister packaging equipment to ensure taht all 'rouge' tablets, capsules or foils from packaging operation are removed before a new packaging operations is commenced. There shall be an independent recorded check of the equipment before a new batch of tablets or capsules is handled.

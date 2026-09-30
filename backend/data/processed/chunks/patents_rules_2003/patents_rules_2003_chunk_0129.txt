@@ -1,0 +1,10 @@
+Document: Patents_Rules_2003
+Page: 48
+
+Controller may, if the applicant so requests, grant the patent for the improvement or modification as a patent of addition. 
+ 
+(2) Subject to the provisions contained in this section, where an invention, being an improvement in or modification of another invention, is the subject of an independent patent and the patentee in respect of that patent is also the patentee in respect of the patent for the main invention, the Controller may, if the patentee so requests, by order, revoke the patent for the improvement or modification and grant to the patentee a patent of addition in respect thereof, bearing the same date as the date of the patent so revoked. 
+ 
+(3) A patent shall not be granted as a patent of addition unless the date of filing of the application was the same as or later than the date of filing of the application in respect of the main invention. 
+ 
+(4) A patent of addition shall not be granted before grant of the patent for the main invention.

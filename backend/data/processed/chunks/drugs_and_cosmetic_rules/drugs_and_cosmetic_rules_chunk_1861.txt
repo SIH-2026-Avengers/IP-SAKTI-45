@@ -1,0 +1,5 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 482
+
+Wherever applicable, a control group of animals given the vehicle alone should be included, and three other groups should be given graded doses of the drug. The highest dose should produce observable toxicity; the lowest dose should not cause observable toxicity, but should be comparable to the intended therapeutic dose in humans or a multiple of it . To make allowance for the sensitivity of the species the intermediate dose should cause some symptoms, but not gross toxicity or death, and should be placed logarithmically between the other two doses. 
+The parameters to be monitored and recorded in long-term toxicity studies should include behavioral, physiological, biochemical and microscopic observations. In case of parenteral drug administration, the sites of injection should be subjected to gross and microscopic

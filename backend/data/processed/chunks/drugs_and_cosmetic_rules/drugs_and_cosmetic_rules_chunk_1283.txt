@@ -1,0 +1,13 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 10
+Page: 315
+
+(a) Standard Operating Procedure for maintenance of microbial culture and sub-culture must be prepared by the laboratories. 
+(b) If the cultures have become non-viable or mutant, proper procedure shall be followed to destroy these cultures by autoclaving under an authorised personnel for biological testing. 
+Preferably not more than five passages may be prepared. 
+(c) All activities be carried out in a aseptic area by authorised person. 
+(d) The laboratories shall perform standard biochemical tests on the sub-culture as given in literature to ensure their viability. 
+10. Quality system.- 
+The quality system shall be designed to ensure the following objectives:- 
+(a) The measurements and calibrations shall fully conform to the compendial requirements and the methods demonstrably based on validation protocols are followed. 
+(b) It shall be effective in providing necessary assurance that the activities or processes or techniques or practices comply with planned arrangements.

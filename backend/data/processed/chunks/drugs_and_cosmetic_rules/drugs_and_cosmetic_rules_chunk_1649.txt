@@ -1,0 +1,9 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 10
+Page: 422
+
+9. Bursting Volume and Pressure Test - Determination of Bursting Volume and Pressure 
+Test shall be done as specified in Annexure IV. 
+ 
+10. Water Leakage Test- Unroll the condom and fit the open end on a suitable mount, the condom thus being suspended open end upwards. Fill it with 300 ml water at room temperature and inspect it after a period of at least 1 minutes for leakage up to 25 mm from the open end because of distension of the condom the water does not extend to 25 mm from the open end. 
+If raise the closed end until water level reaches this distance. After at least 1 minute, inspect the newly-wetted part of the condom for leakage. The condom shall be deemed to be defective if it bursts during test or shows any evidence of leakage or seepage or micro-droplets or does not hold 300 ml water.

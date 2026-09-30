@@ -1,0 +1,11 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 9
+Page: 352
+
+8.9. Steam coming in contact with the product, primary containers and other product contact surfaces shall be sterile and pyrogen free. 73C[ ***] 
+9. Manufacturing Process- 
+ 
+9.1. Manufacture of sterile products shall be carried out only in areas under defined conditions. 
+ 
+9.2. Bulk raw materials shall be monitored for bio-burden periodically. Bio-burden of bulk solution prior to membrane filteration shall be monitored periodically and a limit of not more than 100 cfu per ml is recommended. 
+9.3. The time between the start of the preparation of the solution and its sterilization or filtration through a micro-organism retaining filter shall be minimised. There shall be a set maximum permissible time for each product that takes into account its composition and method of storage mentioned in the Master formula record.

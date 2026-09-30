@@ -1,0 +1,18 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 8
+Page: 366
+
+7.4. For suspensions, the bulk shall be kept stirred continuously. 
+ 
+7.5. In-process controls shall include periodical checking of weight of bulk formulation filled in the containers. In a two-shot-filling process (liquid filling followed by gaseous filling), it shall be ensured that 100% check on weight is carried out. 
+7.6. Filled containers shall be quarantined for a suitable period established by the manufacturer to detect leaking containers prior to testing,. labelling and packing. 
+8. Documentation- 
+ 
+8.1. In addition to the routine good manufacturing practices documentation, manufacturing records shall show the following additional information:- 
+(1) Temperature and humidity in the manufacturing area. 
+ 
+(2) Periodic filled weights of the formulation. 
+ 
+(3) Records of rejections during on line check weighing. 
+ 
+(4) Records of rejection during spray testing.

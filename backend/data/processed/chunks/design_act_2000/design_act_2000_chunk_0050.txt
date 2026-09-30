@@ -1,0 +1,6 @@
+Document: DESIGN ACT 2000
+Section: Section 34
+Page: 12
+
+33. Exercise of discretionary power by Controller.-Where any discretionary power is by or under this Act given to Controller, he shall not exercise that power adversely to the applicant for registration of a design without (if so required within the prescribed time by the applicant) giving the applicant an opportunity of being heard. 
+34. Power of Controller to take directions of the Central Government.-The Controller may, in any case of doubt or difficulty arising in the administration of any of the provisions of this Act, apply to the Central Government for directions in the matter.

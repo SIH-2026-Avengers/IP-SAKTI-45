@@ -1,0 +1,11 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 353
+
+10.3. Terminally Sterilized Products - 
+ 
+10.3.1. Preparation of primary packaging material such as glass bottles, ampoules and rubber stoppers shall be done in at least Grade D environment. Where there is unusual risk to the product from microbial contamination, the above operation shall be done in Grade C environment. 
+All the processes used for component preparation shall be validated. 
+10.3.2. Filling of products requiring terminal sterilization shall be done under Grade A environment with a Grade C background. 
+10.4. Preparation of solutions, which are to be sterilized by filtration , shall be done in Grade C environment, and if not to be filtered, the preparation of materials and products shall be in a 
+Grade A environment with Grade B in background. 
+10.5. Filtration (Membrane)-

@@ -1,0 +1,11 @@
+Document: Patents_Rules_2003
+Page: 16
+
+16 
+Act, drawings may, and shall, if the Controller so requires, be supplied for the purposes of any specification, whether complete or provisional; and any drawings so supplied shall, unless the 
+Controller otherwise directs, be deemed to form part of the specification, and references in this Act to a specification shall be construed accordingly. 
+ 
+(3) If, in any particular case, the Controller considers that an application should be further supplemented by a model or sample of anything illustrating the invention or alleged to constitute an invention, such model or sample as he may require shall be furnished before the application is found in order for grant of a patent, but such model or sample shall not be deemed to form part of the specification. 
+ 
+(4) Every complete specification shall 
+(a) fully and particularly describe the invention and its operation or use and the method by which it is to be performed;

@@ -1,0 +1,29 @@
+Document: FSSAI RELEVENT REGULATION
+Page: 479
+
+(2) Oil (High viscosity) shall conform to the requirements specified in the table below, namely:- 
+Table 
+SI. No. 
+Characteristic 
+Requirements 
+(1) 
+(2) 
+(3) 
+1. 
+Acidity or alkalinity shall pass the test as per BIS standard 
+2. 
+Readily carbonizable substances shall pass the test as per BIS standard 
+3. 
+Polynuclear aromatic hydrocarbons, absorbance at wave lengths between 260-350 nm, Max 
+0.10* 
+(test shall be as per BIS standard) 
+4. 
+Solid paraffins shall pass the test as per BIS standard 
+5. 
+Sulphurs ( as SO4) shall pass the test as per BIS standard 
+6. 
+Lead, mg/kg, Max 
+1.0 
+7. 
+Arsenic, mg/kg, Max 
+1.0

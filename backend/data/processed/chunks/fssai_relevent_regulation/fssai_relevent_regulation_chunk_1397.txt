@@ -1,0 +1,35 @@
+Document: FSSAI RELEVENT REGULATION
+Page: 468
+
+3 
+6 
+Chlorides 
+Nil 
+7 
+Sulphates 
+Nil 
+8 
+Volatile acid (as acetic acid), per cent. by mass, 
+Min 
+10 
+9 
+Swelling property, ml, Min 
+200 
+10 
+Water absorption, ml, Min 
+75 
+11 
+Freedom from animal filth shall pass test as per BIS 
+Standard 
+12 
+Salmonella 
+Negative (on 1 g) 
+13 
+E. coli 
+Negative (on 1 g) 
+14 
+Arsenic, mg/kg, Max 
+3.0 
+15 
+Lead, mg/kg, Max 
+2.0

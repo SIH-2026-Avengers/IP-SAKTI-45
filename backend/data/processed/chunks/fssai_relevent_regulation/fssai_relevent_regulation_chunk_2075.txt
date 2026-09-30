@@ -1,0 +1,19 @@
+Document: FSSAI RELEVENT REGULATION
+Page: 789
+
+3Reference test methods: The following test methods shall be applied as reference methods 
+ 
+Reference test methods- latest version shall apply. In case where an ISO method adopted by the BIS is specified (e.g IS XXXX / ISO YYYY), latest version of the ISO method ( or its BIS equivalent, if available) shall apply. 63[Test methods prescribed in FSSAI Manual of Methods of Analysis of Foods 
+(Microbiological Testing) may also be referred along with the IS/ISO methods specified for Process Hygiene Criteria and Food Safety Criteria.] 
+ 
+S.No 
+Parameter 
+Reference Test Method 
+1. 
+Aerobic Plate Count 
+Microbiology of the food chain -- Horizontal method for the enumeration of microorganisms -- Part 1: 
+Colony count at 30 degrees C by the pour plate technique- IS 5402 /ISO 4833 
+2. 
+Yeast and Mould Count 
+ 
+Method for Yeast and Mould Count of Foodstuffs and animal feeds- IS:5403

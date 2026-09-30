@@ -1,0 +1,14 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 420
+
+Volume and Pressure Test. Statistical sampling for this test shall be done in accordance with the plan set out in Annexure III to this Schedule. 
+ 
+Condoms shall not leak or burst at a volume of less than that specified or at a pressure less than 1.0 kpa (guage), when tested as per paragraph 9, both before and after oven conditioning as specified in Annexure V. Bursting Volume 
+ 
+[mean condom width (mm)2] minimum limit in litres shall be equal to 
+------------------ 
+151.8 rounded to the nearest 0.5 litre. 
+(2) A test sample failing in the above test is to be considered defective. If the cumulative total of rejects "R" is found to be equal to or greater than the number shown against "R" in Annexure 
+III, the batch or lot shall be declared as not of standard quality. 
+ 
+C. Dimensions.- At least 2 samples drawn from the lot or batch shall satisfy the requirements regarding Dimensions as specified in paragraph 8 of the Schedule;

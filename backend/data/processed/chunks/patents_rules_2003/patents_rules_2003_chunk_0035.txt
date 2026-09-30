@@ -1,0 +1,10 @@
+Document: Patents_Rules_2003
+Page: 16
+
+(a) fully and particularly describe the invention and its operation or use and the method by which it is to be performed; 
+(b) disclose the best method of performing the invention which is known to the applicant and for which he is entitled to claim protection; and 
+(c) end with a claim or claims defining the scope of the invention for which protection is claimed. 
+(d) be accompanied by an abstract to provide technical information on the invention: Provided that 
+(i) the Controller may amend the abstract for providing better information to third parties; and 
+(ii) if the applicant mentions a biological material in the specification which may not be described in such a way as to satisfy clauses (a) and (b), and if such material is not available to the public, the application shall be completed by depositing the material to an international depository authority under the Budapest 
+Treaty and by fulfilling the following conditions, namely:

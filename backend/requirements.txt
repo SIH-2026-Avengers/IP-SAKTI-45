@@ -1,0 +1,15 @@
+pymupdf
+langchain
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+sentence-transformers
+groq
+joblib
+scikit-learn==1.6.1
+pandas
+fastapi
+uvicorn[standard]
+pydantic>=2.0
+python-dotenv

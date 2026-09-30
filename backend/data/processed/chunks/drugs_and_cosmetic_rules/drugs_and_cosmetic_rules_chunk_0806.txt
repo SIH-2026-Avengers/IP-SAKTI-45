@@ -1,0 +1,12 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 5
+Page: 187
+
+REQUIRED FOR THE VACCINES 
+A product dossier showing the:- 
+1. History, source, date of receipt, storage, identity and characterization of seed strain. 
+2. Details flow chart of manufacturing process showing all the details of in process control on toxicity, potency study and stability data of the final bulk and the final finished product including the storage temperature. 
+3. Complete details of chemical and pharmaceutical data for the product. 
+Composition and dosage form - method of manufacture with detailed flow chart - control of starting material - control tests on intermediate and finished products - certificate of analysis of finished products - validation of critical manufacturing steps. 
+4. Test protocol of the vaccines showing the specifications and method of testing including pharmacopeial specification. 
+5. Specimen batch test report for at least consecutive three batches showing the specifications of each testing parameter.

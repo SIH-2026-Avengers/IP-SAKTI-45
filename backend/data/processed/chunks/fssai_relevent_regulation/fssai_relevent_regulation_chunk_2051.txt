@@ -1,0 +1,15 @@
+Document: FSSAI RELEVENT REGULATION
+Section: Section 6
+Page: 781
+
+Version-XXVI (20.12.2022) c = Maximum allowable number of units having microbiological counts above m for 2- class sampling plan and between m and M for 3- class sampling plan. m = Microbiological limit that separates unsatisfactory from satisfactory in a 2- class sampling plan or acceptable from satisfactory in a 3-class sampling plan. 
+M = Microbiological limit that separates unsatisfactory from satisfactory in a 3-class sampling plan. 
+ 
+ Interpretation of Results: 
+2-Class Sampling Plan (where n, c and m are specified) 
+3-Class Sampling Plan (where n, c, m and M are specified) 
+3. Satisfactory, if all the values observed are ≤ m 
+4. Unsatisfactory, if one or more of the values observed are >m or more than c values are >m 
+4. Satisfactory, if all the values observed are ≤ m 
+5. Acceptable, if a maximum of c values are between m and M and the rest of the values are observed as ≤m 
+6. Unsatisfactory, if one or more of the values observed are > M or more than c values are >m

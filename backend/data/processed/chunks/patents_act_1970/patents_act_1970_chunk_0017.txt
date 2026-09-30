@@ -1,0 +1,7 @@
+Document: Patents_Act_1970
+Section: Section 12
+Page: 5
+
+Explanation.- For the purposes of this rule, the three months period in case of an application corresponding to an international application in which India is designated shall be reckoned from the actual date on which the corresponding application is filed in India. 
+11. Order of recording applications. ~ The applications filed in a year shall constitute a series identified by the year of such filing. In case of an application filed corresponding to an international application in which India is designated, such application shall constitute a series distinct from the rest of the applications identified by the year of filing of corresponding applications in India. 
+12. Statement and undertaking regarding fnteign applications. - (1) The statement and undertaking required to be filed by an applicant for a patent under sub-section (1) of section 8 shall be made in Form 3.

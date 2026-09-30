@@ -1,0 +1,12 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 11
+Page: 328
+
+11. Equipment - 
+ 
+11.1. Equipment shall be located, designed, constructed, adapted and maintained to suit the operations to be carried out. The layout and design of the equipment shall aim to minimise the risk of errors and permit effective cleaning and maintenance in order to avoid cross-contamination, build-up of dust or dirt and, in general, any adverse effect on the quality of products. Each equipment shall be provided with a log book, wherever necessary. 
+ 
+11.2. Balances and other measuring equipment of an appropriate range, accuracy and precision shall be available in the raw-material stores, production and in-process control operations and these shall be calibrated and checked on a scheduled basis in accordance with Standard Operating 
+Procedures and records maintained. 
+ 
+11.3. The parts of the production equipment that come into contact with the product shall not be reactive, additive or adsorptive to an extent that would affect the quality of the product.

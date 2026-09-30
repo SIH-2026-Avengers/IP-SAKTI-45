@@ -1,0 +1,28 @@
+Document: FSSAI RELEVENT REGULATION
+Page: 783
+
+Version-XXVI (20.12.2022) 
+Sl. 
+No 
+Parameter 
+Reference Test Methods 
+6 
+ 
+Salmonella 
+Methods for detection of bacteria responsible for food poisoning - Part 3: General Guidance on Methods for the 
+Detection of Salmonella- IS 5887: Part 3 
+ Microbiology of food and animal feeding stuffs - Horizontal method for the detection of Salmonella spp.- 
+ISO 6579 
+7 
+ 
+Listeria monocytogenes 
+ 
+Microbiology of the food chain - Horizontal method for the detection and enumeration of Listeria monocytogenes and other Listeria spp. - Part 1: Detection method - IS: 14988, Part 1 / ISO 11290-1 
+8 
+Sulfite-Reducing 
+Bacteria 
+Microbiology of food and animal feeding stuffs - Horizontal method for the enumeration of sulfite-reducing bacteria growing under anaerobic conditions- ISO 15213 
+9 
+ 
+Vibrio cholerae 
+Isolation, identification and enumeration of Vibrio cholerae and Vibrio parahaemolyticus - IS:5887, (Part V)

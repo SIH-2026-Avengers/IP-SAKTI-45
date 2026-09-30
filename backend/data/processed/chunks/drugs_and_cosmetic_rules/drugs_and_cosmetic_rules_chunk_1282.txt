@@ -1,0 +1,14 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 9
+Page: 315
+
+(ii) code number of the reference material; 
+(iii) date of receipt; 
+(iv) batch number or identification number of the supplying agency; 
+(v) details like assay value, water content or any other information provided; 
+(vi) storage condition of the material; and 
+(vii) date of expiry, if any and date of manufacturing if possible 
+(e) All working standards shall be checked at appropriate intervals or before use to ensure that it has not deteriorated or decomposed during storage. These observations be recorded in a register: 
+All the reference and working standards shall be stored at appropriate storage condition; those requiring storage between 2-80C shall be stored in a refrigerator. Wherever recommended the material may not be allowed to be frozen. 
+9. Microbiological Cultures:- 
+(a) Standard Operating Procedure for maintenance of microbial culture and sub-culture must be prepared by the laboratories.

@@ -1,0 +1,9 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 4
+Page: 426
+
+4. Test report - The test report shall include the following particulars: 
+ 
+(a) the identification of the sample; 
+(b) the Bursting Volume and Bursting Pressure of each tested condom; 
+(c) the date of testing.

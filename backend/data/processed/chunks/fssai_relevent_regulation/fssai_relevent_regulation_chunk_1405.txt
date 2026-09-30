@@ -1,0 +1,37 @@
+Document: FSSAI RELEVENT REGULATION
+Section: Section 1
+Page: 473
+
+Version-XXVI (20.12.2022) 
+C.A.S No. 
+25013-16-5 
+Chemical Name 
+A mixture of 3- and 2-tertiary butyl-4-hydroxyanisole; a mixture of 3- and 2-tertiary butyl-4-methoxyphenol. 
+Empirical Formula 
+C11H16O2 
+Molecular Weight 
+180.24 
+(2) Butylated hydroxyanisole shall conform to the requirements specified in the table below, namely:- 
+Table 
+SI. No. 
+Characteristic 
+Requirements 
+(1) 
+(2) 
+(3) 
+1. a) Purity as C11H16O2, per cent. by mass, Min b) 3 tertiary butyl4-hydroxyanisole, per cent. by mass, 
+Min 
+98.5 
+85 
+2. 
+Melting point, 0C 
+48 to 63 
+3. 
+Sulphated ash, per cent. by mass, Max 
+0.05 
+4. 
+Phenolic impurities, per cent. by mass, Max 
+0.5 
+5. 
+Specific absorption E 1 per cent. 
+(1 cm cell) in ethanol at a) 290 nm b) 228 nm

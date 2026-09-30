@@ -1,0 +1,14 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 12
+Page: 316
+
+(d) Whenever any non-compliance or any diversion is noticed by the team in implementing quality policy or quality system, protocols, the same will be attended by the Quality Manager. 
+The problem will be analysed and necessary actions will be taken with proper documentation. 
+(e) The Quality Manager shall maintain all the records of the analysis being conducted which includes test system, the type of analysis, date on which analysis is done, etc and quality 
+Manager shall also maintain copies of all protocols pertaining to different activities being checked by the audit team. 
+12. Management review - Quality system reviews shall be conducted by the top management at least once in every twelve months and the agenda of review shall generally cover the following:- 
+(i) report or input of internal audits; 
+(ii) matter arising from previous reviews; 
+(iii) report of external audits, if any; 
+(iv) surveillance report, if any; 
+(v) result of proficiency testing;

@@ -1,0 +1,8 @@
+Document: Patents_Rules_2003
+Page: 18
+
+18 date of that claim shall be the date of the filing of the relevant specification. 
+ 
+(3) Where the complete specification is filed or proceeded with in pursuance of two or more applications accompanied by such specifications as are mentioned in sub-section (2) and the claim is fairly based on the matter disclosed 
+(a) in one of those specifications, the priority date of that claim shall be the date of the filing of the application accompanied by that specification; 
+(b) partly in one and partly in another, the priority date of that claim shall be the date of the filing of the application accompanied by the specification of the later date.

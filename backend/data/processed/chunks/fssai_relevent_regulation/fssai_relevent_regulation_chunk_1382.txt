@@ -1,0 +1,42 @@
+Document: FSSAI RELEVENT REGULATION
+Section: Section 4
+Page: 461
+
+Version-XXVI (20.12.2022) 
+Common Name 
+Enzymatically hydrolyzed sodium carboxy methyl cellulose 
+INS No. 
+469 
+Chemical Name 
+Carboxymethyl cellulose, sodium, partially enzymatically hydrolyzed 
+Empirical Formula 
+[C6H7O2(OH)x(OCH2COONa)y]n x = 1.50 to 2.80 y = 0.20 to 1.50 = degree of substitution or 3.00 - x x + y = 3.00 
+Structural units with degree of substitution of 0.20 178.14 
+Mono substituted structural units: 242.16 
+Molecular Weight 
+178.14 
+ (2) Sodium Carboxymethyl Cellulose, enzyme hydrolysed shall conform to the requirements specified in the table below, namely:- 
+Table 
+SI. No. 
+Characteristic 
+Requirements 
+(1) 
+(2) 
+(3) 
+1 
+Loss on drying, per cent., Max 
+12 
+2 pH 
+6 - 8.5 
+3 
+Sodium chloride and sodium glycolate, per cent., Max 0.5 
+4 
+Degree of substitution 
+0.2 - 1.5 
+5 
+Residual enzyme activity shall pass test as per BIS standard 
+6 
+Lead, mg/kg, Max 
+3.0 
+ 
+4. Agar

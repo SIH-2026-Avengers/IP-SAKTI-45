@@ -1,0 +1,252 @@
+--- PAGE 1 ---
+1.1 
+
+Indian Regulatory Framework 
+ 
+1.1 - Law: Meaning, Sources, Process of Making and Types 
+Q.1 
+What do you understand by Law? Also, elaborate the procedure for making a law. 
+[MTP-July 24; Dec. 24] 
+Or 
+What is Law and what is the process of making a law? [RTP-Sep. 24] 
+Ans.: Meaning of Law: 
+Law is a set of obligations & duties imposed by government for securing welfare & providing justice to society. India's legal framework reflects social, political, economic and cultural aspects of our vast and diversified country. 
+Process of Making a Law: 
+(i) 
+When a law is proposed in parliament, it is called a Bill. 
+(ii) After discussion & debate, law is passed in Lok Sabha. 
+(iii) Thereafter, it has to be passed in Rajya Sabha. 
+(iv) It then has to obtain assent of the President of India. 
+(v) Finally, law will be notified by Government in the publication called the Official Gazette of India. 
+(vi) Law will become applicable from the date mentioned in the notification as effective date. 
+(vii) Once it is notified & effective, it is called an Act of Parliament. 
+Q.2 
+Explain in brief the various types of laws in the Indian Legal System. [MTP-April 24] 
+Or 
+Explain the types of laws in the Indian Legal System considering the Indian Regulatory Framework. 
+[Sep. 24 (6 Marks); RTP-May 25] 
+Ans.: Various types of Laws in the Indian Legal System: 
+(i) 
+Criminal Law: Criminal law is concerned with laws pertaining to violations of the rule of law or public wrongs & punishment of the same. Criminal Law is governed under the Bharatiya Nyaya 
+Sanhita, 2023 (BNS) & the Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS). BNS defines the crime, its nature and punishments whereas BNSS defines exhaustive procedure for executing the punishments of the crimes. Murder, rape, theft, fraud, cheating and assault are some examples of criminal offences under the law. 
+(ii) Civil Law: Matters of disputes between individuals or organisations are dealt with under Civil 
+Law. Civil courts enforce the violation of certain rights and obligations through the institution of a civil suit. Civil law primarily focuses on dispute resolution rather than punishment. Act of process and administration of civil law are governed by the Code of Civil Procedure, 1908 (CPC). 
+Civil law can be further classified into Law of Contract, Family Law, Property Law and Law of Tort. 
+Some examples of civil offences are breach of contract, non-delivery of goods, non-payment of dues to lender or seller defamation, breach of contract and disputes between landlord & tenant. 
+1
+
+--- PAGE 2 ---
+Indian Regulatory Framework 
+ 
+Chapter 1 
+1.2 
+(iii) Common Law: A judicial precedent or a case law is common law. A judgment delivered by the 
+Supreme Court will be binding upon the courts within the territory of India under Article 141 of the Indian Constitution. 
+The doctrine of Stare Decisis is the principle supporting common law. It is a Latin phrase that means "to stand by that which is decided." The doctrine of Stare Decisis reinforces the obligation of courts to follow the same principle or judgement established by previous decisions. 
+(iv) Principles of Natural Justice: Natural justice, often known as Jus Natural deals with certain fundamental principles of justice going beyond written law. 
+A judgement can override or alter a common law, but it cannot override or change the statute. 
+Q.3 
+What do you understand by Law? Also explain, how is Law enforced in a legal system? 
+[MTP-April 25] 
+Ans.: Law - Meaning and Enforcement: 
+Law is a set of obligations and duties imposed by the government for securing welfare and providing justice to society. India's legal framework reflects the social, political, economic, and cultural aspects of our vast and diversified country. 
+Enforcement of Law: 
+• After a law is passed in parliament it has to be enforced. Somebody should monitor whether the law is being followed. This is the job of the executive. 
+• Depending on whether a law is a Central law or a State law the Central or State Government will be the enforcing authority. 
+• For this purpose, government functions are distributed to various ministries. Some of the popular 
+Ministries are the Ministry of Finance, the Ministry of Corporate Affairs, the Ministry of Home 
+Affairs, the Ministry of Law and Justice and so on. These Ministries are headed by a minister and run by officers of the Indian administrative and other services. 
+• The Government of India exercises its executive authority through a number of Government 
+Ministries or Departments of State. A Ministry is composed of employed officials, known as civil servants, and is politically accountable through a minister. 
+• Most major Ministries are headed by a Cabinet Minister, who sits in the Union Council of Ministers, and is typically supported by a team of junior ministers called the Ministers of State. 
+Q.4 
+"Explain the process by which a Bill becomes an Act of Parliament in India. After a law is enacted, how is it enforced, and which authorities are responsible for its implementation? [MTP-Aug. 25] 
+Ans.: Process of Making a Law: Refer Answer of Q. No. 1. 
+Enforcement of Law: Refer Answer of Q. No. 3. 
+Q.5 
+Define Law and explain various sources of Law. [Sep. 25 (6 Marks)] 
+Ans.: Meaning of Law: 
+Law is a set of obligations and duties imposed by the government for securing welfare and providing justice to society. India's legal framework reflects the social, political, economic, and cultural aspects of our vast and diversified country. 
+Sources of Law: 
+The main sources of law in India are:
+
+--- PAGE 3 ---
+Chapter 1 
+ 
+Indian Regulatory Framework 
+1.3 
+(i) the Constitution, 
+(ii) the Statutes or Laws made by Parliament and State Assemblies, 
+(iii) Precedents or the Judicial Decisions of various Courts and in some cases, established Customs and 
+Usages. 
+The elected representatives of the people to the Parliament and to the Legislative Assemblies of various 
+States make laws in the Parliament or in the State Assemblies. 
+The Constitution of India, 1950 is the foremost law that deals with the framework within which our democratic system works, and our laws are made for the people, by the people. 
+The Constitution also provides for and protects certain Fundamental Rights of citizens. 
+It also lays down Fundamental duties as well as the powers and duties of Governments, both Central and State. 
+The laws in India are interconnected with each other forming a hybrid legal system. 
+The people who wrote the Constitution decided to divide the law-making power between the Central 
+Government and the various State Governments. So, the Indian Constitution has three lists Viz., Central 
+List, State List and Joint List. 
+A matter would become the subject matter for Central Law or a State Law depending on the List. 
+ 
+1.2 - Ministries and Regulatory Bodies 
+Q.6 
+Describe in brief about the following Regulatory bodies of the Government of India: 
+(i) 
+Securities and Exchange Board of India 
+(ii) Reserve Bank of India 
+(iii) Insolvency and Bankruptcy Board of India [June 24 (6 Marks); MTP-Jan. 25] 
+Or 
+Describe the major functions and specialised divisions of the Reserve Bank of India (RBI). How does it contribute to India's economic development? [MTP-May 25] 
+Or 
+Describe the major functions of the Reserve Bank of India (RBI) in regulating the Indian economy. 
+How does it manage currency, payment systems and economic development? [RTP-Jan. 26] 
+Ans.: Regulatory bodies of the Government of India: 
+(i) The Securities and Exchange Board of India (SEBI): 
+• It is regulatory body for securities & commodity market in India under Ministry of Finance, 
+Government of India. 
+• It was established in 1988 as an executive body and was given statutory powers through the 
+SEBI Act, 1992. 
+(ii) Reserve Bank of India (RBI): 
+• It is India's Central Bank and regulatory body responsible for regulation of the Indian banking system. 
+• It is under the ownership of Ministry of Finance, Government of India. 
+• It is responsible for the control, issue and maintaining supply of the Indian rupee.
+
+--- PAGE 4 ---
+Indian Regulatory Framework 
+ 
+Chapter 1 
+1.4 
+• It also manages the country's main payment systems and works to promote its economic development. 
+• Bharatiya Reserve Bank Note Mudran (BRBNM) is a specialised division of RBI through which it prints and mints Indian currency notes (INR) in two of its currency printing presses located in Nashik (Western India) and Dewas (Central India). 
+• RBI established the National Payments Corporation of India as one of its specialised division to regulate the payment and settlement systems in India. 
+• Deposit Insurance and Credit Guarantee Corporation was established by RBI as one of its specialised division for the purpose of providing insurance of deposits and guaranteeing of credit facilities to all Indian banks. 
+(iii) Insolvency and Bankruptcy Board of India (IBBI): 
+• It is regulator for overseeing insolvency proceedings and entities like Insolvency Professional 
+Agencies (IPA), Insolvency Professionals (IP) and Information Utilities (IU) in India. 
+• It was established in 2016 and given statutory powers through Insolvency and Bankruptcy 
+Code, 2016. 
+• It covers Individuals, Companies, LLPs and Partnership firms. It attempts to simplify the process of insolvency and bankruptcy proceedings. 
+• It handles the cases using two tribunals like National Company Law Tribunal(NCLT) and Debt 
+Recovery Tribunal (DRT). 
+Q.7 
+Explain the key responsibilities and organizational structure of the Ministry of Corporate Affairs 
+(MCA). Highlight the legislative acts it administers and the role of the ICLS cadre. [MTP-May 25] 
+Ans.: Responsibilities and organizational structure of the Ministry of Corporate Affairs (MCA): 
+(a) MCA is an Indian Government Ministry. 
+(b) It is primarily concerned with administration of the Companies Act 2013, the Companies Act 1956, the LLP Act, 2008, and the Insolvency and Bankruptcy Code, 2016. 
+(c) It is responsible mainly for the regulation of Indian enterprises in the industrial and services sector. 
+(d) The Ministry is mostly run by civil servants of the ICLS cadre. 
+(e) These officers are elected through the Civil Services Examination conducted by Union Public 
+Service Commission. 
+(f) The highest post, Director General of Corporate Affairs (DGCoA), is fixed at Apex Scale for the ICLS. 
+Q.8 
+Explain in brief the important functions played by the Ministry of Finance, the Ministry of Corporate 
+Affairs and the Ministry of Law and Justice in enforcing the law in India. 
+[May 25 (6 Marks); MTP-Dec. 25] 
+Ans.: Functions played by Ministry of Finance, MCA and Ministry of Law and Justice 
+(A) Ministry of Finance: 
+• The Ministry of Finance (Vitta Mantralaya) is a Ministry within the Government of India concerned with the economy of India, serving as the Treasury of India. 
+• In particular, it concerns itself with taxation, financial legislation, financial institutions, capital markets, centre and state finances, and the Union Budget.
+
+--- PAGE 5 ---
+Chapter 1 
+ 
+Indian Regulatory Framework 
+1.5 
+• One of the important functions of the Finance Ministry is the presentation of the Union Budget. 
+This annual event is eagerly awaited by professionals and the common man as it provides for the rates of taxes and budget allocations for the ensuing year. 
+(B) Ministry of Corporate Affairs (MCA): 
+• The Ministry of Corporate Affairs is an Indian Government Ministry. 
+• It is primarily concerned with administration of the Companies Act 2013, the Companies Act 
+1956, the Limited Liability Partnership Act, 2008, and the Insolvency and Bankruptcy Code, 
+2016. 
+(C) Ministry of Law and Justice: 
+• The Ministry of Law and Justice in the Government of India is a Cabinet Ministry 
+• It deals with the 
+(i) management of the legal affairs, through the Department of Legal Affairs 
+(ii) legislative activities through the Legislative Department 
+(iii) administration of justice in India through the Department of Justice 
+• The Department of Legal Affairs is concerned with advising the various Ministries of the Central 
+Government while the Legislative Department is concerned with drafting of principal legislation for the Central Government. 
+ 
+1.3 - Indian Judicial System 
+Q.9 
+What is the significance of the Supreme Court and High Court in the Indian judiciary? 
+[MTP-May 24, Aug. 25; RTP-Jan. 25] 
+Ans.: Significance of the Supreme Court and High Court: 
+(i) 
+Supreme Court: Supreme Court is the apex body of judiciary. It was established on 26th January 
+1950. Chief Justice of India (CJI) is the highest authority appointed under Article 126. The principal bench of the Supreme Court consists of 7 members including CJI. Presently, the number has increased to 34 including CJI due to rise in the number of cases and workload. 
+An individual can seek relief in the Supreme Court by filing a writ petition under Article 32. 
+(ii) High Court: Highest court of appeal in each state & UT is the High Court. Article 214 of the Indian 
+Constitution states that there must be a High Court in each state. The High Court has appellant, original jurisdiction & Supervisory jurisdiction. However, Article 227 of the Indian Constitution limits a High Court's supervisory power. In India, there are 25 High Courts, 1 for each state and union territory. 6 states share a single High Court. 
+An individual can seek remedies against violation of fundamental rights in High Court by filing a writ under Article 226. 
+Q.10 
+What do you understand by Indian Judicial System and what are its various functions? 
+[RTP-May 24] 
+Ans.: Indian Judicial System & its functions: 
+Indian Judicial System is a branch which through the enforcement of Law resolves dispute between citizens or between citizens and Government. 
+The functions of judiciary system of India are:
+
+--- PAGE 6 ---
+Indian Regulatory Framework 
+ 
+Chapter 1 
+1.6 
+• Regulation of interpretation of the Acts and Codes, 
+• Dispute Resolution, and 
+• Promotion of fairness among the citizens of the land. 
+Indian Judicial System performs his functions through the hierarchy of courts, Supreme Court is at the top, followed by High Courts, District Courts and Metropolitan Courts. Decisions of a High Court are binding in the respective state but are only persuasive in other states. Decisions of Supreme Court are binding on all High Courts under Article 141 of the Indian Constitution. 
+Supreme Court decision is the final word on the matter. 
+Q.11 
+What is the structure of the Indian Judicial System, and what is the hierarchy of courts in India? 
+[MTP-Aug. 24, Nov. 25] 
+Or 
+Explain the hierarchical structure of the Indian Judicial System. Describe the powers and functions of the Supreme Court, High Courts, District Courts and Metropolitan Courts. [RTP-Sep. 25] 
+Ans.: Structure of Indian Judicial System and hierarchy of courts: 
+When there is a dispute between citizens or between citizens and the Government, these disputes are resolved by the judiciary. 
+The functions of judiciary system of India are: 
+• Regulation of the interpretation of the Acts and Codes, 
+• Dispute Resolution, and 
+• Promotion of fairness among the citizens of the land. 
+Hierarchical Structure of the Indian Judicial System: 
+The hierarchical structure of the Indian Judicial System comprised of the Courts for dispute redressal between citizens or between citizens and the Government. Supreme Court is at the top, followed by the 
+High Courts and District Courts. Decisions of the Supreme Court is the final word on the matter and therefore are binding on all High Courts under Article 141 of the Indian Constitution. Whereas decisions of a High Court are binding in the respective state but are only persuasive in other states. 
+Following are the Powers & the Functions of various courts under the Indian Judicial System. 
+(i) Supreme Court: 
+The Supreme Court is the apex body of the judiciary, established on 26th January, 1950. The Chief 
+Justice of India is the highest authority appointed under Article 126 of the Constitution of India. 
+ 
+The principal bench of the Supreme Court consists of seven members including the Chief Justice of India. Presently, the number has increased to 34 including the Chief Justice of India due to the rise in the number of cases and workload. An individual can seek relief in the Supreme Court by filing a writ petition under Article 32 of the Constitution of India. 
+(ii) High Court: 
+ 
+It is the highest court of appeal in each state and union territory. Article 214 of the Constitution of 
+India states that there must be a High Court in each state. The High Court has appellant, original jurisdiction, and Supervisory jurisdiction. However, Article 227 of the Constitution of India limits a High Court's supervisory power. An individual can seek remedies against violation of fundamental rights in High Court by filing a writ under Article 226 of the Constitution of India.
+
+--- PAGE 7 ---
+Chapter 1 
+ 
+Indian Regulatory Framework 
+1.7 
+(iii) District Court: 
+Below the High Courts are the District Courts. The Courts of District Judge deal with Civil law matters i.e. contractual disputes and claims for damages etc., The Courts of Sessions deals with 
+Criminal matters. 
+On the basis of a pecuniary jurisdiction, a civil judge can try suits valuing not more than ₹ 2 crore. 
+On the basis of territorial Jurisdiction i.e. courts have power to control the areas covered by them. 
+Cases are decided based on the local limits within which the parties reside or the property under dispute is situated. 
+(iv) Metropolitan courts: 
+Metropolitan courts are established in metropolitan cities in consultation with the High Court where the population is ten lakh or more. Chief Metropolitan Magistrate has powers as Chief 
+Judicial Magistrate and Metropolitan Magistrate has powers as the Court of a Magistrate of the first class. 
+Q.12 
+Ashok and Vimal are pursuing chartered accountancy course and discussing about the structure of the Indian judicial system. Explain them the functions of judiciary system of India and the hierarchy of courts and briefly explain their functioning under the Indian Regulatory Framework. 
+[Jan. 25 (6 Marks)] 
+Ans.: Structure of Indian Judicial System and hierarchy of courts: Refer Answer of Q. No. 11
+
+--- PAGE 8 ---
+Indian Regulatory Framework 
+ 
+Chapter 1 
+1.8 
+NOTES

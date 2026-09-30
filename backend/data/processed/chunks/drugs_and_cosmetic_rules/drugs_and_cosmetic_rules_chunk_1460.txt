@@ -1,0 +1,13 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 4
+Page: 365
+
+3. Environment Conditions- 
+ 
+3.1. Where products or clean components are exposed, the area shall be supplied with filtered air of Grade C. 
+3.2. The requirements of temperature and humidity in the manufacturing area shall be decided depending on the type of product and propellants handled in the facility. Other support areas shall have comfort levels of temperature and humidity. 
+3.3. There shall be difference in room pressure between the manufacturing area and the support areas and the differential pressure shall be not less than 15 Pascals, (0.06 inches or 1.5 mm water gauge). 
+3.4. There shall be a written schedule for the monitoring of environmental conditions. Temperature and humidity shall be monitored daily. 
+4. Garments- 
+ 
+4.1. Personnel in the manufacturing and filling section shall wear suitable single-piece-garment made out of non-shedding, tight weave material. Personnel in support areas shall wear clean factory uniforms.

@@ -1,0 +1,6 @@
+Document: FSSAI RELEVENT REGULATION
+Page: 780
+
+For FBO: Food Business Operator (FBO) shall perform testing as appropriate as per the microbiological standards in Table-4A & 4B to ensure validation and verification of compliance with the microbiological requirements. FBO shall decide themselves the necessary sampling and testing frequencies to ensure compliance with the specified microbiological requirements. FBO may use analytical methods other than those described in reference test methods given below for in-house testing only. However, these methods shall not be applicable for regulatory compliance purpose. 
+Sampling Plan: 
+The terms n, c, m and M used in this standard have the following meaning: n = Number of units comprising a sample.

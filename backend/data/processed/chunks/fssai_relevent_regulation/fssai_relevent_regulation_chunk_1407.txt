@@ -1,0 +1,62 @@
+Document: FSSAI RELEVENT REGULATION
+Section: Section 3
+Page: 474
+
+Version-XXVI (20.12.2022) 
+Empirical Formula 
+C19H30O5 
+Molecular Weight 
+338.45 
+(2) Dodecyl gallate shall conform to the requirements specified in the table below, namely:- 
+Table 
+SI. No. 
+Characteristic 
+Requirement 
+(1) 
+(2) 
+(3) 
+1. 
+Purity as C19H30O5, per cent. by mass, Min 
+98.5 
+2. 
+Moisture, per cent. by mass, Max 
+0.5 
+3. 
+Sulphated ash, per cent. by mass, Max 
+0.05 
+4. 
+Chlorinated organic compounds (as Cholrine) mass, mg/kg, Max 
+100 
+5. 
+Free acid (as gallic acid), per cent. by mass, Max 
+0.5 
+6. 
+Specific absorption at 275 nm, 
+Min 
+Max 
+ 
+300 
+325 
+7. 
+Lead, mg/kg, Max 
+2.0 
+ 
+Arsenic, mg/kg, Max 
+3.0 
+ 
+3. Propyl gallate: 
+(1) Propyl gallate shall be a white to creamy-white crystalline, odourless solid with a slightly bitter taste and as described below, namely:- 
+ 
+Common Name 
+Propyl gallate 
+INS No. 
+310 
+C.A.S No. 
+121-79-9 
+Chemical Name 
+Propyl gallate, and n-propyl ester of 
+3,4,5-trihydroxybenzoic acid 
+Empirical Formula 
+C10H12O5 
+Molecular Weight 
+212.21

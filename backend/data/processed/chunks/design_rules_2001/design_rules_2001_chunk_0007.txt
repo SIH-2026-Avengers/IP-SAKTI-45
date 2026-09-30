@@ -1,0 +1,5 @@
+Document: DESIGN RULES 2001
+Page: 2
+
+(b) Cheques or Demand Drafts not carrying the correct amount of commission, and cheques or demand drafts on which the full value specified therein cannot be collected in cash within the time allowed for payment of the fee, shall be accepted only at the discretion of the Controller. 
+(c) Stamps and Indian postal order shall not be accepted in payment of fees.

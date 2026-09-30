@@ -1,0 +1,8 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 5
+Page: 240
+
+(c) Safety Test.-Two rabbits each weighing not less than 1 kg. are injected subcutaneously each with 1 ml. of a 1 : 100 dilution of the vaccine in normal saline solution. These animals are observed for fourteen days. The animals should remain normal. 
+(d) Sterility Test.-Complies with the tests for sterility described under the general monograph on 'Viral Vaccines'. 
+(e) Potency Test.-Four yearling sheep are inoculated with 1 : 100 suspension of the vaccine in 50 per cent glycerine saline on a scarified area on the abdomen. Fourteen days later, these and two more susceptible sheep are inoculated by the same method with stock virus and observed for a period of fourteen days. The control animals should develop typical lesions of pox and the vaccinated animals should remain normal. 
+5. Labelling.-Should comply with the requirement of 'Labelling' as laid down in the general monograph on 'Viral Vaccines'.

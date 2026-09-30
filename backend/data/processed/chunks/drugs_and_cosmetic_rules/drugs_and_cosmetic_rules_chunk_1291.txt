@@ -1,0 +1,13 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 14
+Page: 317
+
+(xxiv) working procedure (test methods); 
+(xxv) calibration Manual; and 
+(xxvi) training manual. 
+14. Protocols and specifications archive.- 
+(a) Every laboratory shall have a specification archive and. current versions of all necessary specifications shall be kept as per the requirements of the Act and the rules made thereunder and the National Pharmacopoeia (Indian Pharmacopoeia). 
+(b) All updates and corrections must be noted in the master volumes of Pharmacopoeias to prevent the use of obsolete sections; supplement and addendum shall also be made available in the laboratory. 
+(c) The specification archive shall contain the following :- 
+(i) list of all the pharmacopoeias; 
+(ii) a file on patent and proprietary medicines (non-pharmacopoeial) test methods to specifications prepared and validated by the manufacturer or by the laboratory itself.

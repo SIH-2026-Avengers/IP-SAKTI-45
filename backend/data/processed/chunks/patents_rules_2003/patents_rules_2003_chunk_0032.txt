@@ -1,0 +1,7 @@
+Document: Patents_Rules_2003
+Page: 15
+
+(3) Where an application for a patent (not being a convention application or an application filed under the Patent Cooperation 
+Treaty designating India) is accompanied by a specification purporting to be a complete specification, the Controller may, if the applicant so requests at any time within twelve months from the date of filing of the application, direct that such specification shall be treated, for the purposes of this Act, as a provisional specification and proceed with the application accordingly. 
+ 
+(4) Where a complete specification has been filed in pursuance of an application for a patent accompanied by a provisional specification or by a specification treated by virtue of a direction under sub- section (3) as a provisional specification, the Controller may, if the applicant so requests at any time before grant of patent, cancel the provisional specification and post-date the application to the date of filing of the complete specification.

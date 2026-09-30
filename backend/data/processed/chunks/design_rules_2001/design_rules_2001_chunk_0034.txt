@@ -1,0 +1,5 @@
+Document: DESIGN RULES 2001
+Section: Section 34
+Page: 9
+
+34. Particulars in applications.- An application under rule 33 shall contain the name, address and nationality of the person claiming to be entitled, together with full particulars of the instrument, if any, under which he claims.

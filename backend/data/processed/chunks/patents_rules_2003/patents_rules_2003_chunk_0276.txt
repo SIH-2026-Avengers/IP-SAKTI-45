@@ -1,0 +1,10 @@
+Document: Patents_Rules_2003
+Section: Section 137
+Page: 103
+
+103 which the applicant would be entitled under the provisions of section 6 to make a separate application for a patent. 
+ 
+(3) A convention application shall not be post-dated under sub- section (1) of section 17 to a date later than the date on which under the provisions of this Act the application could have been made. 
+ 
+137. Multiple priorities. 
+(1) Where two or more applications for patents in respect of inventions have been made in one or more convention countries and those inventions are so related as to constitute one invention, one application may be made by any or all of the persons referred to in sub-section (1) of section 135 within twelve months from the date on which the earlier or earliest of those applications was made, in respect of the inventions disclosed in the specifications which accompanied the basic applications.

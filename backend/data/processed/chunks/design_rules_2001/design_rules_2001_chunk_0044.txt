@@ -1,0 +1,4 @@
+Document: DESIGN RULES 2001
+Page: 12
+
+Controller shall give to such person or his agent before determining the matter with reference to which such person is entitled to be heard. If within that month such person or his agent requires to be heard, the Controller shall appoint a date for the hearing and shall give ten days notice thereof:

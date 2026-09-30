@@ -1,0 +1,11 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 12
+Page: 500
+
+8. Trial treatment schedule(s) and the probability for random assignment to each treatment (for randomized trials) 
+ 9. Statement describing the financial compensation and medical management as under:- 
+(a) In the event of an injury occurring to the clinical trial subject, such subject shall be provided free medical management as long as required. 
+(b) In the event of a trial related injury or death, the Sponsor or his representative, whosoever has obtained permission from the Licensing Authority for conduct of the clinical trial shall provide financial compensation for the injury or death.] 
+10. An explanation about whom to contact for trial related queries, rights of Subjects and in the event of any injury 
+11. The anticipated prorated payment, if any, to the Subject for participating in the trial 
+12. Subject's responsibilities on participation in the trial

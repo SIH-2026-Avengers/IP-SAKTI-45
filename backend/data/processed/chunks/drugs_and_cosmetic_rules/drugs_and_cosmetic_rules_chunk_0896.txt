@@ -1,0 +1,9 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 212
+
+(iv) 
+ a description of all vessels and equipments and the sizes used in the process; 
+(v) manufacturing and control instructions along with parameters for critical steps such as mixing, drying, blending, sieving and sterilising the product; 
+(vi) the theoretical yield to be expected from the formulation at different stages of manufacture and permissible yield limits; 
+(vii) detailed instructions on precautions to be taken in the manufacture and storage of drugs and of semi-finished products; and 
+(viii) the requirements in-process quality control tests and analysis to be carried out during each stage of manufacture including the designation of persons or departments responsible for the execution of such tests and analysis.

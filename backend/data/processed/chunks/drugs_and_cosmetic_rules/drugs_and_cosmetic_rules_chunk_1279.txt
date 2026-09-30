@@ -1,0 +1,8 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 8
+Page: 314
+
+(c) For most of the equipments and instruments, Standard Operating Procedures for calibration and calibration schedule be prepared by the laboratory and a logbook shall also be prepared by each laboratory for proper documentation of calibration results. 
+8. Reference materials:- 
+(a) Reference materials are necessary for the testing and, or calibration, validation or verification of a sample or of equipment, instruments or other devices and all such materials shall be traceable to agency authorised by Government of India or any other International body . 
+(b) The laboratory shall prepare working standard by comparing with the reference standards and shall be routinely checked for their purity by selecting parameters such as identity, loss on drying or on water, impurity and assay, etc.

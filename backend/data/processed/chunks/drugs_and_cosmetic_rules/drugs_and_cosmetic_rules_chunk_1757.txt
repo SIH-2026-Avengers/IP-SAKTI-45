@@ -1,0 +1,20 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 2
+Page: 456
+
+2. Name of the sample. 
+3. Batch Number. 
+4. Number of rabbits used. 
+5. Weight of each rabbit. 
+6. Normal temperature of each rabbit. 
+7. Mean initial temperature of each rabbit. 
+8. Dose and volume of solution injected into each rabbit and time of injection. 
+9. Temperature of each rabbit noted at suitable intervals. 
+10. Maximum temperature. 
+11. Response. 
+12. Summed response. 
+13. Signature of the Analyst. 
+14. Opinion and signature of the approved Analyst. 
+TOXICITYTEST. 
+1. Test Report Number. 
+2. Name of the sample.

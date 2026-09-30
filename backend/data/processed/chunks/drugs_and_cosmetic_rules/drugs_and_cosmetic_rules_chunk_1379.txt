@@ -1,0 +1,21 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 342
+
+(c) qualification and calibration, including the recording systems and arrangements for computerized systems validation. 
+29.5. Sanitation- 
+ 
+(a) availability of written specifications and procedures for cleaning manufacturing areas and equipment. 
+29.6. Documentation- 
+ 
+(a) arrangements for the preparation, revision and distribution of 
+ 
+(b) necessary documentation for the manufacture; 
+ 
+(c) any other documentation related to product quality that is not mentioned elsewhere (e.g. microbiological controls about air and water) 
+29.7. Production- 
+ 
+(a) brief description of production operations using, wherever possible, flow sheets and charts specifying important parameters; 
+(b) arrangements for the handling of starting materials, packaging materials, bulk and finished products, including sampling, quarantine, release and storage; 
+(c) arrangements for the handling of rejected materials and products; 
+ 
+(d) brief description of general policy for process validation.

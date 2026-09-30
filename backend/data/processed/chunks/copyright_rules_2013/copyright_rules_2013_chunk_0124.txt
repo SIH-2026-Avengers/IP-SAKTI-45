@@ -1,0 +1,12 @@
+Document: Copyright Rules 2013
+Section: Section 80
+Page: 45
+
+CHAPTER XVII 
+TECHNOLOGICAL PROTECTION MEASURES 
+80. Maintaining of records.- 
+(1) Any person who is permitted to circumvent technological protection measures under clause (a) of subsection (2) of section 65A of the Act may approach any person, who can assist him to circumvent the technological protection measures. 
+(2) Any such person facilitating circumvention of technological protection measures for another person shall maintain a record containing details of the person who requested for assistance, containing the following details, namely:- 
+(a) the name, complete postal address, photograph, e-mail address and telephone number or other contact details of the person; 
+(b) the professional details of the person, if any, including the address of the place where he is working at present; 
+(c) the reasons and purpose for circumvention of the technological protection measures; and

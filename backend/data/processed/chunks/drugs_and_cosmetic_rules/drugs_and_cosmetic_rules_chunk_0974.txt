@@ -1,0 +1,9 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 7
+Page: 229
+
+Details of safety test are given in the individual monograph. 
+6. 
+Storage.-Live viral vaccines shall be stored, protected from light at subzero temperature as required. Other viral vaccines shall be stored at 2º C to 4º C but shall not be frozen. 
+7. Condition of housing of animals.-(i) The animals used in the production of vaccine must be housed in hygienic conditions in premises satisfactory for this purpose. 
+(ii) Only healthy animals may be used in the production of vaccine. Each animal intended to be used as a source of vaccine must, before being passed for the production of vaccine be subjected to a period of observation in quarantine for at least seven days. During the period of quarantine the animal must remain free from any sign of disease and must be well kept.

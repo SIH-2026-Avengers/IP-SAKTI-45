@@ -1,0 +1,31 @@
+Document: DESIGN RULES 2001
+Page: 23
+
+CLASS 13 
+Equipment for production, distribution or transformation of electricity 
+Note : 
+(a) Includes only apparatus which produces, distributes or transforms electric current. 
+(b) Including electric motors, however. 
+(c) Not Including electrically-driven apparatus, such as electric watches (Cl. 10-02), or apparatus for the measurement of electric current (Cl. 10-04). 
+13-01 
+GENERATORS AND MOTORS 
+Note: including electric motors for vehicles. 
+13-02 
+POWER TRANSFORMETERS, RECTIFIERS, BATTERIES AND ACCUMULATORS 
+13-03 
+EQIUPMENT FOR DISTRIBUTION OR CONTROL OF ELECTRIC POWER 
+Note: 
+Including conductors, switches and switchboards. 
+13-99 
+MISCELLANEOUS 
+CLASS 14 
+Recording, communication or information retrieval equipment 
+14-01 
+EQUIPMENT FOR THE RECORDING OR REPRODUCING OR REPRODUCTION 
+OF SOUNDS OR PICTUREA 
+Note: 
+Not including photographic or cinematographic apparatus (Cl. 16). 
+14-02 
+DATA PROCESSING EQUIPMENT AS WELL AS PERIPHERAL APPARATUS 
+AND DEVICES 
+14-03

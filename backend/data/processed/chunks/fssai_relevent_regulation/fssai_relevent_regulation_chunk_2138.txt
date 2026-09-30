@@ -1,0 +1,71 @@
+Document: FSSAI RELEVENT REGULATION
+Page: 815
+
+Version-XXVI (20.12.2022) 
+29. 
+ Endo-1,3-β-xylanase 
+(EC No. 3.2.1.32) 
+Humicolainsolens 
+GMP 
+30. 
+Pullunase 
+(EC 3.2.1.41) 
+Bacillus acidopullulyticus 
+GMP 
+Bacillus brevis 
+Bacillus circulans 
+ 
+Bacillus naganoensis 
+ 
+Klebsiellaaerogenes 
+ 
+31. 
+Alpha 
+Arabinofuronosidase 
+(EC No. 3.2.1.55) 
+Aspergillusniger 
+GMP 
+32. 
+Glucan1,3- betaglucosidase 
+(EC No. 3.2.1.58) 
+Trichodermaharzianum 
+GMP 
+33. 
+Mannanase (Mannan endo-1,4-beta- mannosidase) 
+(EC No. 3.2.1.78) 
+Trichodermareesei 
+GMP 
+Aspergillusniger 
+GMP 
+34. 
+Protease (Bacteria) 
+(EC No. 3.4) 
+Bacillus amyloliquefaciens 
+GMP 
+ 
+Bacillus licheniformis 
+Bacillus subtilis 
+Geobacilluscaldoproteolyticus 
+35. 
+Protease (Fungi) 
+(EC No. 3.4) 
+Aspergillusniger 
+GMP 
+ 
+Aspergillusoryzae 
+36. 
+Aminopeptidase 
+(EC No. 3.4.11.1) 
+Aspergillusoryzae 
+GMP 
+37. 
+Serine protease 
+(subtilisin) 
+(EC No. 3.4.21.62) 
+Bacillus licheniformis 
+GMP 
+38. 
+PIII-type proteinase 
+(Lactocepin) 
+(EC No. 3.4.21.96) 
+Lactococcuslactis subsp. cremoris

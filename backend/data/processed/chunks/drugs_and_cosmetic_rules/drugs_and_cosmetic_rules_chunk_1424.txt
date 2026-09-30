@@ -1,0 +1,6 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 355
+
+10.7.4. After the high temperature phase of a heat sterilization cycle, precautions shall be taken against contamination of sterilized load during cooling. Any cooling fluid or gas in contact with the product shall be sterilized unless it can be shown that any leaking container would not be approved for use. Air inlet and outlets shall be provided with bacteria retaining filters. 
+10.7.5. The process used for sterilization by dry heat shall include air-circulation within the chamber and the maintenance of a positive pressure to prevent the entry of non-sterile air. Air inlets and outlets should be provided with micro-organism retaining filters. Where this process of sterilization by dry heat is also intended to remove pyrogens, challenge tests using endotoxins would be required as part of the validation process. 
+10.8. Sterilization (By Moist Heat)-

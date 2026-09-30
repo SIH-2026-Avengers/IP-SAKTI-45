@@ -1,0 +1,12 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 253
+
+50
+50
+50
+ 
+(e) 
+ Sterility Test.-Shall comply with the test for sterility as described under the general monograph on 'Viral Vaccines'. 
+(f) 
+ Titration in cell culture.-Four randomly selected samples reconstituted in a maintenance medium are inoculated in lamb kidney cell cultures using 5 tubes for each dilution. The titrations shall be repeated thrice. The TCID to be calculated by 
+Reed and Muench Method. One thousand TCID is calculated as one field dose.

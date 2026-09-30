@@ -1,0 +1,9 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 353
+
+Grade A environment with Grade B in background. 
+10.5. Filtration (Membrane)- 
+ 
+(i) Solution for Large Volume Parenterals shall be filtered through a non-fiber releasing, sterilizing grade cartridge, membrane filter of nominal pore size of 0.22 µ for aseptic filling whereas 0.45 µ porosity shall be used for terminally sterilized products. 
+ 
+(ii) A second filtration using another 0.22 µ sterilizing grade cartridge/membrane filter shall be performed immediately prior to filling. Process specification shall indicate the maximum time during which a filtration system may be used with a view to precluding microbial build-up to levels that may affect the microbiological quality of the Large Volume Parenterals.

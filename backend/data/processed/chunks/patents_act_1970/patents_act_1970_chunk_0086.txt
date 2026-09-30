@@ -1,0 +1,8 @@
+Document: Patents_Act_1970
+Section: Section 90
+Page: 23
+
+Controller. 
+89. Registration of documents under section 68. - An application for the registration of a document under section 68 shall be made in Form 16. 
+90. Registration of title and interest in patents. - (I) An application referred to in sub­ section (1) or sub-section (2) of section 69 shall be made in Fann 17. 
+(2) An application for an entry in the register of patents of any other docwnent purporting to affect the proprietorship of the patent by the person benefiting under the document shall be made in Form 17.

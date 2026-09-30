@@ -1,0 +1,57 @@
+Document: FSSAI RELEVENT REGULATION
+Page: 404
+
+Version-XXVI (20.12.2022) 
+
+Table 1: Microbiological Requirements 
+Packaged drinking water shall comply with the following requirements: 
+Sr. 
+No. 
+ Characteristic 
+ 
+Permissible Limit 
+(1) 
+(2) 
+(3) 
+1. 
+Coliform bacteria, cfu/250 ml 
+Absent 
+2. 
+Faecal Streptococci, and Staphylococcus aureus, cfu /250 ml 
+Absent 
+3. 
+Sulphite Reducing Anaerobes, cfu/50 ml 
+Absent 
+4. 
+Pseudomonas aeruginosa, cfu/250 ml 
+Absent 
+5. 
+Aerobic Microbial Count at 20-22o C in 72 h, cfu /ml, max 
+100 at 37± 1o C in 24 h, cfu /ml, max 
+20 
+6. 
+Yeast and mould/ 250 ml 
+Absent 
+7. 
+Salmonella and Shigella, cfu/250 ml 
+Absent 
+8. 
+Vibrio cholera, and V. parahaemolyticus cfu/250 ml 
+Absent 
+Table 2: Organoleptic and physical parameters 
+Sr. No. 
+Characteristic 
+Permissible Limit 
+(1) 
+(2) 
+(3) 
+1. 
+Colour, true colour units, Max 
+2 
+2. 
+Odour 
+
+Agreeable as per IS-3025 Part 
+5 for odour. 
+3. 
+Taste

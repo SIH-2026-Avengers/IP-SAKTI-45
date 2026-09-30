@@ -1,0 +1,13 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 8
+Page: 325
+
+8. Manufacturing Operations and Controls- 
+ 
+8.1. All manufacturing operations shall be carried out under the supervision of technical staff approved by the Licensing Authority. Each critical step in the process relating to the selection, weighing and measuring of raw material addition during various stages shall be performed by trained personnel under the direct personal supervision of approved technical staff. 
+ 
+The contents of all vessels and containers used in manufacture and storage during the various manufacturing stages shall be conspicuously labeled with the name of the product, batch no., batch size and stage of manufacture. Each label should be initialed and dated by the authorized technical staff. 
+ 
+Products not prepared under aseptic conditions are required to be free from pathogens like 
+Salmoonella, Escherichia coli, Pyocyanea etc. 
+8.2. Precautions against mix-up and cross-contamination-

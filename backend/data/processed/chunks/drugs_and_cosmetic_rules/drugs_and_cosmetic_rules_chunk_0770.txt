@@ -1,0 +1,48 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 175
+
+(l) Related substances 
+(i) TLC method 
+(A) Without reference standards 
+15 0 
+(B) With reference standards 
+25 0 
+(ii) Gas Liquid Chromatography 
+(A) Without reference standards 
+25 0 
+(B) With reference standards 
+35 0 
+(iii) High Pressure Liquid Chromatography 
+(A) Without reference standards 
+50 0 
+(B) With reference standards 
+50 0 
+(m) Water (Karl Fisher) 
+ 20 0 
+(5) Assays 
+(a) General Chemical methods 100 for each ingredient 
+(b) Non - aqueous/instrumental 200 for each ingredient 
+(c) Chromatography 
+(i) TLC 250 
+(ii) Column 20 0 
+(iii) GLC 35 0 
+(iv) HPLC 50 0 
+(v) Gel filtration 40 0 
+(d) Nitrogen determination 
+ 
+20 0 
+(e) Medicinal gases 
+40 0 (6) 
+Polymorph test 
+ 
+30 0 
+(Content of polymorph A in Chloramphenicol palmitate) 
+Surgical sutures (depeding on number of test to be carried.) 200- 500 
+Other miscellaneous test 100- 500 
+II. Fees for Sera and Vaccine - 
+Sterlity test 10 0 
+Abnormal toxicity test 
+40 0 
+Spceific toxicity test 
+ 80 0 
+Inactivation test (Rabies)

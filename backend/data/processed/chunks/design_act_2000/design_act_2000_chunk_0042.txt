@@ -1,0 +1,8 @@
+Document: DESIGN ACT 2000
+Section: Section 26
+Page: 11
+
+Provisions as to registers and other documents in the patent office 
+25. Notice of trust not to be entered in registers.-There shall not be entered in any register kept under this Act, or be receivable by the Controller, any notice of any trust expressed, implied or constructive. 
+26. Inspection of and extracts from registers.-Every register kept under this Act shall at all convenient times be open to the inspection of the public, subject to the provisions of this Act; and certified copies, sealed with the seal of the patent office, of any entry in any such register shall be given to any person requiring the same on payment of the prescribed fee: 
+Provided that where such register is maintained wholly or partly on computer, the inspection of such register under this section shall be made by inspecting the computer printout of the relevant entry in the register so maintained on computer.

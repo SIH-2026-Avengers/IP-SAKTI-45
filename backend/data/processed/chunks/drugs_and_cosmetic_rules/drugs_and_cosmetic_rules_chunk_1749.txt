@@ -1,0 +1,24 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 18
+Page: 454
+
+8. 
+Control numbers of raw materials used in the formulation. 
+9. 
+Date, time and duration of mixing. 
+10. Details of environmental controls like temperature, humidity, microbial count in the sterile working areas. 
+11. pH of the solution, wherever applicable. 
+12. 
+Date and method of filtration. 
+13. 
+Sterility test, reference on bulk batch wherever applicable. 
+14. 
+Record of check on volume filled. 
+15. Date of filling. 
+16. Records of tests employed:- 
+(a) To ensure that sealed ampoules are leak-proof. 
+(b) To check the presence of foreign particles. 
+(c) Pyrogen test, wherever applicable. 
+(d) Toxicity test, wherever applicable. 
+17. Records of check of instruments and apparatus of sterilisation (Indicators). 
+18. Records of cleaning and sterilisation of containers and closures, if necessary.

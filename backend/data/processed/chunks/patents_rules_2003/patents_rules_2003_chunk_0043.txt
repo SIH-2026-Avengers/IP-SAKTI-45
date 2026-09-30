@@ -1,0 +1,8 @@
+Document: Patents_Rules_2003
+Page: 19
+
+19 the case may be, ante-dating under section 16, be a reference to the date as so post-dated or ante-dated. 
+ 
+(8) A claim in a complete specification of a patent shall not be invalid by reason only of 
+(a) the publication or use of the invention so far as claimed in that claim on or after the priority date of such claim; or 
+(b) the grant of another patent which claims the invention, so far as claimed in the first mentioned claim, in a claim of the same or a later priority date.

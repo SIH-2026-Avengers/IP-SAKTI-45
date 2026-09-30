@@ -1,0 +1,8 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 344
+
+'black', 'gray' and 'white rooms' with different levels of activity and air cleanliness. The 'black' change room shall be provided with a hand washing sink. The sink and its drain in the un- classified (first) change rooms may be kept clean all the time. The specially designed drain shall be periodically monitored to avoid presence of pathogenic micro-organisms. Change room doors shall not be opened simultaneously. An appropriate inter-locking system and a visual and/or audible warning system may be installed to prevent the opening of more than one door at a time. 
+ 
+2.7. For communication between aseptic areas and non-aseptic areas, intercom telephones or speak-phones shall be used. These shall be minimum in number. 
+ 
+2.8. Material transfer between aseptic areas and outside shall be through suitable air-locks or pass-boxes. Doors of such air-locks and pass-boxes shall have suitable interlocking arrangements.

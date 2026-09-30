@@ -1,0 +1,7 @@
+Document: Patents_Act_1970
+Section: Section 133
+Page: 32
+
+132. Form of application for the issue of a duplicate patent. - An application for the issue of a duplicate patent under section 154 shall contain a statement setting out the circumstances in which the patent was lost or destroyed or cannot be produced together with the fee as specified therefor in the First Schedule. 
+133. Supply of certified copies and certificates under sections 72 and 147. - Certified copies of any entry in the register, or certificates of, or extracts from patents, specifications and other public documents in the patent office, or from registers and other records including 
+~ records in computer floppies, diskettes or any other electronic form kept there, may be furnished by the Controller on a request therefor made to him and on payment of the fee specified therefor in the First Schedule.

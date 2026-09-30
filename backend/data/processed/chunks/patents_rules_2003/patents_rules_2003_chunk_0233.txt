@@ -1,0 +1,11 @@
+Document: Patents_Rules_2003
+Section: Section 106
+Page: 86
+
+(4) A suit for a declaration may be brought by virtue of this section at any time after the publication of grant of a patent, and references in this section to the patentee shall be construed accordingly. 
+ 
+106. Power of court to grant relief in cases of groundless threats of infringement proceedings. 
+(1) Where any person (whether entitled to or interested in a patent or an application for a patent or not) threatens any other person by circulars or advertisements or by communications, oral or in writing addressed to that or any other person, with proceedings for infringement of a patent, any person aggrieved thereby may bring a suit against him praying for the following reliefs, that is to say 
+(a) a declaration to the effect that the threats are unjustifiable; 
+(b) an injunction against the continuance of the threats; and 
+(c) such damages, if any, as he has sustained thereby.

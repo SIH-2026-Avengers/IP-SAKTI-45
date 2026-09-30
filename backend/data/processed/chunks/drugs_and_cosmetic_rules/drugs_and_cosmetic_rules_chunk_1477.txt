@@ -1,0 +1,13 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 6
+Page: 369
+
+(f) particle size analysis; 
+ 
+(g) bulk/ tap density; 
+(h) pH determination; 
+(i) moisture content; 
+6. Product containers and closures.- 
+ 
+6.1. All containers and closures shall comply with the pharmacopoeial or any other requirements, suitable sampling methods, sample sizes, specifications, test methods, cleaning procedures and sterilization procedures, when indicated, shall be used to assure that containers, closures and other component parts of drug packages are suitable and are not reactive, additive, adsorptive or leachable to an extent that significantly affects the quality or purity of the drug. 
+6.2. The drug product container shall be re-tested or re-examined as appropriate and approved or rejected and shall be identified and controlled under a quarantine system designed to prevent their use in manufacturing or processing operations for which these are unsuitable.

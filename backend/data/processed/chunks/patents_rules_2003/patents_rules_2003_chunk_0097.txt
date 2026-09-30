@@ -1,0 +1,6 @@
+Document: Patents_Rules_2003
+Section: Section 34
+Page: 37
+
+34. No anticipation if circumstances are only as described in sections 29, 30, 31 and 32. 
+Notwithstanding anything contained in this Act, the Controller shall not refuse to grant a patent, and a patent shall not be revoked or invalidated by reason only of any circumstances which, by virtue of section 29 or section 30 or section 31 or section 32, do not constitute an anticipation of the invention claimed in the specification.

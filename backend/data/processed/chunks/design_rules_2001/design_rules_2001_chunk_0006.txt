@@ -1,0 +1,9 @@
+Document: DESIGN RULES 2001
+Section: Section 5
+Page: 2
+
+Controller shall be under no obligation either to proceed with the application or the opposition, or to send any notice that may be required by the Act or rules framed there under: 
+Provided that such address for service may include e-mail or digital address of the agent/applicant. 
+5. Fees.- (1) 
+The fees to be paid in respect of the registration of designs, and application therefor, and in respect of other matters, with relation to Designs Act and rules framed there under, shall be those as specified in the First Schedule of the rules. 
+(2) (a) Fees may be paid in cash at the office, or the same may be paid by Cheque or Demand Draft on a scheduled bank payable to the Controller at Calcutta and if sent through the post or registered post or speed post or courier service shall be deemed to have been paid at the time when properly addressed and prepaid letter containing the cheque would be delivered in the ordinary course of mail.

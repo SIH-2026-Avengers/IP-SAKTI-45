@@ -1,0 +1,8 @@
+Document: Copyright Rules 2013
+Section: Section 6
+Page: 58
+
+(a) Language into which the work is proposed to be translated; 
+(b) Full name, qualifications and address of the translator; 
+(c) Qualifications of the applicant to produce and publish the translation. 
+6. Indicate the purpose for which the licence is required.

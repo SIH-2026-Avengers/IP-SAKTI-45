@@ -1,0 +1,34 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 346
+
+The Drugs and Cosmetics Act, 1940 and Rules, 1945 
+Sch.M PartIA 
+616 
+ 
+B (a) 
+3500 
+0 
+3,50,000 
+2000 
+ 
+C (a) 
+3,50,000 
+2000 
+35,00,000 
+20,000 
+ 
+D (a) 
+35,00,000 
+20,000 
+Not defined (c) 
+ Not defined (c)] 
+Notes : 
+(a) In order to reach the B, C and D air grades, the number of air changes shall be related to the size of the room and the equipment and personnel present in the room. The air system shall be provided with the appropriate filters such as HEPA for Grades A, B and C. The maximum permitted number of particles in the "at rest" condition shall approximately be as under:. 
+ 
+73 A[Grade A and B corresponds with Class 100 or M 3.5 or Class 5] Grade C with Class 10000 or M 5.5 or ISO Class 7; Grade D with Class 100,000 or M 6.5 or ISO Class 8. 
+ 
+(b) 
+The requirement and limit for the area shall depend on the nature of the operation carried out 
+ 
+(c) 
+Type of operations to be carried out in the various grades are given in Table II and Table III as under:

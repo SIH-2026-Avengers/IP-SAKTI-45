@@ -1,0 +1,6 @@
+Document: DESIGN RULES 2001
+Section: Section 18
+Page: 5
+
+18. Objections.- (1) If on consideration of the report of the examiner on the application referred under sub-section (1) of section 5, any objection appear to the Controller is adverse to the applicant or requires any amendment of the application, a statement of such objections shall be sent to the applicant or his agent in writing, and unless within three months from the date of official communication of objection the applicant or his agent removes the objection or applies for hearing, the applicant shall be deemed to have withdrawn his application: 
+Provided that the period for removal of the objection shall not exceed the time period of six months from the date of filing of the application.

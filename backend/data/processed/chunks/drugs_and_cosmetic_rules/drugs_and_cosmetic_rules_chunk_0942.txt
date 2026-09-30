@@ -1,0 +1,10 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 4
+Page: 223
+
+and the pure growth from the flasks are pooled together, 0.5ml. of the pooled product is mixed with 4.5 ml. of normal saline solution at pH 6.4 in graduated centrifuge tube and centrifuged at 3000 r.p.m. for one hour. The percentage of cell deposit is assessed by reading the amount of cell deposit obtained. 
+The concentrated suspension is then diluted with buffer normal saline solution so that the final product contains 0.7 per cent bacterial cell deposit. 
+4. Standard: 
+(a) Description.-It is an almost white turbid liquid containing live bacteria in suspension. 
+(b) Identification.-It consists of Gram-negative bacilli capable of protecting susceptible animals against Brucellosis. 
+(c) Sterility Test.-Should comply with the test for sterility described in the general monograph on "Bacterial Vaccine".

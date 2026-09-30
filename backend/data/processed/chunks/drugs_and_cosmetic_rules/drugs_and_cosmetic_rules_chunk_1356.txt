@@ -1,0 +1,11 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 21
+Page: 335
+
+21. Batch Processing Records. 
+ 
+21.1. There shall be Batch Processing Record for each product. It shall be based on the relevant parts of the currently approved Master Formula. The method of preparation of such records included in the Master Formula shall be designed to avoid transcription errors; 
+ 
+21.2. Before any processing begins, check shall be performed and recorded to ensure that the equipment and work station are clear of previous products, documents or materials not required for the planned process are removed and that equipment is clean and suitable for use. 
+ 
+21.3. During processing, the following information shall be recorded at the time each action is taken and the record shall be dated and signed by the person responsible for the processing operations:

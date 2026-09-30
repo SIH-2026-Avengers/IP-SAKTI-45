@@ -1,0 +1,12 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 2
+Page: 363
+
+Sch.M Part ID The Drugs and Cosmetics Act, 1940 and Rules, 1945 
+631 
+ residual microbial growth or cross-contamination. 
+1.6. Stainless Steel or any other appropriate material shall be used for parts of equipments coming in direct contact with the products. The use of glass apparatus shall be minimum. 
+1.7. Arrangements for cleaning of containers, closures and droppers shall be made with the help of suitable machines/devices equipped with high pressure air, water and steam jets. 
+1.8. The furniture used shall be smooth, washable and made of stainless steel 73B[or any other appropriate material which is scratch proof, washable and smooth] 
+2. Purified water- 
+2.1. The chemical and microbiological quality of purified water used shall be specified and monitored routinely. The microbiological evaluation shall include testing for absence of pathogens and shall not exceed 100 cfu/ml (as per Appendix 12.5 of IP 1996).

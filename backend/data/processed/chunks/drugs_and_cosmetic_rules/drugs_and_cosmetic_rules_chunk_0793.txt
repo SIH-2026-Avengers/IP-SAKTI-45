@@ -1,0 +1,18 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 184
+
+2.5. 
+Tests for identification of the active ingredient(s), 
+Method of its assays and tests for impurity profile with reference standards for the impurities 
+(Protocol to be submitted alongwith reference standards for the impurities/ relative substances) 
+2.6. 
+Outline method and flow chart of manufacture of the bulk drug or finished formulation or special product. 
+2.7. 
+Detailed test protocol for the drug with pharmacopeal reference or in house specification as approved by the registration authority, in the country of origin. 
+2.8. 
+Stability data including accelerated stability and real time stability analysis. 
+2.9. 
+Documentation on pack size. 
+2.10. Numerical expression on EAN bar code on the labels and cartons. 
+2.11. Safety documents on containers and closer 
+2.12. Documentation on storage conditions.

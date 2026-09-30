@@ -1,0 +1,15 @@
+Document: DESIGN RULES 2001
+Page: 24
+
+17-01 
+KEYBOARD INSTRUMENTS 
+Note: 
+Including electronic and other organs, accordions, and mechanical and other pianos. 
+17-02 
+WIND INSTRUMENTS 
+Note: 
+Not including organs, harmoniums and accordions, and mechanical and other pianos. 
+17-03 
+STRINGED INSTRUMENTS 
+17-04 
+PERCUSSION INSTRUMENTS

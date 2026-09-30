@@ -1,0 +1,9 @@
+Document: Patents_Rules_2003
+Section: Section 66
+Page: 58
+
+(2) In any proceedings under sub-section (1), the Controller may allow the patentee to amend the complete specification in such manner as he considers necessary instead of revoking the patent. 
+ 
+66. Revocation of patent in public interest. 
+Where the Central Government is of opinion that a patent or the mode in which it is exercised is mischievous to the State or generally prejudicial to the public, it may, after giving the patentee an opportunity to be heard, make a declaration to that effect in the 
+Official Gazette and thereupon the patent shall be deemed to be revoked.

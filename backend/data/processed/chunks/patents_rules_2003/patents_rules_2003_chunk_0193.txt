@@ -1,0 +1,7 @@
+Document: Patents_Rules_2003
+Section: Section 87
+Page: 72
+
+87. Procedure for dealing with applications under sections 84 and 
+85. 
+(1) Where the Controller is satisfied, upon consideration of an application under section 84, or section 85, that a prima facie case has been made out for the making of an order, he shall direct the applicant to serve copies of the application upon the patentee and any other person appearing from the register to be interested in the patent in respect of which the application is made, and shall publish the application in the official journal.

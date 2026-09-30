@@ -1,0 +1,5 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 484
+
+1.1.1 Single-dose Toxicity Studies: These studies (see Appendix I item 4.2) should be carried 
+ or MTD (whichever is less), and dose escalation in suitable steps should be done every third day after drawing the samples for laboratory parameters. Dose should be lowered appropriately when clinical or laboratory evidence of toxicity are observed. Administration of test substance should then continue for 10 days at the well-tolerated dose level following which, samples for laboratory parameters should be taken. Sacrifice, autopsy and microscopic examination of affected tissues should be performed as in the case of rodents.

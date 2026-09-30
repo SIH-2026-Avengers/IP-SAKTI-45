@@ -1,0 +1,18 @@
+Document: FSSAI RELEVENT REGULATION
+Page: 789
+
+Version-XXVI (20.12.2022) 
+Interpretation of Results: 
+ 
+2-Class Sampling Plan (where n, c and m are specified) 
+3-Class Sampling Plan (where n, c, m and M are specified) 
+2. 
+Satisfactory, if all the values observed are ≤ m 
+3. 
+Unsatisfactory, if one or more of the values observed are >m or more than c values are > m 
+2. 
+Satisfactory, if all the values observed are ≤ m 
+3. 
+Acceptable, if a maximum of c values are between m and M and the rest of the values are observed as ≤ m 
+4. 
+Unsatisfactory, if one or more of the values observed are >M or more than c values are > m

@@ -1,0 +1,9 @@
+Document: Biodiversity_Act_2002
+Section: Section 55
+Page: 15
+
+54. No suit, prosecution or other legal proceedings shall lie against the Central Government or the State Government or any officer of the Central Government or the State Government or any member, officer or employee of the National Biodiversity 
+Authority or the State Biodiversity Board for anything which is in good faith done or intended to be done under this Act or the rules or regulations made there under: 
+ 
+55. (1) Whoever contravenes or attempts to contravene or abets the contravention of the provisions of section 3 or section 
+4 or section 6 shall be punishable with imprisonment for a term which may extend to five years, or with fine which may extend to ten lakh rupees and where the damage caused exceeds ten lakh rupees such fine may commensurate with the damage caused, or with both.

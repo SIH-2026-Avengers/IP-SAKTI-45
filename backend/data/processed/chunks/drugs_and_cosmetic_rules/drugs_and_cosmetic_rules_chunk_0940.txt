@@ -1,0 +1,8 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 5
+Page: 222
+
+(c) Sterility Test.-Should comply with the test for sterility described in the general monograph on "Bacterial Vaccines". 
+(d) Safety and Potency Tests.-At least six adult healthy guinea-pigs each weighing 300g to 450 g. to are injected subcutaneously each with 3ml. of the product followed a week later by a second injection with the same dose. They should not show any systemic reaction but may show only a minimum of local reaction. Fourteen days after the second injection six of the vaccinated guinea-pigs are challenged intramuscularly with 25 viable spores of Cl. Chauvoei equivalent to 5. c.h.d. along with 0.2ml of a 5 per cent solution of calcium chloride. Two controls are used. The controls should die of the specific injection and at least 4 of the six vaccinated animals should survive before the product is passed for issue. 
+5. Labelling and Storage.-Should comply with the requirements of "Labelling" and 
+"Storage" as laid down in the general monograph on "Bacterial vaccines".

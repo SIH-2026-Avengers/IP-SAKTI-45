@@ -1,0 +1,16 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 499
+
+and pharmacodynamics. 
+ 
+1.5 Timing Of Safety Pharmacology Studies In Relation To Clinical Development 
+ 
+1.5.1 Prior To First Administration In Humans 
+ 
+The effects of an investigational drug on the vital functions listed in the essential safety pharmacology should be studied prior to first administration in humans. Any follow-up or supplemental studies identified, should be conducted if necessary, based on a cause for concern. 
+1.5.2 During Clinical Development 
+ 
+Additional investigations may be warranted to clarify observed or suspected adverse effects in animals and humans during clinical development 
+1.5.3 Before applying for marketing Approval 
+ 
+Follow-up and supplemental safety pharmacology studies should be assessed prior to approval unless not required, in which case this should be justified. Available information from toxicology studies addressing safety pharmacology endpoints or information from clinical studies can replace such studies.

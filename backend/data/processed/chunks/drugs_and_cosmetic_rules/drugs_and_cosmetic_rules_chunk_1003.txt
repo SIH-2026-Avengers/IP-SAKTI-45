@@ -1,0 +1,7 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 4
+Page: 235
+
+(d) Sterility Test.-Complies with the tests for sterility described under the general monograph on 'Viral Vaccine'. 
+(e) Potency test.-The contents of an ampoule are dispersed in water for injection to give a 5 per cent suspension and not fewer than twenty guinea-pigs, drawn from a uniform stock and each weighing 350 g. to 500 g. are each injected intramuscularly with 0.25 ml. of this suspension. Three weeks later, these guinea-pigs and an equal number of similar unvaccinated control guinea-pigs are each inoculated with 0.1 ml. of a suitable dilution of canine salivary gland suspension of street virus which is maintained as a 20 per cent suspension at 700C or lower. The guinea-pigs are observed for thirty days; not less than 80 per cent of the control guinea-pigs die of rabies and not less than 70 per cent of the vaccinated guinea-pigs are protected. 
+4. Storage.-Freeze-dried vaccine should be stored at refrigeration temperatures of 20C to 40C.

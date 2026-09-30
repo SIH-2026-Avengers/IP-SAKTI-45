@@ -1,0 +1,10 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 3
+Page: 345
+
+3. Air Handling System (Central Air-Conditioning).- 
+ 
+3.1. Air Handling Units for sterile product manufacturing areas shall be different from those for other areas. Critical areas, such as the aseptic filling area, sterilized components unloading area and change rooms conforming to Grades B, C and D respectively shall have separate Air 
+Handling Units. The filter configuration in the air handling system shall be suitably designed to achieve the Grade of air given in Table I. Typical operational activities for clean areas are highlighted in Table II and Table III. 
+ 
+3.2. For products which are filled aseptically, the filling room shall meet Grade B conditions at rest unmanned. This condition shall also be obtained within a period of about 30 minutes of the personnel leaving the room after completion of operations.

@@ -1,0 +1,8 @@
+Document: Patents_Act_1970
+Section: Section 78
+Page: 20
+
+(2) A copy of the application and of the statement shall be seot by the Controller to every other person registered as grantee or proprietor of the patent. 
+77, Manner of application under section St (2). - (1) An application for directions under sub-section (2) of section 51 shall be made in Form II and shall be accompanied by a statement setting out the facts upon which the applicant relies. 
+(2) A copy of the application and statemeot shall be sent by the Controller to the person in default. 
+78. Procedure for the hearing of proceedings under section 51. - The procedure specified in rules 55 and 57 to 63 relating to the filing of notice of opposition. written statement, reply statement, leaving evidence, hearing and costs shall, so far as may be, apply to the hearing of an application under section 51 as they apply to the hearing of an opposition to the grant of patents.

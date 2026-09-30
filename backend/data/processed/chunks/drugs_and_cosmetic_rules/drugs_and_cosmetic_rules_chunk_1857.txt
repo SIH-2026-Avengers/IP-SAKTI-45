@@ -1,0 +1,5 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 482
+
+1.1.1 Single-dose Toxicity Studies: These studies (see Appendix I item 4.2) should be carried 
+ out in 2 rodent species (mice and rats) using the same route as intended for humans. In addition, unless the intended route of administration in humans is only intravenous, at least one more route should be used in one of the species to ensure systemic absorption of the drug. This route should depend on the nature of the drug. A limit of 2g/kg (or 10 times the normal dose that is intended in humans, whichever is higher) is recommended for oral dosing.

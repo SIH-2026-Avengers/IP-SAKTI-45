@@ -1,0 +1,8 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 489
+
+Increase in H-thymidine or BrdU incorporation should be used as the criterion for evaluation of results. 
+1.6 Genotoxicity 
+ 
+Genotoxic compounds, in the absence of other data, shall be presumed to be trans- species carcinogens, implying a hazard to humans. Such compounds need not be subjected to long-term carcinogenicity studies. However, if such a drug is intended to be administered for chronic illnesses or otherwise over a long period of time - a chronic toxicity study (up to one year) may be necessary to detect early tumorigenic effects. 
+Genotoxicity tests are in vitro and in vivo tests conducted to detect compounds which induce genetic damage directly or indirectly. These tests should enable a hazard identification with respect to damage to DNA and its fixation.

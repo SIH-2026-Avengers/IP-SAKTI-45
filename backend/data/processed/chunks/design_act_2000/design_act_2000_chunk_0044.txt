@@ -1,0 +1,5 @@
+Document: DESIGN ACT 2000
+Section: Section 30
+Page: 11
+
+30. Entry of assignment and transmissions in registers.-(1) Where a person becomes entitled by assignments, transmission or other operation of law to the copyright in a registered design, he may make application in the prescribed form to the Controller to register his title, and the Controller shall, on receipt of such application and on proof of title to his satisfaction, register him as the proprietor of such design, and shall cause an entry to be made in the prescribed manner in the register of the assignment, transmission or other instrument affecting the title.

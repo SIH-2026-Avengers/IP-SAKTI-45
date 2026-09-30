@@ -1,0 +1,7 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 243
+
+(i) PD method.-The vaccine shall be tested by the determination of PD in susceptible cattle by challenging animals vaccinated with appropriate dilution of the vaccine made in adjuvanted or non-adjuvanted diluent as appropriate.A minimum of 5 animals should be used per dilution and 2 unvaccinated animals to be included as controls to the challenge. All animals are needle challenged with 
+10,000 ID50of the homologous strain of virus by inoculation on the tongue on the 
+21st day of post- vaccination.The control animals are to be similarly challenged. 
+Animals are observed for 10 days for the development of lesions. Unprotected animals shows generalised lesions due to FMD. Control animals must show generalised lesions, from the number of animals protected in each group the content of the vaccine is calculated. The vaccine passes the test if an observed value of 3 or greater is obtained in the test.

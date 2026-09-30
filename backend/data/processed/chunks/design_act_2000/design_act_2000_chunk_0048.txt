@@ -1,0 +1,8 @@
+Document: DESIGN ACT 2000
+Section: Section 31
+Page: 12
+
+31. Rectification of register.-(1) The Controller may, on the application in the prescribed manner of any person aggrieved by the non-insertion in or omission from the register of designs of any entry, or by any entry made in such register without sufficient cause, or by any entry wrongly remaining on such register, or by an error or defect in any entry in such register, make such order for making, expunging or varying such entry as he thinks fit and rectify the register accordingly. 
+ (2) The Controller may, in any proceeding under this section, decide any question that may be necessary or expedient to decide in connection with the rectification of a register. 
+(3) An appeal shall lie to the High Court from any order of the Controller under this section and the 
+Controller may refer any application under this section to the High Court for decision, and the High Court shall dispose of any application so referred.

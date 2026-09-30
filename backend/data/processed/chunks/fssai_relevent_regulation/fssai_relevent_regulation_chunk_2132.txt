@@ -1,0 +1,67 @@
+Document: FSSAI RELEVENT REGULATION
+Page: 812
+
+Version-XXVI (20.12.2022) 
+1. 
+Glucose oxidase 
+(EC No. 1.1.3.4) 
+Aspergillusniger 
+GMP 
+ 
+Aspergillusoryzae 
+2. 
+Catalase 
+(EC No. 1.11.1.6) 
+Aspergillusniger 
+GMP 
+3. 
+Glycero-phospholipid cholesterol acyltransferase 
+(EC No. 2.3.1.43) 
+Bacillus licheniformis 
+GMP 
+4. 
+Transglutaminase 
+(EC No. 2.3.2.13) 
+Streptomyces mobaraensis 
+GMP 
+5. 
+Lipase triacylglycerol 
+(EC No. 3.1.1.3) 
+Rhizopusoryzae 
+GMP 
+ 
+Fusariumoxysporum 
+Thermomyceslanuginosus 
+Rhizopusniveus 
+Carica papaya 
+Rhizomucormiehei 
+Aspergillusniger 
+Candida rugosa(cylindracea) 
+Pregastric bovine (calf) tissue 
+Pregastric ovine (lamb) tissue 
+Penicilliumroquefortii 
+Porcine pancreas 
+Mucorjavanicus 
+(Mucorcircinelloides f. circinelloides) 
+Rice bran 
+6. 
+Phospholipase A2 
+(EC No. 3.1.1.4) 
+Streptomyces violaceoruber 
+GMP 
+7. 
+Lysophospholipase 
+(EC No. 3.1.1.5) 
+Aspergillusniger 
+GMP 
+8. 
+Pectin esterase 
+(EC No. 3.1.1.11) 
+Aspergillusniger 
+GMP 
+ 
+9. 
+Acylglycerol lipase 
+(EC No. 3.1.1.23) 
+Penicilliumcamembertii 
+GMP

@@ -1,0 +1,13 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 14
+Page: 480
+
+12. Efficacy evaluation 
+The results of evaluation of all the efficacy variables will be described in this section with appropriate tabular and graphical representation. A brief description of the demographic characteristics of the trial patients should also be provided along with a listing of patients and observations excluded from efficacy analysis. 
+13. Safety Evaluation: 
+This section should include the complete list 
+13.1 all serious adverse events, whether expected or unexpected and 
+13.2 unexpected advese events whether serious or not (compiled from data received as per Appendix XI). 
+The comparison of adverse events across study groups may be presented in a tabular or graphical form. This section should also give a brief narrative of all important events considered related to the investigational product. 
+14. Discussion and overall Conclusion: 
+Discussion of the important conclusions derived from the trial and scope for further

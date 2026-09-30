@@ -1,0 +1,23 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 345
+
+Laminar Air Flow work stations, the air flow rates shall be 0.3 meter per second +/- 20% (for vertical flows) and 0.45 meter per second +/- 20% (for horizontal flows). 
+ 
+3.8. Differential pressures between areas of different environmental standards shall be atleast 
+15 Pascal (0.06 inches or 1.5 mm water gauge). Suitable manometers or gauges shall be installed to measure and verify pressure differential. 
+ 
+3.9. The final change rooms shall have the same class of air as specified for the aseptic area. The pressure differentials in the change rooms shall be in the descending order from 'white' to 
+'black'. 
+ 
+3.10. Unless there are product specific requirements, temperature and humidity in the aseptic areas shall be 27 ± 2o C and relative humidity 55% ± 5, respectively. 
+TABLE I 
+Air Borne Particulate Classification For Manufacture Of Sterile Products 
+ 
+Grade 
+Maximum number of permitted particles per cubic metre equal to or above 
+ 
+At rest (b) 
+In Operation (a) 
+ 
+©0.5µm 
+5µm

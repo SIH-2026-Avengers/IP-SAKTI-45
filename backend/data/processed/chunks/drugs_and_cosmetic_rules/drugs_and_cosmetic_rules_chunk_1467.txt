@@ -1,0 +1,10 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 1
+Page: 367
+
+Drugs). In addition to these requirements, the following Specific Requirements shall also be followed, namely:- 
+1. Buildings and civil works- 
+ 
+1.1. Apart from the building requirements contained in Part I, General ante,the active pharmaceutical ingredients facilities for manufacture of hazardous reactions, Beta-Lactum antibiotics, Steroids and Steroidal Hormones/Cytotoxic substance shall be provided in confined areas to prevent contamination of the other drugs manufactured. 
+1.2. The final stage of preparation of a drug, like isolation / filtration / drying / milling / sieving and packing operations shall be provided with air filtration systems including pre-filters and finally with a 5 micron filter. Air handling systems with adequate number of air changes per hour or any other suitable system to control the air borne contamination shall be provided. Humidity 
+/ Temperature shall also be controlled for all the operations wherever required.

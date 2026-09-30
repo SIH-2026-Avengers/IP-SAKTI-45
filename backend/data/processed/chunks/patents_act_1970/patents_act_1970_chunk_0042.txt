@@ -1,0 +1,6 @@
+Document: Patents_Act_1970
+Section: Section 29
+Page: 12
+
+29. Procedure in case of anticipation by prior claiming. - (I) When it is found that the invention so far as claimed in any claim ofthe complete specification, is claimed in any claim of any other specification falling within clause (b) of sub-section (1) of section 13, the applicant shall be so informed and shall be afforded an opportunity to amend his specification. 
+(2) If the applicant's specification is otherwise in order for acceptance and an objection under clause (b) of sub-section (I) of section 13 is outstanding, the Controller may accept the specification and allow a period of two months from the date of its acceptance for removing the objection.

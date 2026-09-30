@@ -1,0 +1,8 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 354
+
+10.6.3. The sterilizer shall be double ended to prevent mix-ups. 
+ 
+10.6.4. Periodic bio-burden monitoring of products before terminal sterilization shall be carried out and controlled to limits specified for the products in the Master Formula. 
+10.6.5. The use of biological indicators shall be considered as an additional method for monitoring the sterilization. These shall be stored and used according to the manufacture's instructions. 
+Their quality shall be checked buy positive controls. If biological indicators are used, strict precautions shall be taken to avoid transferring microbial contamination from them.

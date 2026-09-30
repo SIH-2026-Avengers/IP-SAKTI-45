@@ -1,0 +1,7 @@
+Document: DRUGS AND COSMETIC RULES
+Section: Section 5
+Page: 243
+
+The estimation of serum neutralizing antibody titre in cattle may be considered as a supportive test to evaluate potency of vaccine. 
+However, potency testing of vaccines in cattle, of batches whenever by other accepted methods of testing is in doubt, at least one out of every five batches, be undertaken. 
+5. Labelling.-It is labelled as described under the requirements of 'Labelling' as laid down in the general monograph, with the additional requirements that the label on the container states the virus types used in the preparation.

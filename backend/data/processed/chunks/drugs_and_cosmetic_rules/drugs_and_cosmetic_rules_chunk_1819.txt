@@ -1,0 +1,5 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 471
+
+(b) Ph ar macokin etics, i.e., character ization of a drug's absor ption , distr ibution, metabolism and excretion. Although these studies continue throughout the development plan, they should be performed to support formulation development and determine pharmacokinetic parameters in different age groups to support dosing recommendations. 
+(c) Pharmacodynamics: Depending on the drug and the endpoints studied, pharmacodynamic studies and studies relating to drug blood levels (pharmacokinetic/ pharmacodynamic studies) may be conducted in healthy volunteer Subjects or in patients with the target disease. If there are appropriate validated indicators of activity and potential efficacy, pharmacodynamic data obtained from patients may guide the dosage and dose regimen to be applied in later studies.

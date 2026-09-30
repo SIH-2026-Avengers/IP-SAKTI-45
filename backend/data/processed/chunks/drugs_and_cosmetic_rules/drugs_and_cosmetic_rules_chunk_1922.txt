@@ -1,0 +1,6 @@
+Document: DRUGS AND COSMETIC RULES
+Page: 498
+
+1.4 Conditions Under Which Safety Pharmacology Studies Are Not Necessary 
+ 
+Safety pharmacology studies are usually not required for locally applied agents e.g. dermal or ocular, in cases when the pharmacology of the investigational drug is well known, and/or when systemic absorption from the site of application is low. Safety pharmacology testing is also not necessary, in the case of a new derivative having similar pharmacokinetics

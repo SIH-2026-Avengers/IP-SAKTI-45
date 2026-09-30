@@ -1,0 +1,8 @@
+Document: Patents_Act_1970
+Section: Section 96
+Page: 24
+
+(2) When register of patents or any part thereof is in computer floppies. diskettes or any other electronic form the person authorised by the Controller under sub-rule (3) of rule 88 shall provide access to the computer floppies, diskettes or other electronic form or printouts of the records thereof. 
+CHAPTER XIII 
+COMPULSORY LICENCE AND REVOCATION OF PATENT 
+96. Application for compulsory licence etc. - An application to the Controller for an order under section 84, section 85, section 91 Qr section 92 shall be in Form 18, or in Form 20, as the case may be. Except in the c~e of an application made by the Central Government, the application shall set out the nature of the applicant's interest and terms and conditions of the licence the applicant is willing to accept.
