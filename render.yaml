@@ -20,14 +20,14 @@ services:
         value: openai/gpt-oss-120b
       - key: GEMINI_API_KEY
         sync: false
+      - key: GEMINI_MODEL
+        value: gemini-2.5-flash
 
   # ============================================================
   # 2. IP-SAKTI Sahayak - React + Vite Frontend Static Site
   # ============================================================
-  - type: web
+  - type: static
     name: ip-sakti-frontend
-    runtime: static
-    plan: free
     buildCommand: "npm install && npm run build"
     staticPublishPath: dist
     autoDeploy: true
