@@ -127,19 +127,37 @@ class RAGQueryResponse(BaseModel):
 
 
 # ============================================================
-# LIFESPAN & APPLICATION SETUP
+# ============================================================
+# LIFESPAN & APPLICATION SETUP (INSTANT PORT BINDING FOR RENDER)
 # ============================================================
 
-service_container: Dict[str, Any] = {}
+import threading
+import time
+
+service_container: Dict[str, Any] = {
+    "is_ready": False,
+    "ready_event": threading.Event()
+}
+
+
+def _load_core_services():
+    try:
+        print("\n[STARTUP] Loading IP-SAKTI Models, ChromaDB & Gemini in background...")
+        service_container["ip_sakti"] = IPSaktiService()
+        service_container["insight"] = GeminiInsightService()
+        service_container["is_ready"] = True
+        service_container["ready_event"].set()
+        print("[STARTUP] Core Services Successfully Loaded & Ready for Queries!\n")
+    except Exception as e:
+        print(f"[STARTUP ERROR] Service initialization failed: {e}")
+        service_container["init_error"] = str(e)
+        service_container["ready_event"].set()
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    print("\n[STARTUP] Initializing IP-SAKTI Backend Core Services...")
-    # Initialize Core Service (Loads Classifier, Chroma, Embeddings, Reranker, Groq)
-    service_container["ip_sakti"] = IPSaktiService()
-    service_container["insight"] = GeminiInsightService()
-    print("[STARTUP] Core Services Successfully Loaded!\n")
+    # Start loading heavy models in background so port binds immediately on Render (<0.5s)
+    threading.Thread(target=_load_core_services, daemon=True).start()
     yield
     print("\n[SHUTDOWN] Cleaning up resources...")
     service_container.clear()
@@ -152,23 +170,25 @@ app = FastAPI(
     lifespan=lifespan
 )
 
-# CORS configuration
-frontend_origin = os.getenv("FRONTEND_ORIGIN", "http://localhost:5173")
-allowed_origins = [
-    frontend_origin,
-    "http://localhost:5173",
-    "http://127.0.0.1:5173",
-    "http://localhost:3000",
-    "http://127.0.0.1:3000"
-]
-
+# Universal CORS configuration for Localhost + Render Deployments
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=allowed_origins,
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+
+def _wait_for_services(timeout_seconds: float = 20.0):
+    if not service_container.get("is_ready"):
+        service_container["ready_event"].wait(timeout=timeout_seconds)
+    if not service_container.get("is_ready"):
+        error = service_container.get("init_error", "Services still initializing. Please retry in a few seconds.")
+        raise HTTPException(
+            status_code=status.HTTP_503_SERVICE_UNAVAILABLE,
+            detail=error
+        )
 
 
 # ============================================================
@@ -209,6 +229,7 @@ def get_categories():
 
 @app.post("/api/classify", response_model=ClassificationResponse)
 def classify_product(request: ClassificationRequest):
+    _wait_for_services()
     service: IPSaktiService = service_container.get("ip_sakti")
     if not service:
         raise HTTPException(
@@ -257,6 +278,7 @@ def classify_product(request: ClassificationRequest):
 
 @app.post("/api/assessment/insight", response_model=AssessmentInsightResponse)
 def get_assessment_insight(request: AssessmentInsightRequest):
+    _wait_for_services()
     insight_service: GeminiInsightService = service_container.get("insight")
     if not insight_service:
         raise HTTPException(
@@ -284,6 +306,7 @@ def get_assessment_insight(request: AssessmentInsightRequest):
 
 @app.post("/api/rag/query", response_model=RAGQueryResponse)
 def query_rag(request: RAGQueryRequest):
+    _wait_for_services()
     service: IPSaktiService = service_container.get("ip_sakti")
     if not service:
         raise HTTPException(
