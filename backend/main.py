@@ -141,7 +141,7 @@ service_container: Dict[str, Any] = {
 
 def _load_core_services():
     try:
-        print("\n[STARTUP] Loading IP-SAKTI Models, ChromaDB & Gemini in background...")
+        print("\n[STARTUP] Loading IP-SAKTI Models & Gemini Insights in background...")
         from services.ip_sakti_service import IPSaktiService
         from services.gemini_service import GeminiInsightService
 
@@ -149,7 +149,16 @@ def _load_core_services():
         service_container["insight"] = GeminiInsightService()
         service_container["is_ready"] = True
         service_container["ready_event"].set()
-        print("[STARTUP] Core Services Successfully Loaded & Ready for Queries!\n")
+        print("[STARTUP] Core Classification & Insights Ready!")
+
+        # Asynchronously pre-warm RAG pipeline in background so first query has 0 delay
+        try:
+            print("[STARTUP] Pre-warming Statutory RAG & ChromaDB...")
+            _ = service_container["ip_sakti"].rag
+            print("[STARTUP] Statutory RAG Pipeline Pre-warmed & Ready for Instant Queries!\n")
+        except Exception as rag_err:
+            print(f"[STARTUP WARNING] RAG background pre-warm error (will retry on demand): {rag_err}")
+
     except Exception as e:
         print(f"[STARTUP ERROR] Service initialization failed: {e}")
         service_container["init_error"] = str(e)

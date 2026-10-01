@@ -14,34 +14,50 @@ logger = logging.getLogger("RAGGenerator")
 class RAGGenerator:
 
     def __init__(self):
-        self.gemini_key = os.getenv("GEMINI_API_KEY")
         self.groq_key = os.getenv("GROQ_API_KEY")
-        self.gemini_client = None
+        self.gemini_key = os.getenv("GEMINI_API_KEY")
         self.groq_client = None
+        self.gemini_client = None
+        self.groq_model = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
 
-        # 1. Initialize Gemini if key exists
+        # 1. Primary Engine: Initialize Groq
+        if self.groq_key and self.groq_key.strip() and not self.groq_key.startswith("gsk_placeholder") and not self.groq_key.startswith("your_"):
+            try:
+                from groq import Groq
+                self.groq_client = Groq(api_key=self.groq_key.strip())
+
+                configured_model = os.getenv("GROQ_MODEL")
+                if configured_model and configured_model.strip():
+                    self.groq_model = configured_model.strip()
+                else:
+                    try:
+                        available = [m.id for m in self.groq_client.models.list().data]
+                        for pref in ["openai/gpt-oss-120b", "llama-3.3-70b-versatile", "llama-3.1-8b-instant", "qwen/qwen3.8-27b"]:
+                            if pref in available:
+                                self.groq_model = pref
+                                break
+                        else:
+                            self.groq_model = available[0] if available else "openai/gpt-oss-120b"
+                    except Exception:
+                        self.groq_model = "openai/gpt-oss-120b"
+
+                print(f"[RAGGenerator] Initialized Groq ({self.groq_model}) as Primary RAG Generator.")
+            except Exception as e:
+                print(f"[RAGGenerator] Could not initialize Groq: {e}")
+
+        # 2. Secondary Engine: Initialize Gemini
         if self.gemini_key and self.gemini_key.strip() and not self.gemini_key.startswith("your_"):
             try:
                 import google.generativeai as genai
                 genai.configure(api_key=self.gemini_key.strip())
                 gemini_model = os.getenv("GEMINI_MODEL", "gemini-1.5-flash")
                 self.gemini_client = genai.GenerativeModel(gemini_model)
-                print(f"[RAGGenerator] Initialized Google Gemini ({gemini_model}) for RAG Generation.")
+                print(f"[RAGGenerator] Initialized Google Gemini ({gemini_model}) for fallback RAG Generation.")
             except Exception as e:
                 print(f"[RAGGenerator] Could not initialize Gemini: {e}")
 
-        # 2. Initialize Groq if key exists
-        if self.groq_key and self.groq_key.strip() and not self.groq_key.startswith("gsk_placeholder") and not self.groq_key.startswith("your_"):
-            try:
-                from groq import Groq
-                self.groq_model = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
-                self.groq_client = Groq(api_key=self.groq_key.strip())
-                print(f"[RAGGenerator] Initialized Groq ({self.groq_model}) for RAG Generation.")
-            except Exception as e:
-                print(f"[RAGGenerator] Could not initialize Groq: {e}")
-
-        if not self.gemini_client and not self.groq_client:
-            print("[RAGGenerator] Notice: Neither GEMINI_API_KEY nor GROQ_API_KEY is configured. Fallback statutory synthesis will be used.")
+        if not self.groq_client and not self.gemini_client:
+            print("[RAGGenerator] Notice: Neither GROQ_API_KEY nor GEMINI_API_KEY is configured. Fallback statutory synthesis will be used.")
 
     def generate(
         self,
@@ -53,8 +69,8 @@ class RAGGenerator:
 You must answer accurately and clearly based on the provided statutory context.
 Rules:
 1. Do not invent laws, sections, rules, dates, or authorities.
-2. If the context is empty or lacks specific clauses, explicitly state the statutory guidance based on general Indian IP framework.
-3. Clearly cite the source documents (e.g. [Source 1, Page X] or Act title).
+2. If the context is empty or lacks specific clauses, explicitly state the statutory guidance based on the general Indian IP & AYUSH legal framework.
+3. Clearly cite the source documents (e.g. [Source 1, Page X] or official Act titles).
 4. Provide structured, practical guidance with clear headings and bullet points.
 5. Include a brief professional disclaimer reminding the user that this guidance is informational."""
 
@@ -66,19 +82,7 @@ RETRIEVED STATUTORY CONTEXT:
 
 Please provide a detailed, structured, and cited answer based on the Indian statutory context provided."""
 
-        # Priority 1: Use Gemini if available
-        if self.gemini_client:
-            try:
-                response = self.gemini_client.generate_content(
-                    f"{system_prompt}\n\n{user_prompt}",
-                    generation_config={"temperature": 0.2}
-                )
-                if response and response.text:
-                    return response.text.strip()
-            except Exception as e:
-                print(f"[RAGGenerator] Gemini generation failed: {e}. Attempting fallback...")
-
-        # Priority 2: Use Groq if available
+        # Priority 1: Groq LLM (Ultra-fast LPU inference)
         if self.groq_client:
             try:
                 response = self.groq_client.chat.completions.create(
@@ -88,18 +92,30 @@ Please provide a detailed, structured, and cited answer based on the Indian stat
                         {"role": "user", "content": user_prompt}
                     ],
                     temperature=0.2,
-                    max_tokens=1200
+                    max_tokens=1500
                 )
-                if response and response.choices:
+                if response and response.choices and response.choices[0].message.content:
                     return response.choices[0].message.content.strip()
             except Exception as e:
-                print(f"[RAGGenerator] Groq generation failed: {e}. Attempting fallback...")
+                print(f"[RAGGenerator] Groq ({self.groq_model}) generation failed: {e}. Attempting fallback...")
 
-        # Priority 3: High-Quality Structured Synthesis Fallback
+        # Priority 2: Gemini LLM
+        if self.gemini_client:
+            try:
+                response = self.gemini_client.generate_content(
+                    f"{system_prompt}\n\n{user_prompt}",
+                    generation_config={"temperature": 0.2}
+                )
+                if response and response.text:
+                    return response.text.strip()
+            except Exception as e:
+                print(f"[RAGGenerator] Gemini generation failed: {e}. Attempting synthesis fallback...")
+
+        # Priority 3: Structured Statutory Synthesis Fallback
         return self._generate_context_synthesis(question, context)
 
     def _generate_context_synthesis(self, question: str, context: str) -> str:
-        """Structured synthesis when LLM API keys are not reachable."""
+        """Structured synthesis when external LLM APIs encounter network timeouts."""
         if not context or not context.strip():
             return (
                 f"### Statutory Guidance: {question}\n\n"

@@ -41,8 +41,8 @@ class IPSaktiService:
             question=question,
             jurisdiction=jurisdiction,
             category=category,
-            retrieval_k=30,
-            final_k=6
+            retrieval_k=10,
+            final_k=4
         )
 
     # =====================================================
