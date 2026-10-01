@@ -1,15 +1,12 @@
-# IP-SAKTI Sahayak - Backend Python Dependencies
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
 fastapi>=0.115.0
 uvicorn[standard]>=0.32.0
 pydantic>=2.0.0
 python-dotenv>=1.0.0
-
-# Machine Learning Classifier
 joblib>=1.4.0
 scikit-learn==1.6.1
 pandas>=2.0.0
-
-# Vector Database & Embeddings
 chromadb>=0.5.0
 sentence-transformers>=3.0.0
 langchain>=0.3.0
@@ -18,8 +15,6 @@ langchain-community>=0.3.0
 langchain-chroma>=0.1.4
 langchain-huggingface>=0.1.0
 langchain-text-splitters>=0.3.0
-
-# RAG LLM Generation & Document Ingestion
 groq>=0.11.0
 pymupdf>=1.24.0
 google-generativeai>=0.8.0

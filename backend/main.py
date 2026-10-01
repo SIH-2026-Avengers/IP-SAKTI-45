@@ -12,13 +12,12 @@ from pydantic import BaseModel, Field
 # Ensure project root is in sys.path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from services.ip_sakti_service import IPSaktiService
 from services.domain_analyzer import determine_relevant_domains
-from services.gemini_service import GeminiInsightService
 
 # Load .env from backend or root directory
 load_dotenv(Path(__file__).resolve().parent / ".env")
 load_dotenv(Path(__file__).resolve().parent.parent / ".env")
+
 
 
 # ============================================================
@@ -143,6 +142,9 @@ service_container: Dict[str, Any] = {
 def _load_core_services():
     try:
         print("\n[STARTUP] Loading IP-SAKTI Models, ChromaDB & Gemini in background...")
+        from services.ip_sakti_service import IPSaktiService
+        from services.gemini_service import GeminiInsightService
+
         service_container["ip_sakti"] = IPSaktiService()
         service_container["insight"] = GeminiInsightService()
         service_container["is_ready"] = True
@@ -152,6 +154,7 @@ def _load_core_services():
         print(f"[STARTUP ERROR] Service initialization failed: {e}")
         service_container["init_error"] = str(e)
         service_container["ready_event"].set()
+
 
 
 @asynccontextmanager
