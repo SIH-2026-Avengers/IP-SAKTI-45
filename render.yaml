@@ -8,12 +8,14 @@ services:
     plan: free
     rootDir: backend
     buildCommand: "pip install --upgrade pip && pip install -r requirements.txt"
-    startCommand: "uvicorn main:app --host 0.0.0.0 --port $PORT"
+    startCommand: "python start.py"
     healthCheckPath: /api/health
     autoDeploy: true
     envVars:
       - key: PYTHON_VERSION
         value: 3.12.0
+      - key: PYTHONUNBUFFERED
+        value: "1"
       - key: GROQ_API_KEY
         sync: false
       - key: GROQ_MODEL
