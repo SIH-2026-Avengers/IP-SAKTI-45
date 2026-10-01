@@ -28,10 +28,16 @@ async function requestWithRetry<T>(endpoint: string, options: RequestInit = {}, 
 
   for (let attempt = 0; attempt <= retries; attempt++) {
     try {
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 90000); // 90s timeout for cold starts
+
       const response = await fetch(url, {
         ...options,
-        headers
+        headers,
+        signal: options.signal || controller.signal
       });
+
+      clearTimeout(timeoutId);
 
       if (!response.ok) {
         let errorMessage = `HTTP Error ${response.status}: ${response.statusText}`;
@@ -64,7 +70,7 @@ async function requestWithRetry<T>(endpoint: string, options: RequestInit = {}, 
         continue;
       }
       throw new Error(
-        `Unable to connect to backend at ${API_BASE_URL}. (${error?.message || 'Network Error'}). Please verify VITE_API_BASE_URL and ensure backend is live.`
+        `Unable to connect to backend at ${API_BASE_URL}. (${error?.message || 'Network Error'}). Please verify that the backend API is live.`
       );
     }
   }

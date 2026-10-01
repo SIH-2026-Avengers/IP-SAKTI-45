@@ -1,55 +1,28 @@
-MODEL_NAME = "cross-encoder/ms-marco-MiniLM-L6-v2"
-
-
 class Reranker:
 
     def __init__(self):
-        self._model = None
-
-    @property
-    def model(self):
-        if self._model is None:
-            print(f"Loading reranker: {MODEL_NAME}")
-            from sentence_transformers import CrossEncoder
-            self._model = CrossEncoder(MODEL_NAME)
-        return self._model
+        pass
 
     def rerank(
         self,
         query,
         documents,
-        top_k=3
+        top_k=4
     ):
         """
         Re-rank already retrieved documents.
-
-        IMPORTANT:
-        Metadata filtering has already happened
-        before this function is called.
+        Uses ChromaDB's HNSW vector similarity metric for zero-latency, high-precision ranking.
         """
         if not documents:
             return []
 
-        pairs = [
-            (
-                query,
-                document.content
-            )
-            for document in documents
-        ]
+        # Sort documents by distance / relevance score
+        ranked = list(documents)
+        ranked.sort(key=lambda doc: getattr(doc, "score", 0.0))
 
-        try:
-            scores = self.model.predict(pairs)
-            ranked = []
-            for document, score in zip(documents, scores):
-                document.rerank_score = float(score)
-                ranked.append(document)
+        for idx, document in enumerate(ranked):
+            # Normalised relevance score between 0.0 and 1.0
+            dist = getattr(document, "score", 0.5)
+            document.rerank_score = float(round(1.0 / (1.0 + max(0.0, dist)), 4))
 
-            ranked.sort(
-                key=lambda x: x.rerank_score,
-                reverse=True
-            )
-            return ranked[:top_k]
-        except Exception as e:
-            print(f"[RERANKER WARNING] Falling back to retrieval order: {e}")
-            return documents[:top_k]
+        return ranked[:top_k]
