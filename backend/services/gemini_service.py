@@ -15,7 +15,7 @@ logger = logging.getLogger("GeminiInsightService")
 class GeminiInsightService:
     def __init__(self):
         self.api_key = os.getenv("GEMINI_API_KEY")
-        self.model_name = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+        self.model_name = os.getenv("GEMINI_MODEL", "gemini-1.5-flash")
         self.client = None
 
         if self.api_key and self.api_key.strip() and not self.api_key.startswith("your_"):
