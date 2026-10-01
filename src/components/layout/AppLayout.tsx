@@ -49,7 +49,7 @@ export const AppLayout: React.FC = () => {
 
           {/* GitHub Button */}
           <a
-            href="https://github.com/ranjeet22"
+            href="https://github.com/SIH-2026-Avengers/IP-SAKTI-45"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub Repository"
