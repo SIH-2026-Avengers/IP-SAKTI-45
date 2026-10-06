@@ -6,14 +6,15 @@ export const CLASSIFICATION_FIELDS: ClassificationQuestionField[] = [
     label: 'Subject Matter',
     placeholder: 'Select subject matter...',
     options: [
-      'Invention',
-      'Biological/Plant Matter',
-      'Regulated Product',
-      'Product',
-      'Brand',
-      'Confidential Information',
+      'Invention / Technical Solution',
+      'Brand / Commercial Sign',
       'Creative Work',
-      'General Regulation',
+      'Product Appearance / Design',
+      'Geographically Associated Product',
+      'Biological Resource / Traditional Knowledge',
+      'Plant Variety',
+      'Confidential Know-How',
+      'Regulated Product / Activity',
       'Other'
     ],
     description: 'Identifies the primary nature of the asset or innovation (e.g. technical formulation, raw bio-matter, branding mark, or regulatory dossier).'
@@ -23,11 +24,13 @@ export const CLASSIFICATION_FIELDS: ClassificationQuestionField[] = [
     label: 'Primary Objective',
     placeholder: 'Select primary objective...',
     options: [
-      'Get Protection',
-      'Compliance/Approval',
-      'Registration',
-      'Commercialization',
-      'Enforcement/Dispute',
+      'Obtain New Protection',
+      'Maintain / Renew Existing Protection',
+      'Enforcement / Dispute',
+      'Regulatory Approval / License',
+      'Regulatory Compliance',
+      'Commercialization / Licensing / Transfer',
+      'Research / Information',
       'Other'
     ],
     description: 'Specifies your strategic goal (e.g. securing patent/IP monopoly, obtaining AYUSH manufacturing license, or product registration).'
@@ -75,6 +78,8 @@ export const CLASSIFICATION_FIELDS: ClassificationQuestionField[] = [
       'Traditional Knowledge',
       'Biological Resource',
       'Plant Variety',
+      'Biological Resource + Traditional Knowledge',
+      'Multiple / Combined',
       'None / Not Applicable'
     ],
     description: 'Specifies the nature of biological input. Triggers Biological Diversity Act 2002 (NBA approval) and Section 3(p) TKDL scrutiny.'
@@ -91,11 +96,12 @@ export const CLASSIFICATION_FIELDS: ClassificationQuestionField[] = [
     label: 'Regulated Product Category',
     placeholder: 'Select product category...',
     options: [
-      'Ayurveda-Aahar',
-      'Drug',
-      'Food',
-      'Other',
-      'None / Not Regulated'
+      'Medicinal / Pharmaceutical Product',
+      'Food / Beverage',
+      'Ayurveda-Aahara Product',
+      'Other Regulated Product / Activity',
+      'Not Regulated',
+      'Unclear'
     ],
     description: 'Identifies the statutory regulatory framework (Ayush Drug under DCA 1940, Ayurveda-Aahar under FSSAI 2022, or standard food regulation).'
   }

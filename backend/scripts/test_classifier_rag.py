@@ -22,10 +22,10 @@ def main():
     features = {
 
         "subject_matter":
-            "Invention",
+            "Invention / Technical Solution",
 
         "primary_objective":
-            "Get Protection",
+            "Obtain New Protection",
 
         "technical_invention":
             "Yes",
@@ -49,7 +49,7 @@ def main():
             "No",
 
         "regulated_product_type":
-            "Other"
+            "Other Regulated Product / Activity"
     }
 
     jurisdiction = "India"

@@ -1,17 +1,25 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useJurisdiction } from '../context/JurisdictionContext';
 import { useAssessment } from '../context/AssessmentContext';
 import { PageHeader } from '../components/layout/PageHeader';
-import { Card, Button, Input, Badge } from '../components/ui';
+import { Card, Button, Input, Badge, Select } from '../components/ui';
 import { CitationBadge } from '../components/common/CitationBadge';
 import { MarkdownContent } from '../components/common/MarkdownContent';
+import { apiService } from '../services/api';
 import { sendAssistantQuery } from '../services/assistant';
 import type { RAGMessage, Citation } from '../types';
 import { Send, User, Bot, AlertCircle } from 'lucide-react';
 
 export const AssistantPage: React.FC = () => {
   const { jurisdiction } = useJurisdiction();
-  const { input, predictedCategory } = useAssessment();
+  const {
+    input,
+    predictedCategory,
+    activeRagCategory,
+    selectRagCategory,
+    submitPendingClassifierFeedback
+  } = useAssessment();
+  const [categories, setCategories] = useState<string[]>([]);
   const [messages, setMessages] = useState<RAGMessage[]>([
     {
       id: 'msg-initial',
@@ -25,6 +33,19 @@ export const AssistantPage: React.FC = () => {
   const [inputText, setInputText] = useState('');
   const [isLoading, setIsLoading] = useState(false);
   const [activeCitation, setActiveCitation] = useState<Citation | null>(null);
+
+  useEffect(() => {
+    let cancelled = false;
+    apiService.getCategories()
+      .then(({ categories: availableCategories }) => {
+        if (!cancelled) setCategories(availableCategories);
+      })
+      .catch((error) => console.error('Category list API error:', error));
+
+    return () => {
+      cancelled = true;
+    };
+  }, []);
 
   const handleSend = async (queryText?: string) => {
     const text = queryText || inputText;
@@ -40,20 +61,47 @@ export const AssistantPage: React.FC = () => {
     setMessages((prev) => [...prev, userMsg]);
     setInputText('');
     setIsLoading(true);
+    let classifierFeedbackError: string | null = null;
 
     try {
+      try {
+        await submitPendingClassifierFeedback(activeRagCategory);
+      } catch (error) {
+        classifierFeedbackError = error instanceof Error ? error.message : String(error);
+        console.error('Classifier feedback update failed:', error);
+      }
+
       const response = await sendAssistantQuery(
         text,
         jurisdiction,
-        predictedCategory || 'Patent',
+        activeRagCategory || predictedCategory || 'Patent',
         input.productName
       );
-      setMessages((prev) => [...prev, response]);
+      const feedbackWarning: RAGMessage | null = classifierFeedbackError
+        ? {
+            id: `msg-feedback-error-${Date.now()}`,
+            role: 'assistant',
+            content: `The search completed, but the classifier could not be updated: ${classifierFeedbackError}`,
+            timestamp: new Date().toISOString(),
+            confidenceLevel: 'insufficient_evidence',
+            jurisdictionContext: jurisdiction
+          }
+        : null;
+      setMessages((prev) => [
+        ...prev,
+        response,
+        ...(feedbackWarning ? [feedbackWarning] : [])
+      ]);
     } catch (err: any) {
       const errorMsg: RAGMessage = {
         id: `msg-err-${Date.now()}`,
         role: 'assistant',
-        content: `Error connecting to RAG backend: ${err?.message || 'Server unreachable'}`,
+        content: [
+          `Error connecting to RAG backend: ${err?.message || 'Server unreachable'}`,
+          classifierFeedbackError
+            ? `The classifier could not be updated: ${classifierFeedbackError}`
+            : ''
+        ].filter(Boolean).join('\n\n'),
         timestamp: new Date().toISOString(),
         confidenceLevel: 'insufficient_evidence',
         jurisdictionContext: jurisdiction
@@ -71,6 +119,23 @@ export const AssistantPage: React.FC = () => {
         subtitle="Ask regulatory and IP questions grounded in classical AYUSH treatises, Indian Patent Office guidelines, and global export laws."
         badge="Stage 5: RAG Intelligence"
       />
+
+      <Card className="p-4 bg-background-surface border-border space-y-2">
+        <div className="flex flex-wrap items-center gap-2 text-xs text-foreground-muted">
+          <span>Classifier prediction: <strong className="text-foreground">{predictedCategory}</strong></span>
+          <span aria-hidden="true">&bull;</span>
+          <span>Selected search category: <strong className="text-foreground">{activeRagCategory}</strong></span>
+        </div>
+        <Select
+          id="assistant-search-category"
+          label="Search documents in"
+          value={activeRagCategory}
+          options={categories.map((category) => ({ value: category, label: category }))}
+          onChange={(event) => selectRagCategory(event.target.value)}
+          disabled={isLoading || categories.length === 0}
+          helperText="Using a changed category for a question updates future classifier predictions; this assessment stays unchanged."
+        />
+      </Card>
 
       {/* Citation Inspector Modal/Drawer Preview */}
       {activeCitation && (

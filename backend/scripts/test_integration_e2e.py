@@ -1,6 +1,7 @@
 import sys
 import json
 import urllib.request
+from urllib.error import HTTPError
 from pathlib import Path
 
 # Ensure UTF-8 output on Windows
@@ -33,6 +34,29 @@ def test_categories():
     print("✓ Categories Endpoint Passed (12 target categories confirmed)")
 
 
+def test_rag_rejects_unsupported_category():
+    print("\n--- Testing POST /api/rag/query with an unsupported category ---")
+    payload = {
+        "question": "Find relevant documents.",
+        "jurisdiction": "India",
+        "category": "Unknown Category"
+    }
+    req = urllib.request.Request(
+        f"{BASE_URL}/api/rag/query",
+        data=json.dumps(payload).encode("utf-8"),
+        headers={"Content-Type": "application/json"}
+    )
+    try:
+        urllib.request.urlopen(req)
+    except HTTPError as error:
+        assert error.code == 422, f"Expected 422, got {error.code}"
+        response = json.loads(error.read().decode())
+        assert "Unsupported category" in response["detail"]
+    else:
+        raise AssertionError("Expected unsupported category to be rejected")
+    print("✓ Unsupported RAG category rejected")
+
+
 def test_classification():
     print("\n--- 3. Testing POST /api/classify ---")
     payload = {
@@ -40,8 +64,8 @@ def test_classification():
         "product_description": "Supercritical fluid extract of Withania somnifera standardized to 5% withanolides for adaptogenic stress relief.",
         "jurisdiction": "India",
         "features": {
-            "subject_matter": "Invention",
-            "primary_objective": "Get Protection",
+            "subject_matter": "Invention / Technical Solution",
+            "primary_objective": "Obtain New Protection",
             "technical_invention": "Yes",
             "brand_identifier": "No",
             "product_appearance": "No",
@@ -49,7 +73,7 @@ def test_classification():
             "creative_expression": "No",
             "bio_or_plant_matter": "Traditional Knowledge",
             "confidentiality": "No",
-            "regulated_product_type": "Other"
+            "regulated_product_type": "Other Regulated Product / Activity"
         }
     }
     req = urllib.request.Request(
@@ -162,6 +186,7 @@ def main():
     print("=" * 70)
     test_health()
     test_categories()
+    test_rag_rejects_unsupported_category()
     test_classification()
     test_assessment_insight()
     test_rag_query_india()

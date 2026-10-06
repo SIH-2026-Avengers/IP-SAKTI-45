@@ -18,6 +18,18 @@ export interface BackendClassifyRequest {
   features: ClassifierFeaturesPayload;
 }
 
+export interface BackendClassifierFeedbackRequest {
+  feedback_id: string;
+  target_category: string;
+  features: ClassifierFeaturesPayload;
+}
+
+export interface BackendClassifierFeedbackResponse {
+  updated: boolean;
+  training_samples: number;
+  model_version: number;
+}
+
 export interface BackendTopPrediction {
   category: string;
   probability: number;
@@ -64,6 +76,10 @@ export interface BackendRAGRequest {
   product_name?: string;
   product_description?: string;
   conversation_history?: Array<{ role: string; content: string }>;
+}
+
+export interface BackendCategoriesResponse {
+  categories: string[];
 }
 
 export interface BackendRAGSource {

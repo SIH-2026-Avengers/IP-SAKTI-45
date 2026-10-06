@@ -7,7 +7,15 @@ import { useAssessment } from '../../context/AssessmentContext';
 import { useJurisdiction } from '../../context/JurisdictionContext';
 
 export const AppLayout: React.FC = () => {
-  const { input, isDashboardActive, activeRagCategory } = useAssessment();
+  const {
+    input,
+    isDashboardActive,
+    predictedCategory,
+    activeRagCategory,
+    selectRagCategory,
+    submitPendingClassifierFeedback,
+    setLatestRagSources
+  } = useAssessment();
   const { jurisdiction } = useJurisdiction();
 
   return (
@@ -32,7 +40,11 @@ export const AppLayout: React.FC = () => {
         {isDashboardActive && (
           <RagAssistant
             productName={input.productName}
-            productClassification={activeRagCategory}
+            predictedCategory={predictedCategory}
+            selectedCategory={activeRagCategory}
+            onSelectedCategoryChange={selectRagCategory}
+            onSubmitClassifierFeedback={submitPendingClassifierFeedback}
+            onSourcesLoaded={setLatestRagSources}
             jurisdiction={jurisdiction}
           />
         )}

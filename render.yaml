@@ -7,8 +7,8 @@ services:
     env: python
     plan: free
     rootDir: backend
-    buildCommand: "pip install --upgrade pip && pip install -r requirements.txt"
-    startCommand: "python start.py"
+    buildCommand: "pip install --upgrade pip uv && uv sync --locked --no-dev"
+    startCommand: "uv run --locked --no-sync python start.py"
     healthCheckPath: /api/health
     autoDeploy: true
     envVars:
@@ -31,7 +31,7 @@ services:
   - type: web
     name: ip-sakti-frontend
     env: static
-    buildCommand: "npm install && npm run build"
+    buildCommand: "npm ci && npm run build"
     staticPublishPath: dist
     autoDeploy: true
     envVars:
@@ -39,7 +39,7 @@ services:
         fromService:
           type: web
           name: ip-sakti-backend
-          property: host
+          envVarKey: RENDER_EXTERNAL_URL
     routes:
       - type: rewrite
         source: /*

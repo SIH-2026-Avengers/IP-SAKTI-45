@@ -1,13 +1,16 @@
-import React, { createContext, useContext, useState, useCallback } from 'react';
+import React, { createContext, useContext, useState, useCallback, useRef } from 'react';
 import type { ReactNode } from 'react';
 import type { ProductAssessmentInput, JurisdictionType } from '../types';
 import type {
   BackendTopPrediction,
   BackendRelevantDomain,
   BackendInsightResponse,
-  BackendClassifyResponse
+  BackendClassifyResponse,
+  BackendRAGSource,
+  ClassifierFeaturesPayload
 } from '../types/backendApi';
 import { apiService } from '../services/api';
+import { buildClassifierFeatures } from '../services/classification';
 
 export const INITIAL_PRODUCT_INPUT: ProductAssessmentInput = {
   productName: '',
@@ -33,9 +36,12 @@ interface AssessmentContextType {
   confidence: number;
   topPredictions: BackendTopPrediction[];
   relevantDomains: BackendRelevantDomain[];
+  latestRagSources: BackendRAGSource[];
+  setLatestRagSources: (sources: BackendRAGSource[]) => void;
   assessmentInsight: BackendInsightResponse | null;
   activeRagCategory: string;
-  setActiveRagCategory: (category: string) => void;
+  selectRagCategory: (category: string) => void;
+  submitPendingClassifierFeedback: (category: string) => Promise<boolean>;
 
   // Workflow states
   isAssessing: boolean;
@@ -53,40 +59,71 @@ const AssessmentContext = createContext<AssessmentContextType | undefined>(undef
 export const AssessmentProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
   const [input, setInput] = useState<ProductAssessmentInput>(INITIAL_PRODUCT_INPUT);
   const [classificationData, setClassificationData] = useState<BackendClassifyResponse | null>(null);
+  const [classifierFeatures, setClassifierFeatures] = useState<ClassifierFeaturesPayload | null>(null);
   const [assessmentInsight, setAssessmentInsight] = useState<BackendInsightResponse | null>(null);
-  const [activeRagCategory, setActiveRagCategory] = useState<string>('Patent');
+  const [activeRagCategory, setActiveRagCategoryState] = useState<string>('Patent');
+  const [latestRagSources, setLatestRagSources] = useState<BackendRAGSource[]>([]);
   const [isAssessing, setIsAssessing] = useState<boolean>(false);
   const [assessmentError, setAssessmentError] = useState<string | null>(null);
   const [isDashboardActive, setIsDashboardActive] = useState<boolean>(false);
+  const pendingClassifierFeedbackRef = useRef<{ feedbackId: string; category: string } | null>(null);
+  const classifierFeedbackPromiseRef = useRef<{
+    feedbackId: string;
+    promise: Promise<boolean>;
+  } | null>(null);
 
   const updateInput = useCallback((fields: Partial<ProductAssessmentInput>) => {
     setInput((prev) => ({ ...prev, ...fields }));
   }, []);
 
+  const selectRagCategory = useCallback((category: string) => {
+    if (category === activeRagCategory) return;
+    setActiveRagCategoryState(category);
+    pendingClassifierFeedbackRef.current = {
+      feedbackId: globalThis.crypto.randomUUID(),
+      category
+    };
+    setLatestRagSources([]);
+  }, [activeRagCategory]);
+
+  const submitPendingClassifierFeedback = useCallback((category: string) => {
+    const pending = pendingClassifierFeedbackRef.current;
+    if (!pending || pending.category !== category || !classifierFeatures) {
+      return Promise.resolve(false);
+    }
+
+    const existing = classifierFeedbackPromiseRef.current;
+    if (existing?.feedbackId === pending.feedbackId) {
+      return existing.promise;
+    }
+
+    const promise = apiService.updateClassifier({
+      feedback_id: pending.feedbackId,
+      target_category: pending.category,
+      features: classifierFeatures
+    }).then((response) => {
+      if (pendingClassifierFeedbackRef.current?.feedbackId === pending.feedbackId) {
+        pendingClassifierFeedbackRef.current = null;
+      }
+      return response.updated;
+    }).finally(() => {
+      if (classifierFeedbackPromiseRef.current?.feedbackId === pending.feedbackId) {
+        classifierFeedbackPromiseRef.current = null;
+      }
+    });
+
+    classifierFeedbackPromiseRef.current = {
+      feedbackId: pending.feedbackId,
+      promise
+    };
+    return promise;
+  }, [classifierFeatures]);
+
   const runAssessment = useCallback(async (jurisdiction: JurisdictionType) => {
     setIsAssessing(true);
     setAssessmentError(null);
 
-    const answers = input.classificationAnswers || {};
-
-    const featuresPayload = {
-      subject_matter: answers['subject_matter'] || 'Invention',
-      primary_objective: answers['primary_objective'] || 'Get Protection',
-      technical_invention: answers['technical_invention'] || 'Yes',
-      brand_identifier: answers['brand_identifier'] || 'No',
-      product_appearance: answers['product_appearance'] || 'No',
-      geographical_origin: answers['geographical_origin'] || 'No',
-      creative_expression: answers['creative_expression'] || 'No',
-      bio_or_plant_matter:
-        answers['bio_or_plant_matter'] === 'None / Not Applicable'
-          ? null
-          : answers['bio_or_plant_matter'] || 'Traditional Knowledge',
-      confidentiality: answers['confidentiality'] || 'No',
-      regulated_product_type:
-        answers['regulated_product_type'] === 'None / Not Regulated'
-          ? null
-          : answers['regulated_product_type'] || 'Drug'
-    };
+    const featuresPayload = buildClassifierFeatures(input.classificationAnswers);
 
     try {
       // 1. Run Real Classifier API
@@ -100,7 +137,9 @@ export const AssessmentProvider: React.FC<{ children: ReactNode }> = ({ children
       });
 
       setClassificationData(classifyRes);
-      setActiveRagCategory(classifyRes.predicted_category);
+      setClassifierFeatures(featuresPayload);
+      pendingClassifierFeedbackRef.current = null;
+      setActiveRagCategoryState(classifyRes.predicted_category);
 
       // 2. Run Real Assessment Insight API
       try {
@@ -139,8 +178,10 @@ export const AssessmentProvider: React.FC<{ children: ReactNode }> = ({ children
   const resetAssessment = useCallback(() => {
     setInput(INITIAL_PRODUCT_INPUT);
     setClassificationData(null);
+    setClassifierFeatures(null);
     setAssessmentInsight(null);
-    setActiveRagCategory('Patent');
+    pendingClassifierFeedbackRef.current = null;
+    setActiveRagCategoryState('Patent');
     setAssessmentError(null);
     setIsDashboardActive(false);
   }, []);
@@ -161,9 +202,12 @@ export const AssessmentProvider: React.FC<{ children: ReactNode }> = ({ children
         confidence,
         topPredictions,
         relevantDomains,
+        latestRagSources,
+        setLatestRagSources,
         assessmentInsight,
         activeRagCategory,
-        setActiveRagCategory,
+        selectRagCategory,
+        submitPendingClassifierFeedback,
         isAssessing,
         assessmentError,
         isDashboardActive,

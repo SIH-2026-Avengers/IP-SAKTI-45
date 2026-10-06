@@ -1,7 +1,8 @@
-import React, { useState, useRef, useEffect } from 'react';
+import React, { useState, useRef, useEffect, useEffectEvent } from 'react';
 import type { JurisdictionType, RAGMessage, Citation } from '../../types';
+import type { BackendRAGSource } from '../../types/backendApi';
 import { apiService } from '../../services/api';
-import { Button } from '../ui';
+import { Button, Select } from '../ui';
 import { MarkdownContent } from '../common/MarkdownContent';
 import {
   MessageSquare,
@@ -18,14 +19,22 @@ import { useLanguage } from '../../context/LanguageContext';
 
 interface RagAssistantProps {
   productName: string;
-  productClassification?: string;
+  predictedCategory: string;
+  selectedCategory: string;
+  onSelectedCategoryChange: (category: string) => void;
+  onSubmitClassifierFeedback: (category: string) => Promise<boolean>;
+  onSourcesLoaded: (sources: BackendRAGSource[]) => void;
   jurisdiction: JurisdictionType;
   className?: string;
 }
 
 export const RagAssistant: React.FC<RagAssistantProps> = ({
   productName,
-  productClassification = 'Patent',
+  predictedCategory,
+  selectedCategory,
+  onSelectedCategoryChange,
+  onSubmitClassifierFeedback,
+  onSourcesLoaded,
   jurisdiction,
   className
 }) => {
@@ -33,19 +42,21 @@ export const RagAssistant: React.FC<RagAssistantProps> = ({
   const [viewState, setViewState] = useState<'minimized' | 'expanded' | 'maximized'>('minimized');
   const [inputText, setInputText] = useState<string>('');
   const [isLoading, setIsLoading] = useState<boolean>(false);
+  const [isRefreshingCategory, setIsRefreshingCategory] = useState<boolean>(false);
   const [activeCitationModal, setActiveCitationModal] = useState<Citation | null>(null);
+  const [categories, setCategories] = useState<string[]>([]);
 
   const [suggestedQuestions, setSuggestedQuestions] = useState<string[]>([
-    `Can an Ayurvedic formulation in ${productClassification} be patented?`,
-    'What prior art scrutiny applies under Section 3(p)?',
-    'How does Biological Diversity Act Section 6 approval work?'
+    `What statutory requirements apply to ${selectedCategory}?`,
+    'What documentation is required for this category?',
+    'How does traditional knowledge affect this category?'
   ]);
 
   const [messages, setMessages] = useState<RAGMessage[]>([
     {
       id: 'msg-initial',
       role: 'assistant',
-      content: `Namaste. I am your IP-SAKTI RAG Assistant, grounded in the active assessment for "${productName || 'your formulation'}" (${productClassification}, ${jurisdiction}).\n\nI retrieve evidence directly from 21 Indian statutory Acts, Rules, and official compendia (Patents Act 1970, DCA 1940, BDA 2002, FSSAI 2022). How can I assist with your IP or regulatory strategy?`,
+      content: `Namaste. I am your IP-SAKTI RAG Assistant, grounded in the active assessment for "${productName || 'your formulation'}" (classified as ${predictedCategory}, ${jurisdiction}).\n\nI retrieve evidence directly from 21 Indian statutory Acts, Rules, and official compendia (Patents Act 1970, DCA 1940, BDA 2002, FSSAI 2022). How can I assist with your IP or regulatory strategy?`,
       timestamp: new Date().toISOString(),
       confidenceLevel: 'high',
       jurisdictionContext: jurisdiction
@@ -53,6 +64,58 @@ export const RagAssistant: React.FC<RagAssistantProps> = ({
   ]);
 
   const messagesEndRef = useRef<HTMLDivElement>(null);
+  const previousCategoryRef = useRef(selectedCategory);
+
+  useEffect(() => {
+    let cancelled = false;
+    apiService.getCategories()
+      .then(({ categories: availableCategories }) => {
+        if (!cancelled) setCategories(availableCategories);
+      })
+      .catch((error) => console.error('Category list API error:', error));
+
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
+  const handleCategoryChange = (category: string) => {
+    if (category === selectedCategory) return;
+    onSelectedCategoryChange(category);
+  };
+
+  const refreshCategoryContext = useEffectEvent((category: string) => {
+    setSuggestedQuestions([
+      `What statutory requirements apply to ${category}?`,
+      'What documentation is required for this category?',
+      'How does traditional knowledge affect this category?'
+    ]);
+
+    setActiveCitationModal(null);
+    const lastQuestion = [...messages].reverse().find((message) => message.role === 'user');
+
+    if (!lastQuestion) {
+      const welcomeMessage = messages.find((message) => message.role === 'assistant');
+      if (welcomeMessage) {
+        setMessages([{
+          ...welcomeMessage,
+        content: `Search category changed to ${category}. The classifier prediction remains ${predictedCategory}. Ask a question to retrieve documents from the new category.`,
+        }]);
+      }
+      return;
+    }
+
+    setMessages([lastQuestion]);
+    setIsRefreshingCategory(true);
+    void handleSendQuery(lastQuestion.content, category, false, true)
+      .finally(() => setIsRefreshingCategory(false));
+  });
+
+  useEffect(() => {
+    if (previousCategoryRef.current === selectedCategory) return;
+    previousCategoryRef.current = selectedCategory;
+    refreshCategoryContext(selectedCategory);
+  }, [selectedCategory]);
 
   useEffect(() => {
     if (viewState !== 'minimized') {
@@ -60,33 +123,49 @@ export const RagAssistant: React.FC<RagAssistantProps> = ({
     }
   }, [messages, viewState, isLoading]);
 
-  const handleSendQuery = async (queryText?: string) => {
+  async function handleSendQuery(
+    queryText?: string,
+    category = selectedCategory,
+    appendUserMessage = true,
+    resetConversation = false
+  ) {
     const text = (queryText || inputText).trim();
     if (!text || isLoading) return;
 
-    const userMessage: RAGMessage = {
-      id: `msg-user-${Date.now()}`,
-      role: 'user',
-      content: text,
-      timestamp: new Date().toISOString()
-    };
-
-    setMessages((prev) => [...prev, userMessage]);
+    if (appendUserMessage) {
+      const userMessage: RAGMessage = {
+        id: `msg-user-${Date.now()}`,
+        role: 'user',
+        content: text,
+        timestamp: new Date().toISOString()
+      };
+      setMessages((prev) => [...prev, userMessage]);
+    }
     setInputText('');
     setIsLoading(true);
+    let classifierFeedbackError: string | null = null;
 
     try {
+      try {
+        await onSubmitClassifierFeedback(category);
+      } catch (error) {
+        classifierFeedbackError = error instanceof Error ? error.message : String(error);
+        console.error('Classifier feedback update failed:', error);
+      }
+
       // Call Real Backend RAG API with hard metadata filtering & reranking
       const response = await apiService.queryRAG({
         question: text,
         jurisdiction: jurisdiction === 'INDIA' ? 'India' : 'International',
-        category: productClassification || 'Patent',
+        category,
         product_name: productName,
-        conversation_history: messages.slice(-6).map((m) => ({
+        conversation_history: (resetConversation ? [] : messages.slice(-6)).map((m) => ({
           role: m.role,
           content: m.content
         }))
       });
+
+      onSourcesLoaded(response.sources || []);
 
       const formattedCitations: Citation[] = (response.citations || []).map((c) => ({
         citationIndex: c.citation_index,
@@ -113,13 +192,32 @@ export const RagAssistant: React.FC<RagAssistantProps> = ({
         setSuggestedQuestions(response.suggested_questions);
       }
 
-      setMessages((prev) => [...prev, assistantMessage]);
+      const feedbackWarning: RAGMessage | null = classifierFeedbackError
+        ? {
+            id: `msg-feedback-error-${Date.now()}`,
+            role: 'assistant',
+            content: `The search completed, but the classifier could not be updated: ${classifierFeedbackError}`,
+            timestamp: new Date().toISOString(),
+            confidenceLevel: 'insufficient_evidence',
+            jurisdictionContext: jurisdiction
+          }
+        : null;
+      setMessages((prev) => [
+        ...prev,
+        assistantMessage,
+        ...(feedbackWarning ? [feedbackWarning] : [])
+      ]);
     } catch (err: any) {
       console.error('RAG query error:', err);
       const errorMessage: RAGMessage = {
         id: `msg-err-${Date.now()}`,
         role: 'assistant',
-        content: `I could not retrieve evidence from the statutory database: ${err?.message || 'Server connection error'}. Please verify that the backend API is running.`,
+        content: [
+          `I could not retrieve evidence from the statutory database: ${err?.message || 'Server connection error'}. Please verify that the backend API is running.`,
+          classifierFeedbackError
+            ? `The classifier could not be updated: ${classifierFeedbackError}`
+            : ''
+        ].filter(Boolean).join('\n\n'),
         timestamp: new Date().toISOString(),
         confidenceLevel: 'insufficient_evidence',
         jurisdictionContext: jurisdiction
@@ -128,7 +226,7 @@ export const RagAssistant: React.FC<RagAssistantProps> = ({
     } finally {
       setIsLoading(false);
     }
-  };
+  }
 
   // Minimized Floating Launcher Button
   if (viewState === 'minimized') {
@@ -211,18 +309,30 @@ export const RagAssistant: React.FC<RagAssistantProps> = ({
       </div>
 
       {/* Assessment Context Metadata Strip */}
-      <div className="px-4 py-2 bg-background-subtle border-b border-border-subtle flex flex-wrap items-center justify-between gap-2 text-[11px] text-foreground-subtle">
-        <div className="flex items-center gap-2 truncate">
-          <span className="text-foreground-muted">Active:</span>
-          <span className="font-semibold text-foreground truncate max-w-[140px] sm:max-w-[200px]">
+      <div className="px-4 py-2 bg-background-subtle border-b border-border-subtle space-y-2 text-[11px] text-foreground-subtle">
+        <div className="flex flex-wrap items-center justify-between gap-2">
+          <div className="flex items-center gap-2 truncate">
+            <span className="text-foreground-muted">Product:</span>
+            <span className="font-semibold text-foreground truncate max-w-[140px] sm:max-w-[200px]">
             {productName || 'Herbal Formulation'}
+            </span>
+            <span className="text-neutral-300">&bull;</span>
+            <span className="text-foreground-muted truncate">Predicted: {predictedCategory}</span>
+          </div>
+          <span className="font-mono font-semibold text-[10px] bg-neutral-200 text-neutral-800 px-1.5 py-0.5 rounded">
+            {jurisdiction}
           </span>
-          <span className="text-neutral-300">&bull;</span>
-          <span className="text-foreground-muted truncate hidden sm:inline">{productClassification}</span>
         </div>
-        <span className="font-mono font-semibold text-[10px] bg-neutral-200 text-neutral-800 px-1.5 py-0.5 rounded">
-          {jurisdiction}
-        </span>
+        <Select
+          id="rag-search-category"
+          label="Search documents in"
+          value={selectedCategory}
+          options={categories.map((category) => ({ value: category, label: category }))}
+          onChange={(event) => handleCategoryChange(event.target.value)}
+          disabled={isLoading || categories.length === 0}
+          helperText="Using a changed category for a question updates future classifier predictions; this assessment stays unchanged."
+          className="px-2.5 py-1.5 text-xs"
+        />
       </div>
 
       {/* Citation Inspector Popover if selected */}
@@ -288,7 +398,7 @@ export const RagAssistant: React.FC<RagAssistantProps> = ({
                       {t('sources_label', 'Statutory Sources & Evidence:')}
                     </span>
                     <div className="space-y-1.5">
-                      {msg.citations.map((cit) => (
+                      {msg.citations.slice(0, 5).map((cit) => (
                         <div
                           key={cit.citationIndex}
                           onClick={() => setActiveCitationModal(cit)}
@@ -309,6 +419,14 @@ export const RagAssistant: React.FC<RagAssistantProps> = ({
                           </span>
                         </div>
                       ))}
+                      {msg.citations.length > 5 && (
+                        <div
+                          aria-label={`${msg.citations.length - 5} additional documents not shown`}
+                          className="p-2 text-sm text-foreground-muted"
+                        >
+                          ...
+                        </div>
+                      )}
                     </div>
                   </div>
                 )}
@@ -346,7 +464,11 @@ export const RagAssistant: React.FC<RagAssistantProps> = ({
             </div>
             <div className="p-3 bg-background-subtle rounded-xl border border-border flex items-center gap-2 text-xs text-foreground-muted">
               <div className="w-3 h-3 border-2 border-neutral-800 border-t-transparent rounded-full animate-spin" />
-              <span>Searching 6,352 statutory chunks &amp; reranking evidence...</span>
+              <span>
+                {isRefreshingCategory
+                  ? `Refreshing documents in ${selectedCategory} and reranking evidence...`
+                  : 'Searching 6,352 statutory chunks & reranking evidence...'}
+              </span>
             </div>
           </div>
         )}

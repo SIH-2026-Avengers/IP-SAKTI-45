@@ -18,3 +18,4 @@ langchain-text-splitters>=0.3.0
 groq>=0.11.0
 pymupdf>=1.24.0
 google-generativeai>=0.8.0
+river==0.26.1

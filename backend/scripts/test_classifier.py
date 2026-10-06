@@ -16,10 +16,10 @@ classifier = IPShaktiClassifier()
 features = {
 
     "subject_matter":
-        "Invention",
+        "Invention / Technical Solution",
 
     "primary_objective":
-        "Get Protection",
+        "Obtain New Protection",
 
     "technical_invention":
         "Yes",
@@ -37,13 +37,13 @@ features = {
         "No",
 
     "bio_or_plant_matter":
-        None,
+        "None / Not Applicable",
 
     "confidentiality":
         "No",
 
     "regulated_product_type":
-        None,
+        "Not Regulated",
 }
 
 
