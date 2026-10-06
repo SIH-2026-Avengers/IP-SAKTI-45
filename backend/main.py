@@ -14,6 +14,21 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from services.domain_analyzer import determine_relevant_domains
 
+SUPPORTED_CATEGORIES = [
+    "Ayurveda-Aahar",
+    "Biological Diversity",
+    "Copyright",
+    "Design",
+    "Drug Regulation",
+    "Food Regulation",
+    "Geographical Indication",
+    "Patent",
+    "Plant Variety Protection",
+    "Regulatory",
+    "Trade Secret",
+    "Trademark",
+]
+
 # Load .env from backend or root directory
 load_dotenv(Path(__file__).resolve().parent / ".env")
 load_dotenv(Path(__file__).resolve().parent.parent / ".env")
@@ -41,6 +56,12 @@ class ClassificationRequest(BaseModel):
     product_name: str
     product_description: str
     jurisdiction: str = "India"
+    features: ClassifierFeatures
+
+
+class ClassifierFeedbackRequest(BaseModel):
+    feedback_id: str = Field(..., min_length=1, max_length=128)
+    target_category: str
     features: ClassifierFeatures
 
 
@@ -221,22 +242,7 @@ def health_check():
 
 @app.get("/api/categories")
 def get_categories():
-    return {
-        "categories": [
-            "Ayurveda-Aahar",
-            "Biological Diversity",
-            "Copyright",
-            "Design",
-            "Drug Regulation",
-            "Food Regulation",
-            "Geographical Indication",
-            "Patent",
-            "Plant Variety Protection",
-            "Regulatory",
-            "Trade Secret",
-            "Trademark"
-        ]
-    }
+    return {"categories": SUPPORTED_CATEGORIES}
 
 
 @app.post("/api/classify", response_model=ClassificationResponse)
@@ -288,6 +294,43 @@ def classify_product(request: ClassificationRequest):
     )
 
 
+@app.post("/api/classifier/feedback")
+def submit_classifier_feedback(request: ClassifierFeedbackRequest):
+    if request.target_category not in SUPPORTED_CATEGORIES:
+        raise HTTPException(
+            status_code=status.HTTP_422_UNPROCESSABLE_CONTENT,
+            detail=(
+                "Unsupported classifier category. Choose one of: "
+                f"{', '.join(SUPPORTED_CATEGORIES)}"
+            ),
+        )
+
+    _wait_for_services()
+    service: IPSaktiService = service_container.get("ip_sakti")
+    if not service:
+        raise HTTPException(
+            status_code=status.HTTP_503_SERVICE_UNAVAILABLE,
+            detail="Classification service is not initialized.",
+        )
+
+    try:
+        return service.apply_classifier_feedback(
+            features=request.features.model_dump(),
+            target_category=request.target_category,
+            feedback_id=request.feedback_id,
+        )
+    except ValueError as error:
+        raise HTTPException(
+            status_code=status.HTTP_422_UNPROCESSABLE_CONTENT,
+            detail=str(error),
+        ) from error
+    except Exception as error:
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Classifier update failed: {error}",
+        ) from error
+
+
 @app.post("/api/assessment/insight", response_model=AssessmentInsightResponse)
 def get_assessment_insight(request: AssessmentInsightRequest):
     _wait_for_services()
@@ -318,6 +361,12 @@ def get_assessment_insight(request: AssessmentInsightRequest):
 
 @app.post("/api/rag/query", response_model=RAGQueryResponse)
 def query_rag(request: RAGQueryRequest):
+    if request.category not in SUPPORTED_CATEGORIES:
+        raise HTTPException(
+            status_code=status.HTTP_422_UNPROCESSABLE_CONTENT,
+            detail=f"Unsupported category. Choose one of: {', '.join(SUPPORTED_CATEGORIES)}"
+        )
+
     _wait_for_services()
     service: IPSaktiService = service_container.get("ip_sakti")
     if not service:

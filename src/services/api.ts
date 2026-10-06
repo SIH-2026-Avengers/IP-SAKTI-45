@@ -1,6 +1,9 @@
 import type {
   BackendClassifyRequest,
   BackendClassifyResponse,
+  BackendCategoriesResponse,
+  BackendClassifierFeedbackRequest,
+  BackendClassifierFeedbackResponse,
   BackendInsightRequest,
   BackendInsightResponse,
   BackendRAGRequest,
@@ -8,7 +11,11 @@ import type {
 } from '../types/backendApi';
 
 const rawUrl = (import.meta.env.VITE_API_BASE_URL as string) || 'http://localhost:8000';
-export const API_BASE_URL = rawUrl.trim().replace(/\/+$/, '');
+const configuredUrl = rawUrl.trim();
+const apiUrl = /^https?:\/\//i.test(configuredUrl)
+  ? configuredUrl
+  : `${configuredUrl.includes('localhost') || configuredUrl.startsWith('127.0.0.1') ? 'http' : 'https'}://${configuredUrl}`;
+export const API_BASE_URL = apiUrl.replace(/\/+$/, '');
 
 class ApiError extends Error {
   status: number;
@@ -83,8 +90,19 @@ export const apiService = {
     return requestWithRetry<any>('/api/health');
   },
 
+  async getCategories(): Promise<BackendCategoriesResponse> {
+    return requestWithRetry<BackendCategoriesResponse>('/api/categories');
+  },
+
   async classifyProduct(payload: BackendClassifyRequest): Promise<BackendClassifyResponse> {
     return requestWithRetry<BackendClassifyResponse>('/api/classify', {
+      method: 'POST',
+      body: JSON.stringify(payload)
+    });
+  },
+
+  async updateClassifier(payload: BackendClassifierFeedbackRequest): Promise<BackendClassifierFeedbackResponse> {
+    return requestWithRetry<BackendClassifierFeedbackResponse>('/api/classifier/feedback', {
       method: 'POST',
       body: JSON.stringify(payload)
     });

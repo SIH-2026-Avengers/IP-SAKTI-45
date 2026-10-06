@@ -1,6 +1,8 @@
 # Environment Variables (Keep secrets private)
 .env
 .env.local
+.env.*
+!.env.example
 *.env
 
 # Node & Frontend Build
@@ -49,5 +51,6 @@ Thumbs.db
 # Explicitly ensure models and vectorstore are tracked for GitHub & Render
 !backend/models/
 !backend/models/*.joblib
+!backend/models/*.pkl
 !backend/data/vectorstore/
 !backend/data/vectorstore/**

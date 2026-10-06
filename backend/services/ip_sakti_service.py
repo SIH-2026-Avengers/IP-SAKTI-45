@@ -27,6 +27,13 @@ class IPSaktiService:
             "top_predictions": result["top_predictions"]
         }
 
+    def apply_classifier_feedback(self, features, target_category, feedback_id):
+        return self.classifier.learn_one(
+            features=features,
+            target_category=target_category,
+            feedback_id=feedback_id,
+        )
+
     # =====================================================
     # RAG
     # =====================================================

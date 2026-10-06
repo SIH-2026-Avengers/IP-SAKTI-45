@@ -31,8 +31,10 @@ export const AssessmentDashboard: React.FC<AssessmentDashboardProps> = ({
     confidence,
     topPredictions,
     relevantDomains,
+    latestRagSources,
+    activeRagCategory,
     assessmentInsight,
-    setActiveRagCategory
+    selectRagCategory
   } = useAssessment();
 
   const confidenceScore = Math.round(confidence * 100);
@@ -72,7 +74,7 @@ export const AssessmentDashboard: React.FC<AssessmentDashboardProps> = ({
         />
         <ClassificationDistributionChart
           candidates={topPredictions}
-          onSelectCategory={setActiveRagCategory}
+          onSelectCategory={selectRagCategory}
           className="h-full"
         />
       </div>
@@ -85,7 +87,11 @@ export const AssessmentDashboard: React.FC<AssessmentDashboardProps> = ({
       />
 
       {/* 5. Relevant IP & Regulatory Domains */}
-      <RelevantDomainsSection domains={relevantDomains} />
+      <RelevantDomainsSection
+        domains={relevantDomains}
+        documents={latestRagSources}
+        selectedCategory={activeRagCategory}
+      />
     </div>
   );
 };
